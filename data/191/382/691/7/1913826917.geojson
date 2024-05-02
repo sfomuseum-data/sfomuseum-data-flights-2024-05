@@ -2,10 +2,12 @@
   "id": 1913826917,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-05-01",
+    "date:cessation_upper": "2024-05-01",
     "date:inception_lower": "2024-05-01",
     "date:inception_upper": "2024-05-01",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-05-01",
+    "edtf:cessation": "2024-05-01T05:26:59Z",
+    "edtf:inception": "2024-05-01T02:04:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -110.006986,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B738",
     "icao:airline": "UAL",
     "icao:base_airline": "ANZ",
     "lbl:latitude": 37.617908,
     "lbl:longitude": -122.381084,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20240501-A-ANZ-9118",
@@ -53,6 +57,10 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "84750893",
+      "swim:gufi": "KH85430300"
+    },
     "wof:country": "US",
     "wof:created": 1714666740,
     "wof:geomhash": "62f9f5a2734b9c5938b0b415e9e4a515",
@@ -86,13 +94,14 @@
     ],
     "wof:id": 1913826917,
     "wof:involves": [
+      1159283697,
+      1159289871,
       102527513,
       102521851,
       1159285413,
-      1763588149,
-      1159283697
+      1763588149
     ],
-    "wof:lastmodified": 1714666740,
+    "wof:lastmodified": 1714668117,
     "wof:name": "UA694 (AUS-SFO)",
     "wof:parent_id": 1763588149,
     "wof:placetype": "custom",
