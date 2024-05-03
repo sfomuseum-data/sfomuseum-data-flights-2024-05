@@ -2,10 +2,12 @@
   "id": 1913834507,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-05-02",
+    "date:cessation_upper": "2024-05-02",
     "date:inception_lower": "2024-05-02",
     "date:inception_upper": "2024-05-02",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-05-02",
+    "edtf:cessation": "2024-05-02T20:51:29Z",
+    "edtf:inception": "2024-05-02T09:53:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DE",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1763588369,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "84868771"
+    },
     "wof:country": "US",
     "wof:created": 1714752602,
     "wof:geomhash": "ec6660f1f317e7fe021c7c410168f722",
@@ -92,7 +97,7 @@
       1763588401,
       1159283813
     ],
-    "wof:lastmodified": 1714752602,
+    "wof:lastmodified": 1714754622,
     "wof:name": "DE2096 (FRA-SFO)",
     "wof:parent_id": 1763588401,
     "wof:placetype": "custom",

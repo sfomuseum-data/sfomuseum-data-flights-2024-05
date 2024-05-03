@@ -2,10 +2,12 @@
   "id": 1913839071,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-05-02",
+    "date:cessation_upper": "2024-05-02",
     "date:inception_lower": "2024-05-02",
     "date:inception_upper": "2024-05-02",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-05-02",
+    "edtf:cessation": "2024-05-02T20:15:32Z",
+    "edtf:inception": "2024-05-02T07:16:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "BR",
     "flysfo:date": "2024-05-02",
@@ -21,9 +23,11 @@
     "geom:latitude": 31.348278,
     "geom:longitude": -0.5688954999999964,
     "iata:airline": "BR",
+    "icao:aircraft": "B77W",
     "icao:airline": "EVA",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289993,
     "sfomuseum:airline_id": 1159284349,
     "sfomuseum:arrival_id": 102551487,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "B16740",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -48,6 +57,9 @@
       1763588369,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "84969708"
+    },
     "wof:country": "US",
     "wof:created": 1714753982,
     "wof:geomhash": "ec4a8fe4d0e09d37ae50bf109072b003",
@@ -81,12 +93,13 @@
     ],
     "wof:id": 1913839071,
     "wof:involves": [
+      1159289993,
       102551487,
       102527513,
       1159284349,
       1763588401
     ],
-    "wof:lastmodified": 1714753982,
+    "wof:lastmodified": 1714754632,
     "wof:name": "BR1027 (SFO-TPE)",
     "wof:parent_id": 1763588401,
     "wof:placetype": "custom",
