@@ -2,10 +2,12 @@
   "id": 1913844011,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-05-04",
+    "date:cessation_upper": "2024-05-04",
     "date:inception_lower": "2024-05-03",
     "date:inception_upper": "2024-05-03",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-05-03",
+    "edtf:cessation": "2024-05-04T01:22:25Z",
+    "edtf:inception": "2024-05-03T23:35:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "85059040"
+    },
     "wof:country": "US",
     "wof:created": 1714838836,
     "wof:geomhash": "3123a4aff4021144fa8973299956ba97",
@@ -92,7 +97,7 @@
       1763588131,
       1159283849
     ],
-    "wof:lastmodified": 1714838836,
+    "wof:lastmodified": 1714841320,
     "wof:name": "AS1140 (SEA-SFO)",
     "wof:parent_id": 1763588131,
     "wof:placetype": "custom",

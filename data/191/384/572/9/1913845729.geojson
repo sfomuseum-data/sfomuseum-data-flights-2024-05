@@ -2,10 +2,12 @@
   "id": 1913845729,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-05-04",
+    "date:cessation_upper": "2024-05-04",
     "date:inception_lower": "2024-05-03",
     "date:inception_upper": "2024-05-03",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-05-03",
+    "edtf:cessation": "2024-05-04T03:09:06Z",
+    "edtf:inception": "2024-05-03T12:52:50Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "SQ",
     "flysfo:date": "2024-05-03",
@@ -48,6 +50,9 @@
       1763588369,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "84985967"
+    },
     "wof:country": "US",
     "wof:created": 1714839672,
     "wof:geomhash": "b883d8e3c3c604f714c4dc756f6c1133",
@@ -86,7 +91,7 @@
       1159286259,
       1763588461
     ],
-    "wof:lastmodified": 1714839672,
+    "wof:lastmodified": 1714841307,
     "wof:name": "SQ34 (SIN-SFO)",
     "wof:parent_id": 1763588461,
     "wof:placetype": "custom",
