@@ -2,10 +2,12 @@
   "id": 1913858641,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-05-05",
+    "date:cessation_upper": "2024-05-05",
     "date:inception_lower": "2024-05-05",
     "date:inception_upper": "2024-05-05",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-05-05",
+    "edtf:cessation": "2024-05-05T15:50:15Z",
+    "edtf:inception": "2024-05-05T14:44:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -119.778435,
     "iata:airline": "AS",
     "iata:base_airline": "",
+    "icao:aircraft": "B738",
     "icao:airline": "ASA",
     "icao:base_airline": "AAL",
     "lbl:latitude": 37.617101,
     "lbl:longitude": -122.382233,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159283813,
     "sfomuseum:arrival_id": 102528997,
     "sfomuseum:base_flight_id": "20240505-D-AAL-9324",
@@ -53,6 +57,10 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "85201324",
+      "swim:gufi": "KO49216100"
+    },
     "wof:country": "US",
     "wof:created": 1715012898,
     "wof:geomhash": "25f5345529d944df781e36098260a435",
@@ -90,9 +98,10 @@
       102527513,
       1159283813,
       1763588127,
-      1159283849
+      1159283849,
+      1159289871
     ],
-    "wof:lastmodified": 1715012898,
+    "wof:lastmodified": 1715013755,
     "wof:name": "AS716 (SFO-SAN)",
     "wof:parent_id": 1763588127,
     "wof:placetype": "custom",

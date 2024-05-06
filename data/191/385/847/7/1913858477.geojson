@@ -2,10 +2,12 @@
   "id": 1913858477,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-05-05",
+    "date:cessation_upper": "2024-05-05",
     "date:inception_lower": "2024-05-05",
     "date:inception_upper": "2024-05-05",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-05-05",
+    "edtf:cessation": "2024-05-05T17:35:00Z",
+    "edtf:inception": "2024-05-05T15:42:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -122.3376055,
     "iata:airline": "AS",
     "iata:base_airline": "",
+    "icao:aircraft": "B39M",
     "icao:airline": "ASA",
     "icao:base_airline": "QTR",
     "lbl:latitude": 37.616825,
     "lbl:longitude": -122.381021,
+    "sfomuseum:aircraft_id": 1528104577,
     "sfomuseum:airline_id": 1159283813,
     "sfomuseum:arrival_id": 102533269,
     "sfomuseum:base_flight_id": "20240505-D-QTR-2148",
@@ -53,6 +57,10 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "85202816",
+      "swim:gufi": "KO50471101"
+    },
     "wof:country": "US",
     "wof:created": 1715012848,
     "wof:geomhash": "4036ee3c983703867dbe0486453848b1",
@@ -86,13 +94,14 @@
     ],
     "wof:id": 1913858477,
     "wof:involves": [
-      102533269,
-      102527513,
       1159283813,
       1763588137,
-      1159286153
+      1159286153,
+      1528104577,
+      102533269,
+      102527513
     ],
-    "wof:lastmodified": 1715012848,
+    "wof:lastmodified": 1715013742,
     "wof:name": "AS1123 (SFO-SEA)",
     "wof:parent_id": 1763588137,
     "wof:placetype": "custom",

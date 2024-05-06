@@ -2,10 +2,12 @@
   "id": 1913854461,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-05-05",
+    "date:cessation_upper": "2024-05-05",
     "date:inception_lower": "2024-05-05",
     "date:inception_upper": "2024-05-05",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-05-05",
+    "edtf:cessation": "2024-05-05T19:02:18Z",
+    "edtf:inception": "2024-05-05T17:30:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "85208797"
+    },
     "wof:country": "US",
     "wof:created": 1715011623,
     "wof:geomhash": "3123a4aff4021144fa8973299956ba97",
@@ -92,7 +97,7 @@
       1763588135,
       1159283849
     ],
-    "wof:lastmodified": 1715011623,
+    "wof:lastmodified": 1715013733,
     "wof:name": "AS1132 (SEA-SFO)",
     "wof:parent_id": 1763588135,
     "wof:placetype": "custom",

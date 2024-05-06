@@ -2,10 +2,12 @@
   "id": 1913856513,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2024-05-05",
-    "date:inception_upper": "2024-05-05",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-05-05",
+    "date:cessation_lower": "2024-05-06",
+    "date:cessation_upper": "2024-05-06",
+    "date:inception_lower": "2024-05-06",
+    "date:inception_upper": "2024-05-06",
+    "edtf:cessation": "2024-05-06T02:35:00Z",
+    "edtf:inception": "2024-05-06T00:50:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -122.7750715,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "A320",
     "icao:airline": "UAL",
     "icao:base_airline": "ACA",
     "lbl:latitude": 37.617921,
     "lbl:longitude": -122.38181,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20240505-A-ACA-3011",
@@ -39,6 +43,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +61,10 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "85166957",
+      "swim:gufi": "KS85529100"
+    },
     "wof:country": "US",
     "wof:created": 1715012247,
     "wof:geomhash": "e68490b7b9257816408c117e0e15f8ec",
@@ -90,9 +102,10 @@
       102555307,
       1159285413,
       1763588159,
-      1159283597
+      1159283597,
+      1159292085
     ],
-    "wof:lastmodified": 1715012247,
+    "wof:lastmodified": 1715013753,
     "wof:name": "UA1230 (YVR-SFO)",
     "wof:parent_id": 1763588159,
     "wof:placetype": "custom",

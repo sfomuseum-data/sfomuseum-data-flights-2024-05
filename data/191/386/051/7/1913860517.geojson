@@ -2,10 +2,12 @@
   "id": 1913860517,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-05-06",
+    "date:cessation_upper": "2024-05-06",
     "date:inception_lower": "2024-05-05",
     "date:inception_upper": "2024-05-05",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-05-05",
+    "edtf:cessation": "2024-05-06T00:55:17Z",
+    "edtf:inception": "2024-05-05T23:59:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -120.38022649999999,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B38M",
     "icao:airline": "UAL",
     "icao:base_airline": "ANA",
     "lbl:latitude": 37.619367,
     "lbl:longitude": -122.38387,
+    "sfomuseum:aircraft_id": 1528104575,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102533795,
     "sfomuseum:base_flight_id": "20240505-D-ANA-7354",
@@ -39,6 +43,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
+    "swim:tail_number": "N47340",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +61,10 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "85247475",
+      "swim:gufi": "KO74466100"
+    },
     "wof:country": "US",
     "wof:created": 1715013465,
     "wof:geomhash": "602be2a828e3460cadf44be5b1c2e36b",
@@ -86,13 +98,14 @@
     ],
     "wof:id": 1913860517,
     "wof:involves": [
+      1528104575,
       102533795,
       102527513,
       1159285413,
       1763588353,
       1159283875
     ],
-    "wof:lastmodified": 1715013465,
+    "wof:lastmodified": 1715013729,
     "wof:name": "UA1413 (SFO-LAX)",
     "wof:parent_id": 1763588353,
     "wof:placetype": "custom",

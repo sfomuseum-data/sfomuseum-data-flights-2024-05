@@ -2,10 +2,12 @@
   "id": 1913860621,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-05-05",
+    "date:cessation_upper": "2024-05-05",
     "date:inception_lower": "2024-05-05",
     "date:inception_upper": "2024-05-05",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-05-05",
+    "edtf:cessation": "2024-05-05T10:37:00Z",
+    "edtf:inception": "2024-05-05T06:05:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -101.83923999999999,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B753",
     "icao:airline": "UAL",
     "icao:base_airline": "ANZ",
     "lbl:latitude": 37.620058,
     "lbl:longitude": -122.38824,
+    "sfomuseum:aircraft_id": 1159289945,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102533657,
     "sfomuseum:base_flight_id": "20240505-D-ANZ-9292",
@@ -53,6 +57,10 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "85178871",
+      "swim:gufi": "KO11886100"
+    },
     "wof:country": "US",
     "wof:created": 1715013496,
     "wof:geomhash": "33c9625a4901edf29154e5ec4b308b8b",
@@ -86,13 +94,14 @@
     ],
     "wof:id": 1913860621,
     "wof:involves": [
-      102533657,
-      102527513,
       1159285413,
       1763588311,
-      1159283697
+      1159283697,
+      1159289945,
+      102533657,
+      102527513
     ],
-    "wof:lastmodified": 1715013496,
+    "wof:lastmodified": 1715013730,
     "wof:name": "UA2097 (SFO-MCO)",
     "wof:parent_id": 1763588311,
     "wof:placetype": "custom",

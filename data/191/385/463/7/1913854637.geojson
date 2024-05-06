@@ -2,10 +2,12 @@
   "id": 1913854637,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2024-05-05",
-    "date:inception_upper": "2024-05-05",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-05-05",
+    "date:cessation_lower": "2024-05-05",
+    "date:cessation_upper": "2024-05-05",
+    "date:inception_lower": "2024-05-06",
+    "date:inception_upper": "2024-05-06",
+    "edtf:cessation": "2024-05-05T05:49:28Z",
+    "edtf:inception": "2024-05-06T00:21:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -140.1446795,
     "iata:airline": "AS",
     "iata:base_airline": "",
+    "icao:aircraft": "B739",
     "icao:airline": "ASA",
     "icao:base_airline": "AAL",
     "lbl:latitude": 37.616969,
     "lbl:longitude": -122.381363,
+    "sfomuseum:aircraft_id": 1377564285,
     "sfomuseum:airline_id": 1159283813,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20240505-A-AAL-7409",
@@ -39,6 +43,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +61,9 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "85215062"
+    },
     "wof:country": "US",
     "wof:created": 1715011678,
     "wof:geomhash": "1ad63fa22de9103ed4396c0ca683f63f",
@@ -86,13 +97,14 @@
     ],
     "wof:id": 1913854637,
     "wof:involves": [
+      1377564285,
       102527513,
       102533997,
       1159283813,
       1763588135,
       1159283849
     ],
-    "wof:lastmodified": 1715011678,
+    "wof:lastmodified": 1715013734,
     "wof:name": "AS876 (HNL-SFO)",
     "wof:parent_id": 1763588135,
     "wof:placetype": "custom",

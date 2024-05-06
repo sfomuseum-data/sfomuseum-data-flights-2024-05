@@ -2,10 +2,12 @@
   "id": 1913860677,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-05-05",
+    "date:cessation_upper": "2024-05-05",
     "date:inception_lower": "2024-05-05",
     "date:inception_upper": "2024-05-05",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-05-05",
+    "edtf:cessation": "2024-05-05T21:02:00Z",
+    "edtf:inception": "2024-05-05T16:29:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -100.580671,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "A320",
     "icao:airline": "UAL",
     "icao:base_airline": "ANZ",
     "lbl:latitude": 37.620058,
     "lbl:longitude": -122.38824,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102528779,
     "sfomuseum:base_flight_id": "20240505-D-ANZ-9569",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N422UA",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +62,10 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "85209430",
+      "swim:gufi": "KO51279100"
+    },
     "wof:country": "US",
     "wof:created": 1715013513,
     "wof:geomhash": "739cf7062aa24bbf1662c0bae366af8d",
@@ -86,13 +99,14 @@
     ],
     "wof:id": 1913860677,
     "wof:involves": [
+      1159283697,
+      1159292085,
       102528779,
       102527513,
       1159285413,
-      1763588311,
-      1159283697
+      1763588311
     ],
-    "wof:lastmodified": 1715013513,
+    "wof:lastmodified": 1715013731,
     "wof:name": "UA2492 (SFO-RDU)",
     "wof:parent_id": 1763588311,
     "wof:placetype": "custom",
