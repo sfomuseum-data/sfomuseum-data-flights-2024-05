@@ -2,10 +2,12 @@
   "id": 1913864613,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-05-06",
+    "date:cessation_upper": "2024-05-06",
     "date:inception_lower": "2024-05-06",
     "date:inception_upper": "2024-05-06",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-05-06",
+    "edtf:cessation": "2024-05-06T21:43:44Z",
+    "edtf:inception": "2024-05-06T10:36:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DE",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1763588369,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "85268791"
+    },
     "wof:country": "US",
     "wof:created": 1715098215,
     "wof:geomhash": "ec6660f1f317e7fe021c7c410168f722",
@@ -92,7 +97,7 @@
       1763588417,
       1159283813
     ],
-    "wof:lastmodified": 1715098215,
+    "wof:lastmodified": 1715100147,
     "wof:name": "DE2092 (FRA-SFO)",
     "wof:parent_id": 1763588417,
     "wof:placetype": "custom",

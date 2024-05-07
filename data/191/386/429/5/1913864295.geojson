@@ -2,10 +2,12 @@
   "id": 1913864295,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-05-07",
+    "date:cessation_upper": "2024-05-07",
     "date:inception_lower": "2024-05-06",
     "date:inception_upper": "2024-05-06",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-05-06",
+    "edtf:cessation": "2024-05-07T01:43:50Z",
+    "edtf:inception": "2024-05-06T23:37:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:date": "2024-05-06",
@@ -21,9 +23,11 @@
     "geom:latitude": 35.525337,
     "geom:longitude": -117.19416749999999,
     "iata:airline": "AS",
+    "icao:aircraft": "B39M",
     "icao:airline": "ASA",
     "lbl:latitude": 37.617421,
     "lbl:longitude": -122.380916,
+    "sfomuseum:aircraft_id": 1528104577,
     "sfomuseum:airline_id": 1159283813,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102526751,
@@ -48,6 +52,10 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "85332864",
+      "swim:gufi": "KA80171200"
+    },
     "wof:country": "US",
     "wof:created": 1715098114,
     "wof:geomhash": "c9fdc5df38b6a105de4fe30ae6ada830",
@@ -81,12 +89,13 @@
     ],
     "wof:id": 1913864295,
     "wof:involves": [
-      102527513,
-      102526751,
       1159283813,
-      1763588145
+      1763588145,
+      1528104577,
+      102527513,
+      102526751
     ],
-    "wof:lastmodified": 1715098114,
+    "wof:lastmodified": 1715100146,
     "wof:name": "AS558 (PHX-SFO)",
     "wof:parent_id": 1763588145,
     "wof:placetype": "custom",
