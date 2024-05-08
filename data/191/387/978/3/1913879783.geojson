@@ -2,10 +2,12 @@
   "id": 1913879783,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-05-08",
+    "date:cessation_upper": "2024-05-08",
     "date:inception_lower": "2024-05-07",
     "date:inception_upper": "2024-05-07",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-05-07",
+    "edtf:cessation": "2024-05-08T10:16:43Z",
+    "edtf:inception": "2024-05-07T23:58:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "TP",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -65.753267,
     "iata:airline": "TP",
     "iata:base_airline": "",
+    "icao:aircraft": "A339",
     "icao:airline": "TAP",
     "icao:base_airline": "JBU",
     "lbl:latitude": 37.613288,
     "lbl:longitude": -122.389396,
+    "sfomuseum:aircraft_id": 1393786509,
     "sfomuseum:airline_id": 1159285271,
     "sfomuseum:arrival_id": 102535643,
     "sfomuseum:base_flight_id": "20240507-D-JBU-6762",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "CSTUL",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +62,9 @@
       1763588369,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "85421959"
+    },
     "wof:country": "US",
     "wof:created": 1715186213,
     "wof:geomhash": "d52bb0a5cfa06eebb6a938b29d78a44d",
@@ -86,13 +98,14 @@
     ],
     "wof:id": 1913879783,
     "wof:involves": [
-      102535643,
-      102527513,
       1159285271,
       1763588409,
-      1159284583
+      1159284583,
+      1393786509,
+      102535643,
+      102527513
     ],
-    "wof:lastmodified": 1715186213,
+    "wof:lastmodified": 1715186592,
     "wof:name": "TP238 (SFO-LIS)",
     "wof:parent_id": 1763588409,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 1913878191,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-05-07",
+    "date:cessation_upper": "2024-05-07",
     "date:inception_lower": "2024-05-07",
     "date:inception_upper": "2024-05-07",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-05-07",
+    "edtf:cessation": "2024-05-07T23:45:10Z",
+    "edtf:inception": "2024-05-07T18:59:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -39,6 +41,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +58,9 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "85394126"
+    },
     "wof:country": "US",
     "wof:created": 1715185726,
     "wof:geomhash": "ff961493fc59fc665836e174da62aa8e",
@@ -92,7 +100,7 @@
       1763588141,
       1159283849
     ],
-    "wof:lastmodified": 1715185726,
+    "wof:lastmodified": 1715186591,
     "wof:name": "AS877 (SFO-HNL)",
     "wof:parent_id": 1763588141,
     "wof:placetype": "custom",
