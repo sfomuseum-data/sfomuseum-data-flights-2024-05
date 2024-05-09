@@ -1,0 +1,69 @@
+{
+  "id": 1913886199,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2024-05-08",
+    "date:inception_upper": "2024-05-08",
+    "edtf:cessation": "",
+    "edtf:inception": "2024-05-08",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "AA",
+    "flysfo:date": "2024-05-08",
+    "flysfo:estimated_timestamp": 1715237520,
+    "flysfo:event": "D",
+    "flysfo:flight_number": "AA673",
+    "flysfo:gate": "",
+    "flysfo:journey": "SFO-CLT",
+    "flysfo:scheduled_timestamp": 1715237520,
+    "flysfo:timestamp": 1715237520,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,35.220744,-80.942777,37.617990",
+    "geom:latitude": 36.419367,
+    "geom:longitude": -101.65686,
+    "iata:airline": "AA",
+    "icao:airline": "AAL",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159283849,
+    "sfomuseum:arrival_id": 102528659,
+    "sfomuseum:departure_id": 102527513,
+    "sfomuseum:flight_id": "20240508-D-AAL-673",
+    "sfomuseum:flight_number": [
+      "AAL673",
+      "AA673"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1715271708,
+    "wof:geomhash": "6d7202e034534315a50103622977ef57",
+    "wof:hierarchy": [
+      {
+        "flight_id": 1913886199
+      }
+    ],
+    "wof:id": 1913886199,
+    "wof:involves": [
+      102528659,
+      102527513,
+      1159283849,
+      -1
+    ],
+    "wof:lastmodified": 1715271708,
+    "wof:name": "AA673 (SFO-CLT)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "flight",
+    "wof:repo": "sfomuseum-data-flights-2024-05",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    35.220744,
+    -80.942777,
+    37.61799
+  ],
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-80.942777,35.220744]],"type":"MultiPoint"}
+}
