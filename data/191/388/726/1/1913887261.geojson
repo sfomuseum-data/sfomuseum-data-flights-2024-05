@@ -2,10 +2,12 @@
   "id": 1913887261,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-05-08",
+    "date:cessation_upper": "2024-05-08",
     "date:inception_lower": "2024-05-08",
     "date:inception_upper": "2024-05-08",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-05-08",
+    "edtf:cessation": "2024-05-08T22:39:43Z",
+    "edtf:inception": "2024-05-08T17:51:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -98.07939400000001,
     "iata:airline": "AS",
     "iata:base_airline": "",
+    "icao:aircraft": "B39M",
     "icao:airline": "ASA",
     "icao:base_airline": "QTR",
     "lbl:latitude": 37.616838,
     "lbl:longitude": -122.380969,
+    "sfomuseum:aircraft_id": 1528104577,
     "sfomuseum:airline_id": 1159283813,
     "sfomuseum:arrival_id": 102534365,
     "sfomuseum:base_flight_id": "20240508-D-QTR-4283",
@@ -53,6 +57,10 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "85484830",
+      "swim:gufi": "KO60012400"
+    },
     "wof:country": "US",
     "wof:created": 1715272029,
     "wof:geomhash": "1348792a172720778d3219cc18ccd8ee",
@@ -86,13 +94,14 @@
     ],
     "wof:id": 1913887261,
     "wof:involves": [
+      1763588139,
+      1159286153,
+      1528104577,
       102534365,
       102527513,
-      1159283813,
-      1763588139,
-      1159286153
+      1159283813
     ],
-    "wof:lastmodified": 1715272029,
+    "wof:lastmodified": 1715272900,
     "wof:name": "AS30 (SFO-JFK)",
     "wof:parent_id": 1763588139,
     "wof:placetype": "custom",
