@@ -2,10 +2,12 @@
   "id": 1913896407,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-05-09",
+    "date:cessation_upper": "2024-05-09",
     "date:inception_lower": "2024-05-09",
     "date:inception_upper": "2024-05-09",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-05-09",
+    "edtf:cessation": "2024-05-09T23:43:40Z",
+    "edtf:inception": "2024-05-09T20:18:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AM",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1763588369,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "85599676"
+    },
     "wof:country": "US",
     "wof:created": 1715358413,
     "wof:geomhash": "c9806dbd281b9c6ccae24134b59a20cd",
@@ -92,7 +97,7 @@
       1763588427,
       1159284261
     ],
-    "wof:lastmodified": 1715358413,
+    "wof:lastmodified": 1715359513,
     "wof:name": "AM623 (SFO-GDL)",
     "wof:parent_id": 1763588427,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 1913897539,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-05-09",
+    "date:cessation_upper": "2024-05-09",
     "date:inception_lower": "2024-05-09",
     "date:inception_upper": "2024-05-09",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-05-09",
+    "edtf:cessation": "2024-05-09T14:23:00Z",
+    "edtf:inception": "2024-05-09T13:26:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -120.38022649999999,
     "iata:airline": "DL",
     "iata:base_airline": "",
+    "icao:aircraft": "A319",
     "icao:airline": "DAL",
     "icao:base_airline": "AMX",
     "lbl:latitude": 37.614645,
     "lbl:longitude": -122.382263,
+    "sfomuseum:aircraft_id": 1159289407,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102533795,
     "sfomuseum:base_flight_id": "20240509-D-AMX-4089",
@@ -39,6 +43,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
+    "swim:tail_number": "N365NB",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +61,10 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "85558247",
+      "swim:gufi": "KO44461500"
+    },
     "wof:country": "US",
     "wof:created": 1715358773,
     "wof:geomhash": "602be2a828e3460cadf44be5b1c2e36b",
@@ -86,13 +98,14 @@
     ],
     "wof:id": 1913897539,
     "wof:involves": [
+      1763588253,
+      1159283539,
+      1159289407,
       102533795,
       102527513,
-      1159284261,
-      1763588253,
-      1159283539
+      1159284261
     ],
-    "wof:lastmodified": 1715358773,
+    "wof:lastmodified": 1715359517,
     "wof:name": "DL2841 (SFO-LAX)",
     "wof:parent_id": 1763588253,
     "wof:placetype": "custom",
