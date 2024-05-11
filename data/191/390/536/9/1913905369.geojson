@@ -1,0 +1,69 @@
+{
+  "id": 1913905369,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2024-05-10",
+    "date:inception_upper": "2024-05-10",
+    "edtf:cessation": "",
+    "edtf:inception": "2024-05-10",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "AA",
+    "flysfo:date": "2024-05-10",
+    "flysfo:estimated_timestamp": 1715372400,
+    "flysfo:event": "D",
+    "flysfo:flight_number": "AA9785",
+    "flysfo:gate": "",
+    "flysfo:journey": "SFO-CLT",
+    "flysfo:scheduled_timestamp": 1715365200,
+    "flysfo:timestamp": 1715372400,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,35.220744,-80.942777,37.617990",
+    "geom:latitude": 36.419367,
+    "geom:longitude": -101.65686,
+    "iata:airline": "AA",
+    "icao:airline": "AAL",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159283849,
+    "sfomuseum:arrival_id": 102528659,
+    "sfomuseum:departure_id": 102527513,
+    "sfomuseum:flight_id": "20240510-D-AAL-9785",
+    "sfomuseum:flight_number": [
+      "AAL9785",
+      "AA9785"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1715444571,
+    "wof:geomhash": "6d7202e034534315a50103622977ef57",
+    "wof:hierarchy": [
+      {
+        "flight_id": 1913905369
+      }
+    ],
+    "wof:id": 1913905369,
+    "wof:involves": [
+      102528659,
+      102527513,
+      1159283849,
+      -1
+    ],
+    "wof:lastmodified": 1715444571,
+    "wof:name": "AA9785 (SFO-CLT)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "flight",
+    "wof:repo": "sfomuseum-data-flights-2024-05",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    35.220744,
+    -80.942777,
+    37.61799
+  ],
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-80.942777,35.220744]],"type":"MultiPoint"}
+}
