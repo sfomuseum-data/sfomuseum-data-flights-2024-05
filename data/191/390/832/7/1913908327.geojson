@@ -2,10 +2,12 @@
   "id": 1913908327,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-05-10",
+    "date:cessation_upper": "2024-05-10",
     "date:inception_lower": "2024-05-10",
     "date:inception_upper": "2024-05-10",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-05-10",
+    "edtf:cessation": "2024-05-10T22:02:00Z",
+    "edtf:inception": "2024-05-10T20:25:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -122.3376055,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "A319",
     "icao:airline": "UAL",
     "icao:base_airline": "ANA",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289407,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102533269,
     "sfomuseum:base_flight_id": "20240510-D-ANA-7326",
@@ -39,6 +43,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
+    "swim:tail_number": "N843UA",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +61,10 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "85705096",
+      "swim:gufi": "KO61861600"
+    },
     "wof:country": "US",
     "wof:created": 1715445465,
     "wof:geomhash": "4036ee3c983703867dbe0486453848b1",
@@ -86,13 +98,14 @@
     ],
     "wof:id": 1913908327,
     "wof:involves": [
-      102533269,
-      102527513,
       1159285413,
       1763588291,
-      1159283875
+      1159283875,
+      1159289407,
+      102533269,
+      102527513
     ],
-    "wof:lastmodified": 1715445465,
+    "wof:lastmodified": 1715445763,
     "wof:name": "UA1376 (SFO-SEA)",
     "wof:parent_id": 1763588291,
     "wof:placetype": "custom",

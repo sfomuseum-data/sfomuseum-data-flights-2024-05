@@ -2,10 +2,12 @@
   "id": 1913906885,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-05-11",
+    "date:cessation_upper": "2024-05-11",
     "date:inception_lower": "2024-05-10",
     "date:inception_upper": "2024-05-10",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-05-10",
+    "edtf:cessation": "2024-05-11T01:52:41Z",
+    "edtf:inception": "2024-05-10T21:48:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -103.4008145,
     "iata:airline": "DL",
     "iata:base_airline": "",
+    "icao:aircraft": "B739",
     "icao:airline": "DAL",
     "icao:base_airline": "KAL",
     "lbl:latitude": 37.614676,
     "lbl:longitude": -122.38248,
+    "sfomuseum:aircraft_id": 1377564285,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102526927,
     "sfomuseum:base_flight_id": "20240510-D-KAL-3644",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N830DN",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +62,10 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "85710421",
+      "swim:gufi": "KO71641600"
+    },
     "wof:country": "US",
     "wof:created": 1715445030,
     "wof:geomhash": "8306f5516cededf93440c49d2c7be198",
@@ -90,9 +103,10 @@
       102527513,
       1159284261,
       1763588247,
-      1159284625
+      1159284625,
+      1377564285
     ],
-    "wof:lastmodified": 1715445030,
+    "wof:lastmodified": 1715445759,
     "wof:name": "DL355 (SFO-ATL)",
     "wof:parent_id": 1763588247,
     "wof:placetype": "custom",

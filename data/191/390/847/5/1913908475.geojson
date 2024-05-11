@@ -2,10 +2,12 @@
   "id": 1913908475,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-05-10",
+    "date:cessation_upper": "2024-05-10",
     "date:inception_lower": "2024-05-10",
     "date:inception_upper": "2024-05-10",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-05-10",
+    "edtf:cessation": "2024-05-10T18:37:36Z",
+    "edtf:inception": "2024-05-10T17:51:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -121.104038,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B38M",
     "icao:airline": "UAL",
     "icao:base_airline": "ACA",
     "lbl:latitude": 37.618678,
     "lbl:longitude": -122.385955,
+    "sfomuseum:aircraft_id": 1528104575,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527337,
     "sfomuseum:base_flight_id": "20240510-D-ACA-4058",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N47288",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +62,10 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "85689182",
+      "swim:gufi": "KO45382600"
+    },
     "wof:country": "US",
     "wof:created": 1715445511,
     "wof:geomhash": "1d9a5fa2c9575ebb155d9645f1016c57",
@@ -90,9 +103,10 @@
       102527513,
       1159285413,
       1763588279,
-      1159283597
+      1159283597,
+      1528104575
     ],
-    "wof:lastmodified": 1715445511,
+    "wof:lastmodified": 1715445763,
     "wof:name": "UA2367 (SFO-SBA)",
     "wof:parent_id": 1763588279,
     "wof:placetype": "custom",

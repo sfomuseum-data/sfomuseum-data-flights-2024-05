@@ -2,10 +2,12 @@
   "id": 1913901173,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2024-05-10",
-    "date:inception_upper": "2024-05-10",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-05-10",
+    "date:cessation_lower": "2024-05-11",
+    "date:cessation_upper": "2024-05-11",
+    "date:inception_lower": "2024-05-11",
+    "date:inception_upper": "2024-05-11",
+    "edtf:cessation": "2024-05-11T05:02:00Z",
+    "edtf:inception": "2024-05-11T04:06:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -120.38022649999999,
     "iata:airline": "AA",
     "iata:base_airline": "",
+    "icao:aircraft": "A319",
     "icao:airline": "AAL",
     "icao:base_airline": "FIN",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289407,
     "sfomuseum:airline_id": 1159283849,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20240510-A-FIN-4125",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N177XF",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +62,10 @@
       1763588175,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "85639087",
+      "swim:gufi": "KL09821700"
+    },
     "wof:country": "US",
     "wof:created": 1715443272,
     "wof:geomhash": "f16008bc2ad68c6d1bc593247c6c74a9",
@@ -86,13 +99,14 @@
     ],
     "wof:id": 1913901173,
     "wof:involves": [
+      1159289407,
       102527513,
       102533795,
       1159283849,
       1763588229,
       1159284389
     ],
-    "wof:lastmodified": 1715443272,
+    "wof:lastmodified": 1715445742,
     "wof:name": "AA1432 (LAX-SFO)",
     "wof:parent_id": 1763588229,
     "wof:placetype": "custom",
