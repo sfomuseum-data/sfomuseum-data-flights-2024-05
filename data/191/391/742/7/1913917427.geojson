@@ -2,10 +2,12 @@
   "id": 1913917427,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-05-11",
+    "date:cessation_upper": "2024-05-11",
     "date:inception_lower": "2024-05-11",
     "date:inception_upper": "2024-05-11",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-05-11",
+    "edtf:cessation": "2024-05-11T21:32:25Z",
+    "edtf:inception": "2024-05-11T20:22:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2024-05-11",
@@ -21,9 +23,11 @@
     "geom:latitude": 40.9389005,
     "geom:longitude": -121.76404,
     "iata:airline": "UA",
+    "icao:aircraft": "A320",
     "icao:airline": "UAL",
     "lbl:latitude": 37.617477,
     "lbl:longitude": -122.388302,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102530507,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N475UA",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -48,6 +57,10 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "85792449",
+      "swim:gufi": "KO51267700"
+    },
     "wof:country": "US",
     "wof:created": 1715531878,
     "wof:geomhash": "398b6cf59cf3bdf390f5834c7a336099",
@@ -81,12 +94,13 @@
     ],
     "wof:id": 1913917427,
     "wof:involves": [
-      102530507,
       102527513,
       1159285413,
-      1763588283
+      1763588283,
+      1159292085,
+      102530507
     ],
-    "wof:lastmodified": 1715531878,
+    "wof:lastmodified": 1715532156,
     "wof:name": "UA1314 (SFO-RDM)",
     "wof:parent_id": 1763588283,
     "wof:placetype": "custom",
