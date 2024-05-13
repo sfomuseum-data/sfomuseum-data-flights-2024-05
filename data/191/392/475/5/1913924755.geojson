@@ -2,10 +2,12 @@
   "id": 1913924755,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-05-12",
+    "date:cessation_upper": "2024-05-12",
     "date:inception_lower": "2024-05-12",
     "date:inception_upper": "2024-05-12",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-05-12",
+    "edtf:cessation": "2024-05-12T23:46:42Z",
+    "edtf:inception": "2024-05-12T21:08:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -116.044202,
     "iata:airline": "AS",
     "iata:base_airline": "",
+    "icao:aircraft": "B39M",
     "icao:airline": "ASA",
     "icao:base_airline": "SIA",
     "lbl:latitude": 37.61705,
     "lbl:longitude": -122.380838,
+    "sfomuseum:aircraft_id": 1528104577,
     "sfomuseum:airline_id": 1159283813,
     "sfomuseum:arrival_id": 102536441,
     "sfomuseum:base_flight_id": "20240512-D-SIA-1750",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N969AK",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +62,9 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "85941928"
+    },
     "wof:country": "US",
     "wof:created": 1715617727,
     "wof:geomhash": "7babf6b9ba279da48525185e0724d212",
@@ -86,13 +98,14 @@
     ],
     "wof:id": 1913924755,
     "wof:involves": [
-      102536441,
-      102527513,
       1159283813,
       1763588141,
-      1159286259
+      1159286259,
+      1528104577,
+      102536441,
+      102527513
     ],
-    "wof:lastmodified": 1715617727,
+    "wof:lastmodified": 1715618643,
     "wof:name": "AS1342 (SFO-SJD)",
     "wof:parent_id": 1763588141,
     "wof:placetype": "custom",

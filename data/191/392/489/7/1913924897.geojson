@@ -2,10 +2,12 @@
   "id": 1913924897,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-05-12",
+    "date:cessation_upper": "2024-05-12",
     "date:inception_lower": "2024-05-12",
     "date:inception_upper": "2024-05-12",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-05-12",
+    "edtf:cessation": "2024-05-12T18:21:57Z",
+    "edtf:inception": "2024-05-12T16:50:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:date": "2024-05-12",
@@ -21,9 +23,11 @@
     "geom:latitude": 35.525337,
     "geom:longitude": -117.19416749999999,
     "iata:airline": "AS",
+    "icao:aircraft": "B739",
     "icao:airline": "ASA",
     "lbl:latitude": 37.616969,
     "lbl:longitude": -122.381363,
+    "sfomuseum:aircraft_id": 1377564285,
     "sfomuseum:airline_id": 1159283813,
     "sfomuseum:arrival_id": 102526751,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N251AK",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -48,6 +57,9 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "85883523"
+    },
     "wof:country": "US",
     "wof:created": 1715617770,
     "wof:geomhash": "2a19f056fd5d16c52f22f1bf5dc85c9c",
@@ -81,12 +93,13 @@
     ],
     "wof:id": 1913924897,
     "wof:involves": [
+      1377564285,
       102526751,
       102527513,
       1159283813,
       1763588135
     ],
-    "wof:lastmodified": 1715617770,
+    "wof:lastmodified": 1715618644,
     "wof:name": "AS659 (SFO-PHX)",
     "wof:parent_id": 1763588135,
     "wof:placetype": "custom",

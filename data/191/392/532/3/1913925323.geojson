@@ -2,10 +2,12 @@
   "id": 1913925323,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-05-12",
+    "date:cessation_upper": "2024-05-12",
     "date:inception_lower": "2024-05-12",
     "date:inception_upper": "2024-05-12",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-05-12",
+    "edtf:cessation": "2024-05-12T19:21:00Z",
+    "edtf:inception": "2024-05-12T15:09:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -103.4008145,
     "iata:airline": "DL",
     "iata:base_airline": "",
+    "icao:aircraft": "B739",
     "icao:airline": "DAL",
     "icao:base_airline": "AMX",
     "lbl:latitude": 37.614676,
     "lbl:longitude": -122.38248,
+    "sfomuseum:aircraft_id": 1377564285,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102526927,
     "sfomuseum:base_flight_id": "20240512-D-AMX-4348",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N851DN",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +62,10 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "85873540",
+      "swim:gufi": "KO51026100"
+    },
     "wof:country": "US",
     "wof:created": 1715617899,
     "wof:geomhash": "8306f5516cededf93440c49d2c7be198",
@@ -86,13 +99,14 @@
     ],
     "wof:id": 1913925323,
     "wof:involves": [
+      1763588247,
+      1159283539,
+      1377564285,
       102526927,
       102527513,
-      1159284261,
-      1763588247,
-      1159283539
+      1159284261
     ],
-    "wof:lastmodified": 1715617899,
+    "wof:lastmodified": 1715618657,
     "wof:name": "DL1257 (SFO-ATL)",
     "wof:parent_id": 1763588247,
     "wof:placetype": "custom",

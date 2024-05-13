@@ -2,10 +2,12 @@
   "id": 1913921387,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2024-05-12",
-    "date:inception_upper": "2024-05-12",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-05-12",
+    "date:cessation_lower": "2024-05-13",
+    "date:cessation_upper": "2024-05-13",
+    "date:inception_lower": "2024-05-13",
+    "date:inception_upper": "2024-05-13",
+    "edtf:cessation": "2024-05-13T06:54:00Z",
+    "edtf:inception": "2024-05-13T05:20:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:date": "2024-05-12",
@@ -21,9 +23,11 @@
     "geom:latitude": 39.20008,
     "geom:longitude": -117.1757545,
     "iata:airline": "DL",
+    "icao:aircraft": "B738",
     "icao:airline": "DAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102527363,
@@ -34,7 +38,16 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N3740C",
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "85841958",
+      "swim:gufi": "KU15661200"
+    },
     "wof:country": "US",
     "wof:created": 1715616675,
     "wof:geomhash": "24b8b627208edff0ed857058cce4fc5a",
@@ -48,9 +61,9 @@
       102527513,
       102527363,
       1159284261,
-      -1
+      1159289871
     ],
-    "wof:lastmodified": 1715616675,
+    "wof:lastmodified": 1715618633,
     "wof:name": "DL2348 (SLC-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
