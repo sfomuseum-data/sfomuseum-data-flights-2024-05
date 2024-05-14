@@ -2,10 +2,12 @@
   "id": 1913933233,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-05-13",
+    "date:cessation_upper": "2024-05-13",
     "date:inception_lower": "2024-05-13",
     "date:inception_upper": "2024-05-13",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-05-13",
+    "edtf:cessation": "2024-05-13T12:48:00Z",
+    "edtf:inception": "2024-05-13T01:57:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": 26.208867500000004,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B789",
     "icao:airline": "UAL",
     "icao:base_airline": "DLH",
     "lbl:latitude": 37.617321,
     "lbl:longitude": -122.389477,
+    "sfomuseum:aircraft_id": 1159293215,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20240513-A-DLH-9324",
@@ -53,6 +57,10 @@
       1763588369,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "85930091",
+      "swim:gufi": "KO41045200"
+    },
     "wof:country": "US",
     "wof:created": 1715703634,
     "wof:geomhash": "07839d38a937070012f963bfe77eb5da",
@@ -86,13 +94,14 @@
     ],
     "wof:id": 1913933233,
     "wof:involves": [
+      1763588437,
+      1159286015,
+      1159293215,
       102527513,
       102552389,
-      1159285413,
-      1763588437,
-      1159286015
+      1159285413
     ],
-    "wof:lastmodified": 1715703634,
+    "wof:lastmodified": 1715704963,
     "wof:name": "UA916 (AKL-SFO)",
     "wof:parent_id": 1763588437,
     "wof:placetype": "custom",

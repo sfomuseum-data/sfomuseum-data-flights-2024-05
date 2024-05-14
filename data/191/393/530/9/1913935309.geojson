@@ -2,10 +2,12 @@
   "id": 1913935309,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-05-13",
+    "date:cessation_upper": "2024-05-13",
     "date:inception_lower": "2024-05-13",
     "date:inception_upper": "2024-05-13",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-05-13",
+    "edtf:cessation": "2024-05-13T14:18:00Z",
+    "edtf:inception": "2024-05-13T12:56:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -117.1757545,
     "iata:airline": "DL",
     "iata:base_airline": "",
+    "icao:aircraft": "B738",
     "icao:airline": "DAL",
     "icao:base_airline": "AMX",
     "lbl:latitude": 37.614792,
     "lbl:longitude": -122.382166,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102527363,
     "sfomuseum:base_flight_id": "20240513-D-AMX-4169",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N3740C",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +62,10 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "85950696",
+      "swim:gufi": "KO43222200"
+    },
     "wof:country": "US",
     "wof:created": 1715704258,
     "wof:geomhash": "b2ae00b77ffd1072a2eb4148779a5d9e",
@@ -86,13 +99,14 @@
     ],
     "wof:id": 1913935309,
     "wof:involves": [
-      102527363,
-      102527513,
       1159284261,
       1763588255,
-      1159283539
+      1159283539,
+      1159289871,
+      102527363,
+      102527513
     ],
-    "wof:lastmodified": 1715704258,
+    "wof:lastmodified": 1715704968,
     "wof:name": "DL2356 (SFO-SLC)",
     "wof:parent_id": 1763588255,
     "wof:placetype": "custom",
