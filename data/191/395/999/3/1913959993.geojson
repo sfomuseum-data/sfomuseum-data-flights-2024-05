@@ -2,10 +2,12 @@
   "id": 1913959993,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2024-05-15",
-    "date:inception_upper": "2024-05-15",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-05-15",
+    "date:cessation_lower": "2024-05-16",
+    "date:cessation_upper": "2024-05-16",
+    "date:inception_lower": "2024-05-16",
+    "date:inception_upper": "2024-05-16",
+    "edtf:cessation": "2024-05-16T03:53:00Z",
+    "edtf:inception": "2024-05-16T01:45:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AC",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -122.7750715,
     "iata:airline": "AC",
     "iata:base_airline": "",
+    "icao:aircraft": "B38M",
     "icao:airline": "ACA",
     "icao:base_airline": "AVA",
     "lbl:latitude": 37.618149,
     "lbl:longitude": -122.381669,
+    "sfomuseum:aircraft_id": 1528104575,
     "sfomuseum:airline_id": 1159283597,
     "sfomuseum:arrival_id": 102555307,
     "sfomuseum:base_flight_id": "20240515-D-AVA-6904",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "CGEKZ",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +62,9 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "86101153"
+    },
     "wof:country": "US",
     "wof:created": 1715876915,
     "wof:geomhash": "af4ccf784d832b160f78d13fe8b8589a",
@@ -86,13 +98,14 @@
     ],
     "wof:id": 1913959993,
     "wof:involves": [
-      102555307,
-      102527513,
       1159283597,
       1763588155,
-      1159285749
+      1159285749,
+      1528104575,
+      102555307,
+      102527513
     ],
-    "wof:lastmodified": 1715876915,
+    "wof:lastmodified": 1715878183,
     "wof:name": "AC571 (SFO-YVR)",
     "wof:parent_id": 1763588155,
     "wof:placetype": "custom",

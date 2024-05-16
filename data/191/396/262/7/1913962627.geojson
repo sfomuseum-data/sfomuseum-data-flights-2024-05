@@ -2,10 +2,12 @@
   "id": 1913962627,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-05-15",
+    "date:cessation_upper": "2024-05-15",
     "date:inception_lower": "2024-05-15",
     "date:inception_upper": "2024-05-15",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-05-15",
+    "edtf:cessation": "2024-05-15T01:09:00Z",
+    "edtf:inception": "2024-05-15T00:15:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -121.104038,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "A319",
     "icao:airline": "UAL",
     "icao:base_airline": "DLH",
     "lbl:latitude": 37.618339,
     "lbl:longitude": -122.387219,
+    "sfomuseum:aircraft_id": 1159289407,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527337,
     "sfomuseum:base_flight_id": "20240515-D-DLH-9218",
@@ -53,6 +57,10 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "86101647",
+      "swim:gufi": "KO76390300"
+    },
     "wof:country": "US",
     "wof:created": 1715877855,
     "wof:geomhash": "1d9a5fa2c9575ebb155d9645f1016c57",
@@ -90,9 +98,10 @@
       102527513,
       1159285413,
       1763588289,
-      1159286015
+      1159286015,
+      1159289407
     ],
-    "wof:lastmodified": 1715877855,
+    "wof:lastmodified": 1715878172,
     "wof:name": "UA1878 (SFO-SBA)",
     "wof:parent_id": 1763588289,
     "wof:placetype": "custom",
