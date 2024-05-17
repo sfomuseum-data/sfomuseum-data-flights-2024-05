@@ -2,10 +2,12 @@
   "id": 1913965271,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-05-17",
+    "date:cessation_upper": "2024-05-17",
     "date:inception_lower": "2024-05-16",
     "date:inception_upper": "2024-05-16",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-05-16",
+    "edtf:cessation": "2024-05-17T06:08:00Z",
+    "edtf:inception": "2024-05-16T23:13:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "CM",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1763588369,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "86289277"
+    },
     "wof:country": "US",
     "wof:created": 1715962222,
     "wof:geomhash": "a24fa29091ad40e8c2dcacd18340610c",
@@ -92,7 +97,7 @@
       1763588425,
       1159285413
     ],
-    "wof:lastmodified": 1715962222,
+    "wof:lastmodified": 1715964150,
     "wof:name": "CM382 (PTY-SFO)",
     "wof:parent_id": 1763588425,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 1913965409,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-05-17",
+    "date:cessation_upper": "2024-05-17",
     "date:inception_lower": "2024-05-16",
     "date:inception_upper": "2024-05-16",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-05-16",
+    "edtf:cessation": "2024-05-17T03:41:00Z",
+    "edtf:inception": "2024-05-16T21:32:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:date": "2024-05-16",
@@ -21,9 +23,11 @@
     "geom:latitude": 39.990156,
     "geom:longitude": -96.6928465,
     "iata:airline": "DL",
+    "icao:aircraft": "A21N",
     "icao:airline": "DAL",
     "lbl:latitude": 37.614759,
     "lbl:longitude": -122.382707,
+    "sfomuseum:aircraft_id": 1377564297,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102530741,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N515DE",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -48,6 +57,10 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "86276130",
+      "swim:gufi": "KB72360500"
+    },
     "wof:country": "US",
     "wof:created": 1715962265,
     "wof:geomhash": "9cccd37636918a32bc446a92e7ba93ba",
@@ -81,12 +94,13 @@
     ],
     "wof:id": 1913965409,
     "wof:involves": [
+      1377564297,
       102527513,
       102530741,
       1159284261,
       1763588245
     ],
-    "wof:lastmodified": 1715962265,
+    "wof:lastmodified": 1715964160,
     "wof:name": "DL475 (BOS-SFO)",
     "wof:parent_id": 1763588245,
     "wof:placetype": "custom",

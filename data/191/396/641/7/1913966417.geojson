@@ -2,10 +2,12 @@
   "id": 1913966417,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-05-16",
+    "date:cessation_upper": "2024-05-16",
     "date:inception_lower": "2024-05-16",
     "date:inception_upper": "2024-05-16",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-05-16",
+    "edtf:cessation": "2024-05-16T23:30:13Z",
+    "edtf:inception": "2024-05-16T23:13:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "SY",
     "flysfo:date": "2024-05-16",
@@ -34,6 +36,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -48,6 +53,9 @@
       1763588369,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "86380892"
+    },
     "wof:country": "US",
     "wof:created": 1715962567,
     "wof:geomhash": "5aa704d308ccde2b747329ebb6ffcf42",
@@ -86,7 +94,7 @@
       1159285227,
       1763588427
     ],
-    "wof:lastmodified": 1715962567,
+    "wof:lastmodified": 1715964163,
     "wof:name": "SY8773 (SJC-SFO)",
     "wof:parent_id": 1763588427,
     "wof:placetype": "custom",
