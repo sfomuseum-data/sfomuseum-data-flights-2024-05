@@ -2,10 +2,12 @@
   "id": 1913977317,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2024-05-17",
-    "date:inception_upper": "2024-05-17",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-05-17",
+    "date:cessation_lower": "2024-05-18",
+    "date:cessation_upper": "2024-05-18",
+    "date:inception_lower": "2024-05-18",
+    "date:inception_upper": "2024-05-18",
+    "edtf:cessation": "2024-05-18T01:42:00Z",
+    "edtf:inception": "2024-05-18T00:44:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -120.38022649999999,
     "iata:airline": "DL",
     "iata:base_airline": "",
+    "icao:aircraft": "A21N",
     "icao:airline": "DAL",
     "icao:base_airline": "AFR",
     "lbl:latitude": 37.615184,
     "lbl:longitude": -122.382965,
+    "sfomuseum:aircraft_id": 1377564297,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102533795,
     "sfomuseum:base_flight_id": "20240517-D-AFR-2494",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N580DT",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +62,10 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "86357945",
+      "swim:gufi": "KO68761600"
+    },
     "wof:country": "US",
     "wof:created": 1716049788,
     "wof:geomhash": "602be2a828e3460cadf44be5b1c2e36b",
@@ -86,13 +99,14 @@
     ],
     "wof:id": 1913977317,
     "wof:involves": [
+      1159283627,
+      1377564297,
       102533795,
       102527513,
       1159284261,
-      1763588243,
-      1159283627
+      1763588243
     ],
-    "wof:lastmodified": 1716049788,
+    "wof:lastmodified": 1716050511,
     "wof:name": "DL1715 (SFO-LAX)",
     "wof:parent_id": 1763588243,
     "wof:placetype": "custom",

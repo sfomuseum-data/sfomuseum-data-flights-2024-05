@@ -2,10 +2,12 @@
   "id": 1913974729,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-05-17",
+    "date:cessation_upper": "2024-05-17",
     "date:inception_lower": "2024-05-17",
     "date:inception_upper": "2024-05-17",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-05-17",
+    "edtf:cessation": "2024-05-17T21:24:54Z",
+    "edtf:inception": "2024-05-17T12:51:07Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "ZG",
     "flysfo:date": "2024-05-17",
@@ -48,6 +50,9 @@
       1763588175,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "86420812"
+    },
     "wof:country": "US",
     "wof:created": 1716049013,
     "wof:geomhash": "d46bcc8d1d94e68df95be799ac6a3b4c",
@@ -86,7 +91,7 @@
       1813375131,
       1763588227
     ],
-    "wof:lastmodified": 1716049013,
+    "wof:lastmodified": 1716050504,
     "wof:name": "ZG26 (NRT-SFO)",
     "wof:parent_id": 1763588227,
     "wof:placetype": "custom",

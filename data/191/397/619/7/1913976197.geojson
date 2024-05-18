@@ -2,10 +2,12 @@
   "id": 1913976197,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2024-05-17",
-    "date:inception_upper": "2024-05-17",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-05-17",
+    "date:cessation_lower": "2024-05-18",
+    "date:cessation_upper": "2024-05-18",
+    "date:inception_lower": "2024-05-18",
+    "date:inception_upper": "2024-05-18",
+    "edtf:cessation": "2024-05-18T02:06:29Z",
+    "edtf:inception": "2024-05-18T00:16:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AC",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -122.7750715,
     "iata:airline": "AC",
     "iata:base_airline": "",
+    "icao:aircraft": "B38M",
     "icao:airline": "ACA",
     "icao:base_airline": "AVA",
     "lbl:latitude": 37.618149,
     "lbl:longitude": -122.381669,
+    "sfomuseum:aircraft_id": 1528104575,
     "sfomuseum:airline_id": 1159283597,
     "sfomuseum:arrival_id": 102555307,
     "sfomuseum:base_flight_id": "20240517-D-AVA-6904",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "CFSNU",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +62,10 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "86293029",
+      "swim:gufi": "KO77070500"
+    },
     "wof:country": "US",
     "wof:created": 1716049454,
     "wof:geomhash": "af4ccf784d832b160f78d13fe8b8589a",
@@ -90,9 +103,10 @@
       102527513,
       1159283597,
       1763588155,
-      1159285749
+      1159285749,
+      1528104575
     ],
-    "wof:lastmodified": 1716049454,
+    "wof:lastmodified": 1716050509,
     "wof:name": "AC571 (SFO-YVR)",
     "wof:parent_id": 1763588155,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 1913975699,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-05-18",
+    "date:cessation_upper": "2024-05-18",
     "date:inception_lower": "2024-05-17",
     "date:inception_upper": "2024-05-17",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-05-17",
+    "edtf:cessation": "2024-05-18T01:28:00Z",
+    "edtf:inception": "2024-05-17T20:26:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -101.3334745,
     "iata:airline": "AA",
     "iata:base_airline": "",
+    "icao:aircraft": "B738",
     "icao:airline": "AAL",
     "icao:base_airline": "GLO",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159283849,
     "sfomuseum:arrival_id": 102531023,
     "sfomuseum:base_flight_id": "20240517-D-GLO-6400",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N969NN",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +62,10 @@
       1763588175,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "86372898",
+      "swim:gufi": "KO67965600"
+    },
     "wof:country": "US",
     "wof:created": 1716049307,
     "wof:geomhash": "05e474f4bf1eb5ae110c20d94aac828f",
@@ -90,9 +103,10 @@
       102527513,
       1159283849,
       1763588209,
-      1779770725
+      1779770725,
+      1159289871
     ],
-    "wof:lastmodified": 1716049307,
+    "wof:lastmodified": 1716050508,
     "wof:name": "AA2045 (SFO-MIA)",
     "wof:parent_id": 1763588209,
     "wof:placetype": "custom",
