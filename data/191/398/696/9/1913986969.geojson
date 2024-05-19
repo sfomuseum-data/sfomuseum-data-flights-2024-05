@@ -2,10 +2,12 @@
   "id": 1913986969,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2024-05-18",
-    "date:inception_upper": "2024-05-18",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-05-18",
+    "date:cessation_lower": "2024-05-19",
+    "date:cessation_upper": "2024-05-19",
+    "date:inception_lower": "2024-05-19",
+    "date:inception_upper": "2024-05-19",
+    "edtf:cessation": "2024-05-19T04:24:00Z",
+    "edtf:inception": "2024-05-19T02:23:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -113.521581,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B738",
     "icao:airline": "UAL",
     "icao:base_airline": "ACA",
     "lbl:latitude": 37.618874,
     "lbl:longitude": -122.38419,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102531189,
     "sfomuseum:base_flight_id": "20240518-D-ACA-5615",
@@ -39,6 +43,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
+    "swim:tail_number": "N37274",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +61,10 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "86404760",
+      "swim:gufi": "KO03666100"
+    },
     "wof:country": "US",
     "wof:created": 1716136696,
     "wof:geomhash": "976937653dbac6c9c27dd23670ba89bf",
@@ -86,13 +98,14 @@
     ],
     "wof:id": 1913986969,
     "wof:involves": [
+      1159289871,
       102531189,
       102527513,
       1159285413,
       1763588343,
       1159283597
     ],
-    "wof:lastmodified": 1716136696,
+    "wof:lastmodified": 1716136873,
     "wof:name": "UA589 (SFO-DEN)",
     "wof:parent_id": 1763588343,
     "wof:placetype": "custom",
