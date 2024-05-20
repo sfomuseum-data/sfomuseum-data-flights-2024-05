@@ -2,10 +2,12 @@
   "id": 1913991051,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-05-19",
+    "date:cessation_upper": "2024-05-19",
     "date:inception_lower": "2024-05-19",
     "date:inception_upper": "2024-05-19",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-05-19",
+    "edtf:cessation": "2024-05-19T17:05:00Z",
+    "edtf:inception": "2024-05-19T15:41:42Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1763588369,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "86616146"
+    },
     "wof:country": "US",
     "wof:created": 1716222077,
     "wof:geomhash": "4224d1c4c9907a232ddfbf90e60373e4",
@@ -92,7 +97,7 @@
       1763588407,
       1159283697
     ],
-    "wof:lastmodified": 1716222077,
+    "wof:lastmodified": 1716223425,
     "wof:name": "UA820 (MEX-SFO)",
     "wof:parent_id": 1763588407,
     "wof:placetype": "custom",
