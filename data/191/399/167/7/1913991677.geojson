@@ -1,0 +1,69 @@
+{
+  "id": 1913991677,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2024-05-19",
+    "date:inception_upper": "2024-05-19",
+    "edtf:cessation": "",
+    "edtf:inception": "2024-05-19",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "OZ",
+    "flysfo:date": "2024-05-19",
+    "flysfo:estimated_timestamp": 1716139980,
+    "flysfo:event": "D",
+    "flysfo:flight_number": "OZ285",
+    "flysfo:gate": "",
+    "flysfo:journey": "SFO-ANC",
+    "flysfo:scheduled_timestamp": 1716137700,
+    "flysfo:timestamp": 1716139980,
+    "geom:area": 0,
+    "geom:bbox": "-149.968401,37.617990,-122.370943,61.173606",
+    "geom:latitude": 49.395798,
+    "geom:longitude": -136.169672,
+    "iata:airline": "OZ",
+    "icao:airline": "AAR",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159283917,
+    "sfomuseum:arrival_id": 102531979,
+    "sfomuseum:departure_id": 102527513,
+    "sfomuseum:flight_id": "20240519-D-AAR-285",
+    "sfomuseum:flight_number": [
+      "AAR285",
+      "OZ285"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1716222266,
+    "wof:geomhash": "24c5d8bcd340273688237ae435bbe348",
+    "wof:hierarchy": [
+      {
+        "flight_id": 1913991677
+      }
+    ],
+    "wof:id": 1913991677,
+    "wof:involves": [
+      102531979,
+      102527513,
+      1159283917,
+      -1
+    ],
+    "wof:lastmodified": 1716222266,
+    "wof:name": "OZ285 (SFO-ANC)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "flight",
+    "wof:repo": "sfomuseum-data-flights-2024-05",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -149.968401,
+    37.61799,
+    -122.370943,
+    61.173606
+  ],
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-149.968401,61.173606]],"type":"MultiPoint"}
+}
