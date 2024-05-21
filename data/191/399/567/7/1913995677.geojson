@@ -2,10 +2,12 @@
   "id": 1913995677,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-05-21",
+    "date:cessation_upper": "2024-05-21",
     "date:inception_lower": "2024-05-20",
     "date:inception_upper": "2024-05-20",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-05-20",
+    "edtf:cessation": "2024-05-21T04:34:00Z",
+    "edtf:inception": "2024-05-20T22:43:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -101.3334745,
     "iata:airline": "AA",
     "iata:base_airline": "",
+    "icao:aircraft": "A21N",
     "icao:airline": "AAL",
     "icao:base_airline": "BAW",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1377564297,
     "sfomuseum:airline_id": 1159283849,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20240520-A-BAW-5019",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N952XV",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +62,10 @@
       1763588175,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "86651171",
+      "swim:gufi": "KR73277200"
+    },
     "wof:country": "US",
     "wof:created": 1716307346,
     "wof:geomhash": "38f88108bbae8bb050c3144d37bdc384",
@@ -86,13 +99,14 @@
     ],
     "wof:id": 1913995677,
     "wof:involves": [
-      102527513,
-      102531023,
       1159283849,
       1763588197,
-      1159284021
+      1159284021,
+      1377564297,
+      102527513,
+      102531023
     ],
-    "wof:lastmodified": 1716307346,
+    "wof:lastmodified": 1716309800,
     "wof:name": "AA2933 (MIA-SFO)",
     "wof:parent_id": 1763588197,
     "wof:placetype": "custom",

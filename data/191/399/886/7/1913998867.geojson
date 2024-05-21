@@ -2,10 +2,12 @@
   "id": 1913998867,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-05-20",
+    "date:cessation_upper": "2024-05-20",
     "date:inception_lower": "2024-05-20",
     "date:inception_upper": "2024-05-20",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-05-20",
+    "edtf:cessation": "2024-05-20T05:42:00Z",
+    "edtf:inception": "2024-05-20T03:59:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -117.19416749999999,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B738",
     "icao:airline": "UAL",
     "icao:base_airline": "ACA",
     "lbl:latitude": 37.61868,
     "lbl:longitude": -122.386556,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20240520-A-ACA-4369",
@@ -53,6 +57,10 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "86586164",
+      "swim:gufi": "KA03056200"
+    },
     "wof:country": "US",
     "wof:created": 1716308376,
     "wof:geomhash": "c9fdc5df38b6a105de4fe30ae6ada830",
@@ -86,13 +94,14 @@
     ],
     "wof:id": 1913998867,
     "wof:involves": [
+      1159283597,
+      1159289871,
       102527513,
       102526751,
       1159285413,
-      1763588275,
-      1159283597
+      1763588275
     ],
-    "wof:lastmodified": 1716308376,
+    "wof:lastmodified": 1716309820,
     "wof:name": "UA436 (PHX-SFO)",
     "wof:parent_id": 1763588275,
     "wof:placetype": "custom",

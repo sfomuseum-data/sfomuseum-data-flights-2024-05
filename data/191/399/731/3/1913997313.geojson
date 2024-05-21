@@ -2,10 +2,12 @@
   "id": 1913997313,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2024-05-20",
-    "date:inception_upper": "2024-05-20",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-05-20",
+    "date:cessation_lower": "2024-05-21",
+    "date:cessation_upper": "2024-05-21",
+    "date:inception_lower": "2024-05-21",
+    "date:inception_upper": "2024-05-21",
+    "edtf:cessation": "2024-05-21T06:43:46Z",
+    "edtf:inception": "2024-05-21T03:01:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -107.78563,
     "iata:airline": "DL",
     "iata:base_airline": "",
+    "icao:aircraft": "B739",
     "icao:airline": "DAL",
     "icao:base_airline": "AFR",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1377564285,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20240520-A-AFR-2824",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N835DN",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +62,10 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "86584171",
+      "swim:gufi": "KP05762301"
+    },
     "wof:country": "US",
     "wof:created": 1716307887,
     "wof:geomhash": "0c6e1b69ec0e7e239d3f5365b057a47f",
@@ -90,9 +103,10 @@
       102531131,
       1159284261,
       1763588249,
-      1159283627
+      1159283627,
+      1377564285
     ],
-    "wof:lastmodified": 1716307887,
+    "wof:lastmodified": 1716309809,
     "wof:name": "DL1012 (MSP-SFO)",
     "wof:parent_id": 1763588249,
     "wof:placetype": "custom",

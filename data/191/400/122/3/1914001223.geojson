@@ -2,10 +2,12 @@
   "id": 1914001223,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-05-20",
+    "date:cessation_upper": "2024-05-20",
     "date:inception_lower": "2024-05-20",
     "date:inception_upper": "2024-05-20",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-05-20",
+    "edtf:cessation": "2024-05-20T23:22:00Z",
+    "edtf:inception": "2024-05-20T19:13:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:date": "2024-05-20",
@@ -21,9 +23,11 @@
     "geom:latitude": 39.055307,
     "geom:longitude": -101.315247,
     "iata:airline": "DL",
+    "icao:aircraft": "B752",
     "icao:airline": "DAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289939,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102528181,
     "sfomuseum:departure_id": 102527513,
@@ -34,7 +38,14 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [],
+    "wof:concordances": {
+      "swim:flight_ref": "86635347",
+      "swim:gufi": "KO65462200"
+    },
     "wof:country": "US",
     "wof:created": 1716309107,
     "wof:geomhash": "d7bea1763df143b6882335af1c301bcf",
@@ -45,12 +56,12 @@
     ],
     "wof:id": 1914001223,
     "wof:involves": [
+      1159289939,
       102528181,
       102527513,
-      1159284261,
-      -1
+      1159284261
     ],
-    "wof:lastmodified": 1716309107,
+    "wof:lastmodified": 1716309807,
     "wof:name": "DL8886 (SFO-PIT)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
