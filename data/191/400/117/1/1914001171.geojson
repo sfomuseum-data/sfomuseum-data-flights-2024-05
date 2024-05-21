@@ -1,0 +1,69 @@
+{
+  "id": 1914001171,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2024-05-20",
+    "date:inception_upper": "2024-05-20",
+    "edtf:cessation": "",
+    "edtf:inception": "2024-05-20",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "DL",
+    "flysfo:date": "2024-05-20",
+    "flysfo:estimated_timestamp": 1716216960,
+    "flysfo:event": "D",
+    "flysfo:flight_number": "DL455",
+    "flysfo:gate": "",
+    "flysfo:journey": "SFO-GEG",
+    "flysfo:scheduled_timestamp": 1716215400,
+    "flysfo:timestamp": 1716216960,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,37.617990,-117.531916,47.625686",
+    "geom:latitude": 42.621838,
+    "geom:longitude": -119.95142949999999,
+    "iata:airline": "DL",
+    "icao:airline": "DAL",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159284261,
+    "sfomuseum:arrival_id": 102533331,
+    "sfomuseum:departure_id": 102527513,
+    "sfomuseum:flight_id": "20240520-D-DAL-455",
+    "sfomuseum:flight_number": [
+      "DAL455",
+      "DL455"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1716309090,
+    "wof:geomhash": "9d5970fb497c224f692cb976d5929b90",
+    "wof:hierarchy": [
+      {
+        "flight_id": 1914001171
+      }
+    ],
+    "wof:id": 1914001171,
+    "wof:involves": [
+      102533331,
+      102527513,
+      1159284261,
+      -1
+    ],
+    "wof:lastmodified": 1716309090,
+    "wof:name": "DL455 (SFO-GEG)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "flight",
+    "wof:repo": "sfomuseum-data-flights-2024-05",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    37.61799,
+    -117.531916,
+    47.625686
+  ],
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-117.531916,47.625686]],"type":"MultiPoint"}
+}
