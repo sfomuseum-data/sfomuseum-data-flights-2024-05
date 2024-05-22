@@ -2,10 +2,12 @@
   "id": 1914004897,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-05-22",
+    "date:cessation_upper": "2024-05-22",
     "date:inception_lower": "2024-05-21",
     "date:inception_upper": "2024-05-21",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-05-21",
+    "edtf:cessation": "2024-05-22T03:21:30Z",
+    "edtf:inception": "2024-05-21T21:40:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -99.70629299999999,
     "iata:airline": "AS",
     "iata:base_airline": "",
+    "icao:aircraft": "B738",
     "icao:airline": "ASA",
     "icao:base_airline": "FJI",
     "lbl:latitude": 37.617421,
     "lbl:longitude": -122.380916,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159283813,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20240521-A-FJI-5805",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N536AS",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +62,9 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "86743018"
+    },
     "wof:country": "US",
     "wof:created": 1716394140,
     "wof:geomhash": "cfff966b0a5de3ca50080923c4337cfe",
@@ -86,13 +98,14 @@
     ],
     "wof:id": 1914004897,
     "wof:involves": [
-      102527513,
-      1746879047,
       1159283813,
       1763588145,
-      1159283717
+      1159283717,
+      1159289871,
+      102527513,
+      1746879047
     ],
-    "wof:lastmodified": 1716394140,
+    "wof:lastmodified": 1716396258,
     "wof:name": "AS7 (DCA-SFO)",
     "wof:parent_id": 1763588145,
     "wof:placetype": "custom",
