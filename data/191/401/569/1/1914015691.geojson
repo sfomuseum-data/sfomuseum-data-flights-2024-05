@@ -1,0 +1,69 @@
+{
+  "id": 1914015691,
+  "type": "Feature",
+  "properties": {
+    "date:inception_lower": "2024-05-22",
+    "date:inception_upper": "2024-05-22",
+    "edtf:cessation": "",
+    "edtf:inception": "2024-05-22",
+    "flysfo:actual_timestamp": -1,
+    "flysfo:airline": "AA",
+    "flysfo:date": "2024-05-22",
+    "flysfo:estimated_timestamp": 1716400800,
+    "flysfo:event": "D",
+    "flysfo:flight_number": "AA423",
+    "flysfo:gate": "",
+    "flysfo:journey": "SFO-LAX",
+    "flysfo:scheduled_timestamp": 1716393600,
+    "flysfo:timestamp": 1716400800,
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,33.942593,-118.389510,37.617990",
+    "geom:latitude": 35.780291500000004,
+    "geom:longitude": -120.38022649999999,
+    "iata:airline": "AA",
+    "icao:airline": "AAL",
+    "lbl:latitude": 37.61799,
+    "lbl:longitude": -122.370943,
+    "sfomuseum:airline_id": 1159283849,
+    "sfomuseum:arrival_id": 102533795,
+    "sfomuseum:departure_id": 102527513,
+    "sfomuseum:flight_id": "20240522-D-AAL-423",
+    "sfomuseum:flight_number": [
+      "AAL423",
+      "AA423"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "flysfo",
+    "wof:belongsto": [],
+    "wof:country": "US",
+    "wof:created": 1716481324,
+    "wof:geomhash": "602be2a828e3460cadf44be5b1c2e36b",
+    "wof:hierarchy": [
+      {
+        "flight_id": 1914015691
+      }
+    ],
+    "wof:id": 1914015691,
+    "wof:involves": [
+      102533795,
+      102527513,
+      1159283849,
+      -1
+    ],
+    "wof:lastmodified": 1716481324,
+    "wof:name": "AA423 (SFO-LAX)",
+    "wof:parent_id": -1,
+    "wof:placetype": "custom",
+    "wof:placetype_alt": "flight",
+    "wof:repo": "sfomuseum-data-flights-2024-05",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943,
+    33.942593,
+    -118.38951,
+    37.61799
+  ],
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-118.38951,33.942593]],"type":"MultiPoint"}
+}
