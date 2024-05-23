@@ -2,10 +2,12 @@
   "id": 1914017793,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-05-23",
+    "date:cessation_upper": "2024-05-23",
     "date:inception_lower": "2024-05-22",
     "date:inception_upper": "2024-05-22",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-05-22",
+    "edtf:cessation": "2024-05-23T05:44:17Z",
+    "edtf:inception": "2024-05-22T19:14:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "JL",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1763588369,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "86828628"
+    },
     "wof:country": "US",
     "wof:created": 1716481931,
     "wof:geomhash": "64252c90f74b3e5d6a354a131140ee76",
@@ -92,7 +97,7 @@
       1763588419,
       1159283849
     ],
-    "wof:lastmodified": 1716481931,
+    "wof:lastmodified": 1716482539,
     "wof:name": "JL1 (SFO-HND)",
     "wof:parent_id": 1763588419,
     "wof:placetype": "custom",

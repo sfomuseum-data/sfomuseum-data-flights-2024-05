@@ -2,10 +2,12 @@
   "id": 1914016157,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2024-05-22",
-    "date:inception_upper": "2024-05-22",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-05-22",
+    "date:cessation_lower": "2024-05-23",
+    "date:cessation_upper": "2024-05-23",
+    "date:inception_lower": "2024-05-23",
+    "date:inception_upper": "2024-05-23",
+    "edtf:cessation": "2024-05-23T11:04:00Z",
+    "edtf:inception": "2024-05-23T06:03:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AC",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -98.057846,
     "iata:airline": "AC",
     "iata:base_airline": "",
+    "icao:aircraft": "BCS3",
     "icao:airline": "ACA",
     "icao:base_airline": "ANZ",
     "lbl:latitude": 37.618149,
     "lbl:longitude": -122.381669,
+    "sfomuseum:aircraft_id": 1813375783,
     "sfomuseum:airline_id": 1159283597,
     "sfomuseum:arrival_id": 102554351,
     "sfomuseum:base_flight_id": "20240522-D-ANZ-4808",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "CGUPG",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,6 +62,10 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "86774840",
+      "swim:gufi": "KO09944500"
+    },
     "wof:country": "US",
     "wof:created": 1716481458,
     "wof:geomhash": "60b8ec845b4af47518c8aaafc3d98633",
@@ -86,13 +99,14 @@
     ],
     "wof:id": 1914016157,
     "wof:involves": [
+      1763588155,
+      1159283697,
+      1813375783,
       102554351,
       102527513,
-      1159283597,
-      1763588155,
-      1159283697
+      1159283597
     ],
-    "wof:lastmodified": 1716481458,
+    "wof:lastmodified": 1716482526,
     "wof:name": "AC764 (SFO-YUL)",
     "wof:parent_id": 1763588155,
     "wof:placetype": "custom",

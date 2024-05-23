@@ -2,10 +2,12 @@
   "id": 1914017259,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-05-23",
+    "date:cessation_upper": "2024-05-23",
     "date:inception_lower": "2024-05-22",
     "date:inception_upper": "2024-05-22",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-05-22",
+    "edtf:cessation": "2024-05-23T10:50:02Z",
+    "edtf:inception": "2024-05-22T20:46:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "CX",
     "flysfo:date": "2024-05-22",
@@ -34,6 +36,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -48,6 +53,9 @@
       1763588369,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "86835638"
+    },
     "wof:country": "US",
     "wof:created": 1716481776,
     "wof:geomhash": "b8fc8d95bb44b1c6b9f6cb201e4d2ca9",
@@ -86,7 +94,7 @@
       1159284127,
       1763588411
     ],
-    "wof:lastmodified": 1716481776,
+    "wof:lastmodified": 1716482528,
     "wof:name": "CX879 (SFO-HKG)",
     "wof:parent_id": 1763588411,
     "wof:placetype": "custom",
