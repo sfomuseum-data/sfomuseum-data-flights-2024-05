@@ -2,10 +2,12 @@
   "id": 1914020767,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-05-24",
+    "date:cessation_upper": "2024-05-24",
     "date:inception_lower": "2024-05-23",
     "date:inception_upper": "2024-05-23",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-05-23",
+    "edtf:cessation": "2024-05-24T01:46:34Z",
+    "edtf:inception": "2024-05-23T21:29:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -53,6 +55,9 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "86945734"
+    },
     "wof:country": "US",
     "wof:created": 1716566937,
     "wof:geomhash": "40576486fbb454d3a66da49d62a0ae33",
@@ -92,7 +97,7 @@
       1763588131,
       1159285043
     ],
-    "wof:lastmodified": 1716566937,
+    "wof:lastmodified": 1716569499,
     "wof:name": "AS266 (ANC-SFO)",
     "wof:parent_id": 1763588131,
     "wof:placetype": "custom",

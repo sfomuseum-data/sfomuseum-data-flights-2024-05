@@ -2,10 +2,12 @@
   "id": 1914026045,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-05-23",
+    "date:cessation_upper": "2024-05-23",
     "date:inception_lower": "2024-05-23",
     "date:inception_upper": "2024-05-23",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-05-23",
+    "edtf:cessation": "2024-05-23T22:11:00Z",
+    "edtf:inception": "2024-05-23T21:10:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "MX",
     "flysfo:date": "2024-05-23",
@@ -48,6 +50,9 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "86945768"
+    },
     "wof:country": "US",
     "wof:created": 1716568986,
     "wof:geomhash": "b4d056e1d6e58dcf382167f77162f897",
@@ -86,7 +91,7 @@
       1763552131,
       1763588147
     ],
-    "wof:lastmodified": 1716568986,
+    "wof:lastmodified": 1716569510,
     "wof:name": "MX600 (SFO-SBD)",
     "wof:parent_id": 1763588147,
     "wof:placetype": "custom",

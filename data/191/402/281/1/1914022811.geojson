@@ -2,10 +2,12 @@
   "id": 1914022811,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-05-23",
+    "date:cessation_upper": "2024-05-23",
     "date:inception_lower": "2024-05-23",
     "date:inception_upper": "2024-05-23",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-05-23",
+    "edtf:cessation": "2024-05-23T08:23:25Z",
+    "edtf:inception": "2024-05-23T03:00:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -99.9123225,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B39M",
     "icao:airline": "UAL",
     "icao:base_airline": "ETH",
     "lbl:latitude": 37.618678,
     "lbl:longitude": -122.385955,
+    "sfomuseum:aircraft_id": 1528104577,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20240523-A-ETH-1358",
@@ -53,6 +57,10 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "86869976",
+      "swim:gufi": "KW85373400"
+    },
     "wof:country": "US",
     "wof:created": 1716567587,
     "wof:geomhash": "376248592ab7850cfb9a479529cc5caf",
@@ -86,13 +94,14 @@
     ],
     "wof:id": 1914022811,
     "wof:involves": [
+      1763588279,
+      1159284341,
+      1528104577,
       102527513,
       102528817,
-      1159285413,
-      1763588279,
-      1159284341
+      1159285413
     ],
-    "wof:lastmodified": 1716567587,
+    "wof:lastmodified": 1716569515,
     "wof:name": "UA1613 (IAD-SFO)",
     "wof:parent_id": 1763588279,
     "wof:placetype": "custom",

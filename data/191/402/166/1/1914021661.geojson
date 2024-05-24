@@ -2,10 +2,12 @@
   "id": 1914021661,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-05-24",
+    "date:cessation_upper": "2024-05-24",
     "date:inception_lower": "2024-05-23",
     "date:inception_upper": "2024-05-23",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-05-23",
+    "edtf:cessation": "2024-05-24T01:41:44Z",
+    "edtf:inception": "2024-05-23T23:53:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "F9",
     "flysfo:date": "2024-05-23",
@@ -21,9 +23,11 @@
     "geom:latitude": 39.20008,
     "geom:longitude": -117.1757545,
     "iata:airline": "F9",
+    "icao:aircraft": "A320",
     "icao:airline": "FFT",
     "lbl:latitude": 37.611664,
     "lbl:longitude": -122.390495,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159284401,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102527363,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N229FR",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -48,6 +57,10 @@
       1763588369,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "86960937",
+      "swim:gufi": "KU79138500"
+    },
     "wof:country": "US",
     "wof:created": 1716567225,
     "wof:geomhash": "24b8b627208edff0ed857058cce4fc5a",
@@ -81,12 +94,13 @@
     ],
     "wof:id": 1914021661,
     "wof:involves": [
-      102527513,
-      102527363,
       1159284401,
-      1763588427
+      1763588427,
+      1159292085,
+      102527513,
+      102527363
     ],
-    "wof:lastmodified": 1716567225,
+    "wof:lastmodified": 1716569514,
     "wof:name": "F93393 (SLC-SFO)",
     "wof:parent_id": 1763588427,
     "wof:placetype": "custom",

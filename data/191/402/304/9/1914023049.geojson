@@ -2,10 +2,12 @@
   "id": 1914023049,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-05-24",
+    "date:cessation_upper": "2024-05-24",
     "date:inception_lower": "2024-05-23",
     "date:inception_upper": "2024-05-23",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-05-23",
+    "edtf:cessation": "2024-05-24T02:53:00Z",
+    "edtf:inception": "2024-05-23T21:20:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -98.2742345,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B789",
     "icao:airline": "UAL",
     "icao:base_airline": "ANZ",
     "lbl:latitude": 37.61844,
     "lbl:longitude": -122.392214,
+    "sfomuseum:aircraft_id": 1159293215,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20240523-A-ANZ-9125",
@@ -53,6 +57,10 @@
       1763588369,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "86945338",
+      "swim:gufi": "KN60154500"
+    },
     "wof:country": "US",
     "wof:created": 1716567662,
     "wof:geomhash": "5afbf99c4360a00cfc0890f48cccf304",
@@ -86,13 +94,14 @@
     ],
     "wof:id": 1914023049,
     "wof:involves": [
+      1159283697,
+      1159293215,
       102527513,
       102530049,
       1159285413,
-      1763588461,
-      1159283697
+      1763588461
     ],
-    "wof:lastmodified": 1716567662,
+    "wof:lastmodified": 1716569505,
     "wof:name": "UA448 (EWR-SFO)",
     "wof:parent_id": 1763588461,
     "wof:placetype": "custom",
