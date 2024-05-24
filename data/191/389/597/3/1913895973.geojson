@@ -40,6 +40,7 @@
     "wof:geomhash": "602be2a828e3460cadf44be5b1c2e36b",
     "wof:hierarchy": [
       {
+        "custom_id": 1913895973,
         "flight_id": 1913895973
       }
     ],
@@ -50,11 +51,13 @@
       1159283917,
       -1
     ],
-    "wof:lastmodified": 1715358282,
+    "wof:lastmodified": 1716581316,
     "wof:name": "OZ284 (SFO-LAX)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-05",
     "wof:superseded_by": [],
     "wof:supersedes": []

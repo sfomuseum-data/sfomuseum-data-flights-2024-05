@@ -40,6 +40,7 @@
     "wof:geomhash": "ba4d31d1826c6198b5ffa8fdb1249c5d",
     "wof:hierarchy": [
       {
+        "custom_id": 1913855243,
         "flight_id": 1913855243
       }
     ],
@@ -50,11 +51,13 @@
       1159284261,
       -1
     ],
-    "wof:lastmodified": 1715011859,
+    "wof:lastmodified": 1716581315,
     "wof:name": "DL894 (JFK-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-05",
     "wof:superseded_by": [],
     "wof:supersedes": []

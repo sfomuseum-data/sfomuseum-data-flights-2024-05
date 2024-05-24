@@ -40,6 +40,7 @@
     "wof:geomhash": "c7bf5337358552a3a60caed0c1e9ea63",
     "wof:hierarchy": [
       {
+        "custom_id": 1913874259,
         "flight_id": 1913874259
       }
     ],
@@ -50,11 +51,13 @@
       1159284021,
       -1
     ],
-    "wof:lastmodified": 1715184530,
+    "wof:lastmodified": 1716581315,
     "wof:name": "BA28 (LHR-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-05",
     "wof:superseded_by": [],
     "wof:supersedes": []

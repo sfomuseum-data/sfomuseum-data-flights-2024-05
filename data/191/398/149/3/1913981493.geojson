@@ -40,6 +40,7 @@
     "wof:geomhash": "a4d4dc469296ca0f5ad383dc766835b1",
     "wof:hierarchy": [
       {
+        "custom_id": 1913981493,
         "flight_id": 1913981493
       }
     ],
@@ -50,11 +51,13 @@
       1159284261,
       -1
     ],
-    "wof:lastmodified": 1716135054,
+    "wof:lastmodified": 1716581321,
     "wof:name": "DL430 (RNO-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-05",
     "wof:superseded_by": [],
     "wof:supersedes": []

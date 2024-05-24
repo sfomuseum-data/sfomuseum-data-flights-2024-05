@@ -53,6 +53,7 @@
     "wof:geomhash": "25f5345529d944df781e36098260a435",
     "wof:hierarchy": [
       {
+        "custom_id": 1913908759,
         "flight_id": 1913908759
       }
     ],
@@ -63,11 +64,13 @@
       102527513,
       1159285413
     ],
-    "wof:lastmodified": 1715445764,
+    "wof:lastmodified": 1716581320,
     "wof:name": "UA8257 (SFO-SAN)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-05",
     "wof:superseded_by": [],
     "wof:supersedes": []

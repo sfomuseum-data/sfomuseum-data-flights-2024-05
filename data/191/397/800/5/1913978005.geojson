@@ -45,6 +45,7 @@
     "wof:geomhash": "ff961493fc59fc665836e174da62aa8e",
     "wof:hierarchy": [
       {
+        "custom_id": 1913978005,
         "flight_id": 1913978005
       }
     ],
@@ -56,11 +57,13 @@
       -1,
       1159284613
     ],
-    "wof:lastmodified": 1716049996,
+    "wof:lastmodified": 1716581328,
     "wof:name": "KL5968 (SFO-HNL)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-05",
     "wof:superseded_by": [],
     "wof:supersedes": []

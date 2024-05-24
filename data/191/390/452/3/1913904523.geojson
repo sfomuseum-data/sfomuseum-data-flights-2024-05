@@ -53,6 +53,7 @@
     "wof:geomhash": "fcf5095e8d1a14d003993bc5070a7f0f",
     "wof:hierarchy": [
       {
+        "custom_id": 1913904523,
         "flight_id": 1913904523
       }
     ],
@@ -63,11 +64,13 @@
       1377564285,
       102527513
     ],
-    "wof:lastmodified": 1715445752,
+    "wof:lastmodified": 1716581316,
     "wof:name": "UA3843 (LAS-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-05",
     "wof:superseded_by": [],
     "wof:supersedes": []

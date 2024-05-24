@@ -53,6 +53,7 @@
     "wof:geomhash": "602be2a828e3460cadf44be5b1c2e36b",
     "wof:hierarchy": [
       {
+        "custom_id": 1914018927,
         "flight_id": 1914018927
       }
     ],
@@ -63,11 +64,13 @@
       1528104577,
       102533795
     ],
-    "wof:lastmodified": 1716482532,
+    "wof:lastmodified": 1716581328,
     "wof:name": "UA3908 (SFO-LAX)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-05",
     "wof:superseded_by": [],
     "wof:supersedes": []

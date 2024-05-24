@@ -50,6 +50,7 @@
     "wof:geomhash": "3af422147b92e6fa9912d38a57ea404a",
     "wof:hierarchy": [
       {
+        "custom_id": 1913981701,
         "flight_id": 1913981701
       }
     ],
@@ -60,11 +61,13 @@
       102527513,
       102532251
     ],
-    "wof:lastmodified": 1716136876,
+    "wof:lastmodified": 1716581322,
     "wof:name": "F93034 (PDX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-05",
     "wof:superseded_by": [],
     "wof:supersedes": []

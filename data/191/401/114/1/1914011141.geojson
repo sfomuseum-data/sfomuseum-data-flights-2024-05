@@ -53,6 +53,7 @@
     "wof:geomhash": "75b67362ad403f806ec665af17b684aa",
     "wof:hierarchy": [
       {
+        "custom_id": 1914011141,
         "flight_id": 1914011141
       }
     ],
@@ -63,11 +64,13 @@
       102527513,
       1159285413
     ],
-    "wof:lastmodified": 1716396258,
+    "wof:lastmodified": 1716581322,
     "wof:name": "UA8262 (SFO-IND)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-05",
     "wof:superseded_by": [],
     "wof:supersedes": []

@@ -40,6 +40,7 @@
     "wof:geomhash": "76fab8ba90cc172f777e745d124625d2",
     "wof:hierarchy": [
       {
+        "custom_id": 1913886319,
         "flight_id": 1913886319
       }
     ],
@@ -50,11 +51,13 @@
       1159283917,
       -1
     ],
-    "wof:lastmodified": 1715271743,
+    "wof:lastmodified": 1716581317,
     "wof:name": "OZ285 (SFO-ICN)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-05",
     "wof:superseded_by": [],
     "wof:supersedes": []

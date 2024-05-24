@@ -53,6 +53,7 @@
     "wof:geomhash": "ba4d31d1826c6198b5ffa8fdb1249c5d",
     "wof:hierarchy": [
       {
+        "custom_id": 1913865361,
         "flight_id": 1913865361
       }
     ],
@@ -63,11 +64,13 @@
       102534365,
       1159284583
     ],
-    "wof:lastmodified": 1715100150,
+    "wof:lastmodified": 1716581316,
     "wof:name": "B6615 (JFK-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-05",
     "wof:superseded_by": [],
     "wof:supersedes": []

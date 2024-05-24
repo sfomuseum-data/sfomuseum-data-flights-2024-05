@@ -40,6 +40,7 @@
     "wof:geomhash": "24c5d8bcd340273688237ae435bbe348",
     "wof:hierarchy": [
       {
+        "custom_id": 1913959675,
         "flight_id": 1913959675
       }
     ],
@@ -50,11 +51,13 @@
       1159283917,
       -1
     ],
-    "wof:lastmodified": 1715876800,
+    "wof:lastmodified": 1716581323,
     "wof:name": "OZ285 (SFO-ANC)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-05",
     "wof:superseded_by": [],
     "wof:supersedes": []

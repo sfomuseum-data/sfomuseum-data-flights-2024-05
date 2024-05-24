@@ -40,6 +40,7 @@
     "wof:geomhash": "1348792a172720778d3219cc18ccd8ee",
     "wof:hierarchy": [
       {
+        "custom_id": 1913859649,
         "flight_id": 1913859649
       }
     ],
@@ -50,11 +51,13 @@
       1159284583,
       -1
     ],
-    "wof:lastmodified": 1715013201,
+    "wof:lastmodified": 1716581319,
     "wof:name": "B62416 (SFO-JFK)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-05",
     "wof:superseded_by": [],
     "wof:supersedes": []

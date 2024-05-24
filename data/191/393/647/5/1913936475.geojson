@@ -53,6 +53,7 @@
     "wof:geomhash": "8933d78fb39ee159acf7eb0738f97ef5",
     "wof:hierarchy": [
       {
+        "custom_id": 1913936475,
         "flight_id": 1913936475
       }
     ],
@@ -63,11 +64,13 @@
       102527513,
       1159285591
     ],
-    "wof:lastmodified": 1715704970,
+    "wof:lastmodified": 1716581325,
     "wof:name": "WN8502 (SFO-OAK)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-05",
     "wof:superseded_by": [],
     "wof:supersedes": []

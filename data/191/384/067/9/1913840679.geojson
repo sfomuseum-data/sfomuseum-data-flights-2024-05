@@ -53,6 +53,7 @@
     "wof:geomhash": "75b67362ad403f806ec665af17b684aa",
     "wof:hierarchy": [
       {
+        "custom_id": 1913840679,
         "flight_id": 1913840679
       }
     ],
@@ -63,11 +64,13 @@
       1159285413,
       1159289871
     ],
-    "wof:lastmodified": 1714754609,
+    "wof:lastmodified": 1716581328,
     "wof:name": "UA8105 (SFO-IND)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-05",
     "wof:superseded_by": [],
     "wof:supersedes": []

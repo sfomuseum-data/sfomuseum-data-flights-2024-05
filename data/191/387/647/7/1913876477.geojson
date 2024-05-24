@@ -53,6 +53,7 @@
     "wof:geomhash": "24b8b627208edff0ed857058cce4fc5a",
     "wof:hierarchy": [
       {
+        "custom_id": 1913876477,
         "flight_id": 1913876477
       }
     ],
@@ -63,11 +64,13 @@
       102527363,
       1159285413
     ],
-    "wof:lastmodified": 1715186573,
+    "wof:lastmodified": 1716581317,
     "wof:name": "UA8276 (SLC-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-05",
     "wof:superseded_by": [],
     "wof:supersedes": []

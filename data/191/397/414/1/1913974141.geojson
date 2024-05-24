@@ -45,6 +45,7 @@
     "wof:geomhash": "a23858bb4e93419105e139a22bd92749",
     "wof:hierarchy": [
       {
+        "custom_id": 1913974141,
         "flight_id": 1913974141
       }
     ],
@@ -56,11 +57,13 @@
       -1,
       1159284613
     ],
-    "wof:lastmodified": 1716048834,
+    "wof:lastmodified": 1716581323,
     "wof:name": "KL5968 (DTW-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-05",
     "wof:superseded_by": [],
     "wof:supersedes": []

@@ -40,6 +40,7 @@
     "wof:geomhash": "014430cde1a85b033fb3b4a447168595",
     "wof:hierarchy": [
       {
+        "custom_id": 1913927033,
         "flight_id": 1913927033
       }
     ],
@@ -50,11 +51,13 @@
       1159285413,
       -1
     ],
-    "wof:lastmodified": 1715618430,
+    "wof:lastmodified": 1716581321,
     "wof:name": "UA3872 (SFO-PVG)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-05",
     "wof:superseded_by": [],
     "wof:supersedes": []

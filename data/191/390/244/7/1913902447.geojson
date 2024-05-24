@@ -52,6 +52,7 @@
     "wof:geomhash": "ef262e0da13c3e8dd354e2b42ae8d539",
     "wof:hierarchy": [
       {
+        "custom_id": 1913902447,
         "flight_id": 1913902447
       }
     ],
@@ -62,11 +63,13 @@
       102531041,
       1159283813
     ],
-    "wof:lastmodified": 1715445746,
+    "wof:lastmodified": 1716581314,
     "wof:name": "AS9800 (OAK-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-05",
     "wof:superseded_by": [],
     "wof:supersedes": []

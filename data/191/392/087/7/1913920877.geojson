@@ -45,6 +45,7 @@
     "wof:geomhash": "c7bf5337358552a3a60caed0c1e9ea63",
     "wof:hierarchy": [
       {
+        "custom_id": 1913920877,
         "flight_id": 1913920877
       }
     ],
@@ -56,11 +57,13 @@
       -1,
       1377675597
     ],
-    "wof:lastmodified": 1715616513,
+    "wof:lastmodified": 1716581315,
     "wof:name": "OS7911 (LHR-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-05",
     "wof:superseded_by": [],
     "wof:supersedes": []

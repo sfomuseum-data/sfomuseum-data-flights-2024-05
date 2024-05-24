@@ -45,6 +45,7 @@
     "wof:geomhash": "c7bf5337358552a3a60caed0c1e9ea63",
     "wof:hierarchy": [
       {
+        "custom_id": 1913939907,
         "flight_id": 1913939907
       }
     ],
@@ -56,11 +57,13 @@
       -1,
       1159283627
     ],
-    "wof:lastmodified": 1715789121,
+    "wof:lastmodified": 1716581327,
     "wof:name": "NZ4163 (LHR-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-05",
     "wof:superseded_by": [],
     "wof:supersedes": []

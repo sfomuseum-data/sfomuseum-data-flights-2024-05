@@ -53,6 +53,7 @@
     "wof:geomhash": "5f8ba203e186fe379420b736bcf5de4f",
     "wof:hierarchy": [
       {
+        "custom_id": 1913979173,
         "flight_id": 1913979173
       }
     ],
@@ -63,11 +64,13 @@
       1159285413,
       1159289985
     ],
-    "wof:lastmodified": 1716050516,
+    "wof:lastmodified": 1716581328,
     "wof:name": "UA8174 (SFO-EWR)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-05",
     "wof:superseded_by": [],
     "wof:supersedes": []

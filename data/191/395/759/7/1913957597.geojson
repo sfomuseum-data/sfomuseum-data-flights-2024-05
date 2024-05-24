@@ -40,6 +40,7 @@
     "wof:geomhash": "ccdcde8e2753acf4845b350f07bc56a7",
     "wof:hierarchy": [
       {
+        "custom_id": 1913957597,
         "flight_id": 1913957597
       }
     ],
@@ -50,11 +51,13 @@
       1377649073,
       -1
     ],
-    "wof:lastmodified": 1715876049,
+    "wof:lastmodified": 1716581321,
     "wof:name": "BF80 (ORY-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-05",
     "wof:superseded_by": [],
     "wof:supersedes": []

@@ -52,6 +52,7 @@
     "wof:geomhash": "3dda75dcf1fae64b97c7a2b018cfa114",
     "wof:hierarchy": [
       {
+        "custom_id": 1913839041,
         "flight_id": 1913839041
       }
     ],
@@ -62,11 +63,13 @@
       102547639,
       102527513
     ],
-    "wof:lastmodified": 1714754632,
+    "wof:lastmodified": 1716581320,
     "wof:name": "EI960 (SFO-DUB)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-05",
     "wof:superseded_by": [],
     "wof:supersedes": []

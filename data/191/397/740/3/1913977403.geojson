@@ -58,6 +58,7 @@
     "wof:geomhash": "ff961493fc59fc665836e174da62aa8e",
     "wof:hierarchy": [
       {
+        "custom_id": 1913977403,
         "flight_id": 1913977403
       }
     ],
@@ -69,11 +70,13 @@
       1159284261,
       1159284613
     ],
-    "wof:lastmodified": 1716050511,
+    "wof:lastmodified": 1716581326,
     "wof:name": "DL797 (SFO-HNL)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-05",
     "wof:superseded_by": [],
     "wof:supersedes": []

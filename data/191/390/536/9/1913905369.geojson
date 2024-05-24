@@ -53,6 +53,7 @@
     "wof:geomhash": "6d7202e034534315a50103622977ef57",
     "wof:hierarchy": [
       {
+        "custom_id": 1913905369,
         "flight_id": 1913905369
       }
     ],
@@ -63,11 +64,13 @@
       102527513,
       1159283849
     ],
-    "wof:lastmodified": 1715445755,
+    "wof:lastmodified": 1716581317,
     "wof:name": "AA9785 (SFO-CLT)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-05",
     "wof:superseded_by": [],
     "wof:supersedes": []

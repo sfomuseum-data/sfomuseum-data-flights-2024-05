@@ -53,6 +53,7 @@
     "wof:geomhash": "e5ae5d1ea61206da1f1e1104d6bc1bb7",
     "wof:hierarchy": [
       {
+        "custom_id": 1913846451,
         "flight_id": 1913846451
       }
     ],
@@ -63,11 +64,13 @@
       102533243,
       1159285413
     ],
-    "wof:lastmodified": 1714841326,
+    "wof:lastmodified": 1716581317,
     "wof:name": "UA8276 (TPA-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-05",
     "wof:superseded_by": [],
     "wof:supersedes": []

@@ -53,6 +53,7 @@
     "wof:geomhash": "398b6cf59cf3bdf390f5834c7a336099",
     "wof:hierarchy": [
       {
+        "custom_id": 1913979179,
         "flight_id": 1913979179
       }
     ],
@@ -63,11 +64,13 @@
       102527513,
       1159285413
     ],
-    "wof:lastmodified": 1716050516,
+    "wof:lastmodified": 1716581328,
     "wof:name": "UA8190 (SFO-RDM)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-05",
     "wof:superseded_by": [],
     "wof:supersedes": []

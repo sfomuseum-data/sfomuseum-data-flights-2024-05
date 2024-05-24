@@ -40,6 +40,7 @@
     "wof:geomhash": "033526ec5f586bb6dd7c4e05cd770e88",
     "wof:hierarchy": [
       {
+        "custom_id": 1913925859,
         "flight_id": 1913925859
       }
     ],
@@ -50,11 +51,13 @@
       1763699293,
       -1
     ],
-    "wof:lastmodified": 1715618067,
+    "wof:lastmodified": 1716581320,
     "wof:name": "AZ641 (SFO-FCO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-05",
     "wof:superseded_by": [],
     "wof:supersedes": []

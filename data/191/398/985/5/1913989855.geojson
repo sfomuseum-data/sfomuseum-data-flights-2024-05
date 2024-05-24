@@ -51,6 +51,7 @@
     "wof:geomhash": "f16008bc2ad68c6d1bc593247c6c74a9",
     "wof:hierarchy": [
       {
+        "custom_id": 1913989855,
         "flight_id": 1913989855
       }
     ],
@@ -61,11 +62,13 @@
       102533795,
       1159284625
     ],
-    "wof:lastmodified": 1716223432,
+    "wof:lastmodified": 1716581328,
     "wof:name": "KE214 (LAX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-05",
     "wof:superseded_by": [],
     "wof:supersedes": []

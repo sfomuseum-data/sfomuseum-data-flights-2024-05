@@ -45,6 +45,7 @@
     "wof:geomhash": "86f41e039827d60bcd1a72801f72cbc2",
     "wof:hierarchy": [
       {
+        "custom_id": 1913849003,
         "flight_id": 1913849003
       }
     ],
@@ -56,11 +57,13 @@
       -1,
       1159283849
     ],
-    "wof:lastmodified": 1714840737,
+    "wof:lastmodified": 1716581319,
     "wof:name": "IB7442 (SFO-LHR)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-05",
     "wof:superseded_by": [],
     "wof:supersedes": []

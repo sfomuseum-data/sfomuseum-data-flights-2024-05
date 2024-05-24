@@ -40,6 +40,7 @@
     "wof:geomhash": "db1125d5f6b158d369f65fa73fc455da",
     "wof:hierarchy": [
       {
+        "custom_id": 1914002395,
         "flight_id": 1914002395
       }
     ],
@@ -50,11 +51,13 @@
       1159284333,
       -1
     ],
-    "wof:lastmodified": 1716309468,
+    "wof:lastmodified": 1716581322,
     "wof:name": "EK41 (SFO-DXB)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-05",
     "wof:superseded_by": [],
     "wof:supersedes": []

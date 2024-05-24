@@ -53,6 +53,7 @@
     "wof:geomhash": "38f88108bbae8bb050c3144d37bdc384",
     "wof:hierarchy": [
       {
+        "custom_id": 1913834843,
         "flight_id": 1913834843
       }
     ],
@@ -63,11 +64,13 @@
       102527513,
       102531023
     ],
-    "wof:lastmodified": 1714754624,
+    "wof:lastmodified": 1716581316,
     "wof:name": "DL8880 (MIA-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-05",
     "wof:superseded_by": [],
     "wof:supersedes": []

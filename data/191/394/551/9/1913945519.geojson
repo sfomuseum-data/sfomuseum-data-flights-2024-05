@@ -52,6 +52,7 @@
     "wof:geomhash": "76fab8ba90cc172f777e745d124625d2",
     "wof:hierarchy": [
       {
+        "custom_id": 1913945519,
         "flight_id": 1913945519
       }
     ],
@@ -62,11 +63,13 @@
       102527513,
       1159284625
     ],
-    "wof:lastmodified": 1715791358,
+    "wof:lastmodified": 1716581324,
     "wof:name": "KE214 (SFO-ICN)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-05",
     "wof:superseded_by": [],
     "wof:supersedes": []

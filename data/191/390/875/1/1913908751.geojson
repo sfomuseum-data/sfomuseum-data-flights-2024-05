@@ -53,6 +53,7 @@
     "wof:geomhash": "36f645f844d4838b633d7fed3f06d4a5",
     "wof:hierarchy": [
       {
+        "custom_id": 1913908751,
         "flight_id": 1913908751
       }
     ],
@@ -63,11 +64,13 @@
       102525035,
       102527513
     ],
-    "wof:lastmodified": 1715445772,
+    "wof:lastmodified": 1716581320,
     "wof:name": "UA8155 (SFO-BNA)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-05",
     "wof:superseded_by": [],
     "wof:supersedes": []

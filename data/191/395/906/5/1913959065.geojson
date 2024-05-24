@@ -53,6 +53,7 @@
     "wof:geomhash": "e5ae5d1ea61206da1f1e1104d6bc1bb7",
     "wof:hierarchy": [
       {
+        "custom_id": 1913959065,
         "flight_id": 1913959065
       }
     ],
@@ -63,11 +64,13 @@
       102527513,
       102533243
     ],
-    "wof:lastmodified": 1715878181,
+    "wof:lastmodified": 1716581323,
     "wof:name": "UA8214 (TPA-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-05",
     "wof:superseded_by": [],
     "wof:supersedes": []

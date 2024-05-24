@@ -40,6 +40,7 @@
     "wof:geomhash": "980d68d8d28509c0742a6b2a7abf5f67",
     "wof:hierarchy": [
       {
+        "custom_id": 1914023041,
         "flight_id": 1914023041
       }
     ],
@@ -50,11 +51,13 @@
       1159285413,
       -1
     ],
-    "wof:lastmodified": 1716567660,
+    "wof:lastmodified": 1716581324,
     "wof:name": "UA435 (CMH-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-05",
     "wof:superseded_by": [],
     "wof:supersedes": []

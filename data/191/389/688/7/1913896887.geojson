@@ -64,6 +64,7 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102087579,
+        "custom_id": 1913896887,
         "flight_id": 1913896887,
         "locality_id": 85922583,
         "postalcode_id": 554784711,
@@ -78,6 +79,7 @@
         "continent_id": 102191575,
         "country_id": 85633793,
         "county_id": 102085387,
+        "custom_id": 1913896887,
         "flight_id": 1913896887,
         "region_id": 85688637,
         "venue_id": 1763588283,
@@ -92,11 +94,13 @@
       1763588283,
       1159283875
     ],
-    "wof:lastmodified": 1715358559,
+    "wof:lastmodified": 1716581317,
     "wof:name": "NZ9875 (SFO-YVR)",
     "wof:parent_id": 1763588283,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-05",
     "wof:superseded_by": [],
     "wof:supersedes": []

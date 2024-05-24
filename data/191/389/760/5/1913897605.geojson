@@ -40,6 +40,7 @@
     "wof:geomhash": "e3775dcc82e10b2050a0f38d95bd1f16",
     "wof:hierarchy": [
       {
+        "custom_id": 1913897605,
         "flight_id": 1913897605
       }
     ],
@@ -50,11 +51,13 @@
       1159284261,
       -1
     ],
-    "wof:lastmodified": 1715358794,
+    "wof:lastmodified": 1716581318,
     "wof:name": "DL8842 (SFO-OKC)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-05",
     "wof:superseded_by": [],
     "wof:supersedes": []

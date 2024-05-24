@@ -40,6 +40,7 @@
     "wof:geomhash": "4d2f43ff669fe1502d86c3c45d37677c",
     "wof:hierarchy": [
       {
+        "custom_id": 1913845889,
         "flight_id": 1913845889
       }
     ],
@@ -50,11 +51,13 @@
       1159285391,
       -1
     ],
-    "wof:lastmodified": 1714839726,
+    "wof:lastmodified": 1716581316,
     "wof:name": "TK73 (IST-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-05",
     "wof:superseded_by": [],
     "wof:supersedes": []

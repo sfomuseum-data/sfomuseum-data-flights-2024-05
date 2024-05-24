@@ -40,6 +40,7 @@
     "wof:geomhash": "ec4a8fe4d0e09d37ae50bf109072b003",
     "wof:hierarchy": [
       {
+        "custom_id": 1913977171,
         "flight_id": 1913977171
       }
     ],
@@ -50,11 +51,13 @@
       1159284153,
       -1
     ],
-    "wof:lastmodified": 1716049744,
+    "wof:lastmodified": 1716581326,
     "wof:name": "CI5397 (SFO-TPE)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-05",
     "wof:superseded_by": [],
     "wof:supersedes": []

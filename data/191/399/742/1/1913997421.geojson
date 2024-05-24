@@ -53,6 +53,7 @@
     "wof:geomhash": "f16008bc2ad68c6d1bc593247c6c74a9",
     "wof:hierarchy": [
       {
+        "custom_id": 1913997421,
         "flight_id": 1913997421
       }
     ],
@@ -63,11 +64,13 @@
       1159289939,
       102527513
     ],
-    "wof:lastmodified": 1716309810,
+    "wof:lastmodified": 1716581327,
     "wof:name": "DL8839 (LAX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",
-    "wof:placetype_alt": "flight",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2024-05",
     "wof:superseded_by": [],
     "wof:supersedes": []
