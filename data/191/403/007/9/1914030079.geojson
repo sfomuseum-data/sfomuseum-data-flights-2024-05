@@ -2,10 +2,12 @@
   "id": 1914030079,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2024-05-24",
-    "date:inception_upper": "2024-05-24",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-05-24",
+    "date:cessation_lower": "2024-05-25",
+    "date:cessation_upper": "2024-05-25",
+    "date:inception_lower": "2024-05-25",
+    "date:inception_upper": "2024-05-25",
+    "edtf:cessation": "2024-05-25T03:39:17Z",
+    "edtf:inception": "2024-05-25T02:06:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -122.3376055,
     "iata:airline": "DL",
     "iata:base_airline": "",
+    "icao:aircraft": "A21N",
     "icao:airline": "DAL",
     "icao:base_airline": "KLM",
     "lbl:latitude": 37.614676,
     "lbl:longitude": -122.38248,
+    "sfomuseum:aircraft_id": 1377564297,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20240524-A-KLM-5820",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N501DA",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,11 +62,16 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "86969355",
+      "swim:gufi": "KS85920600"
+    },
     "wof:country": "US",
     "wof:created": 1716653528,
     "wof:geomhash": "3123a4aff4021144fa8973299956ba97",
     "wof:hierarchy": [
       {
+        "[\n      \"flight\"\n    ]_id": 1914030079,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588233,
@@ -73,6 +87,7 @@
         "wing_id": 1763588123
       },
       {
+        "[\n      \"flight\"\n    ]_id": 1914030079,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588233,
@@ -88,13 +103,14 @@
     ],
     "wof:id": 1914030079,
     "wof:involves": [
+      1377564297,
       102527513,
       102533269,
       1159284261,
       1763588247,
       1159284613
     ],
-    "wof:lastmodified": 1716653528,
+    "wof:lastmodified": 1716655508,
     "wof:name": "DL2061 (SEA-SFO)",
     "wof:parent_id": 1763588247,
     "wof:placetype": "custom",

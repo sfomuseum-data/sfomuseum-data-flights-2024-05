@@ -2,10 +2,12 @@
   "id": 1914033471,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-05-24",
+    "date:cessation_upper": "2024-05-24",
     "date:inception_lower": "2024-05-24",
     "date:inception_upper": "2024-05-24",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-05-24",
+    "edtf:cessation": "2024-05-24T16:46:30Z",
+    "edtf:inception": "2024-05-24T15:35:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -53,11 +55,15 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "87016901"
+    },
     "wof:country": "US",
     "wof:created": 1716654574,
     "wof:geomhash": "25f5345529d944df781e36098260a435",
     "wof:hierarchy": [
       {
+        "[\n      \"flight\"\n    ]_id": 1914033471,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588125,
@@ -73,6 +79,7 @@
         "wing_id": 1763588123
       },
       {
+        "[\n      \"flight\"\n    ]_id": 1914033471,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588125,
@@ -94,7 +101,7 @@
       1763588139,
       1159283849
     ],
-    "wof:lastmodified": 1716654574,
+    "wof:lastmodified": 1716655532,
     "wof:name": "AS716 (SFO-SAN)",
     "wof:parent_id": 1763588139,
     "wof:placetype": "custom",

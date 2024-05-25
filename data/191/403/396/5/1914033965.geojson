@@ -2,10 +2,12 @@
   "id": 1914033965,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-05-25",
+    "date:cessation_upper": "2024-05-25",
     "date:inception_lower": "2024-05-24",
     "date:inception_upper": "2024-05-24",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-05-24",
+    "edtf:cessation": "2024-05-25T08:46:49Z",
+    "edtf:inception": "2024-05-24T22:31:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "LH",
     "flysfo:base_airline": "",
@@ -53,11 +55,15 @@
       1763588369,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "87061567"
+    },
     "wof:country": "US",
     "wof:created": 1716654727,
     "wof:geomhash": "a63fc4dac3cd4064d907a0b9ef33a7bc",
     "wof:hierarchy": [
       {
+        "[\n      \"flight\"\n    ]_id": 1914033965,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588433,
@@ -73,6 +79,7 @@
         "wing_id": 1763588369
       },
       {
+        "[\n      \"flight\"\n    ]_id": 1914033965,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588433,
@@ -94,7 +101,7 @@
       1763588465,
       1159283697
     ],
-    "wof:lastmodified": 1716654727,
+    "wof:lastmodified": 1716655534,
     "wof:name": "LH455 (SFO-FRA)",
     "wof:parent_id": 1763588465,
     "wof:placetype": "custom",

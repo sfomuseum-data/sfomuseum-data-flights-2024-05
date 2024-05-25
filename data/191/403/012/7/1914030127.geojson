@@ -2,10 +2,12 @@
   "id": 1914030127,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-05-24",
+    "date:cessation_upper": "2024-05-24",
     "date:inception_lower": "2024-05-24",
     "date:inception_upper": "2024-05-24",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-05-24",
+    "edtf:cessation": "2024-05-24T19:41:13Z",
+    "edtf:inception": "2024-05-24T13:51:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -98.07939400000001,
     "iata:airline": "DL",
     "iata:base_airline": "",
+    "icao:aircraft": "B752",
     "icao:airline": "DAL",
     "icao:base_airline": "AMX",
     "lbl:latitude": 37.615184,
     "lbl:longitude": -122.382965,
+    "sfomuseum:aircraft_id": 1159289939,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20240524-A-AMX-4704",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N702TW",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,11 +62,16 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "87003828",
+      "swim:gufi": "KN43852600"
+    },
     "wof:country": "US",
     "wof:created": 1716653542,
     "wof:geomhash": "ba4d31d1826c6198b5ffa8fdb1249c5d",
     "wof:hierarchy": [
       {
+        "[\n      \"flight\"\n    ]_id": 1914030127,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588233,
@@ -73,6 +87,7 @@
         "wing_id": 1763588123
       },
       {
+        "[\n      \"flight\"\n    ]_id": 1914030127,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588233,
@@ -88,13 +103,14 @@
     ],
     "wof:id": 1914030127,
     "wof:involves": [
-      102527513,
       102534365,
       1159284261,
       1763588243,
-      1159283539
+      1159283539,
+      1159289939,
+      102527513
     ],
-    "wof:lastmodified": 1716653542,
+    "wof:lastmodified": 1716655509,
     "wof:name": "DL467 (JFK-SFO)",
     "wof:parent_id": 1763588243,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 1914031559,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-05-25",
+    "date:cessation_upper": "2024-05-25",
     "date:inception_lower": "2024-05-24",
     "date:inception_upper": "2024-05-24",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-05-24",
+    "edtf:cessation": "2024-05-25T00:04:00Z",
+    "edtf:inception": "2024-05-24T18:40:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -99.9123225,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B39M",
     "icao:airline": "UAL",
     "icao:base_airline": "ANZ",
     "lbl:latitude": 37.619425,
     "lbl:longitude": -122.384028,
+    "sfomuseum:aircraft_id": 1528104577,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20240524-A-ANZ-9176",
@@ -53,11 +57,16 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "87038649",
+      "swim:gufi": "KW58547600"
+    },
     "wof:country": "US",
     "wof:created": 1716653990,
     "wof:geomhash": "376248592ab7850cfb9a479529cc5caf",
     "wof:hierarchy": [
       {
+        "[\n      \"flight\"\n    ]_id": 1914031559,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588335,
@@ -73,6 +82,7 @@
         "wing_id": 1763588269
       },
       {
+        "[\n      \"flight\"\n    ]_id": 1914031559,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588335,
@@ -92,9 +102,10 @@
       102528817,
       1159285413,
       1763588357,
-      1159283697
+      1159283697,
+      1528104577
     ],
-    "wof:lastmodified": 1716653990,
+    "wof:lastmodified": 1716655518,
     "wof:name": "UA2228 (IAD-SFO)",
     "wof:parent_id": 1763588357,
     "wof:placetype": "custom",

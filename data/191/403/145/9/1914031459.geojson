@@ -2,10 +2,12 @@
   "id": 1914031459,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-05-24",
+    "date:cessation_upper": "2024-05-24",
     "date:inception_lower": "2024-05-24",
     "date:inception_upper": "2024-05-24",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-05-24",
+    "edtf:cessation": "2024-05-24T13:56:00Z",
+    "edtf:inception": "2024-05-24T09:08:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -140.859366,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B38M",
     "icao:airline": "UAL",
     "icao:base_airline": "DLH",
     "lbl:latitude": 37.617835,
     "lbl:longitude": -122.388019,
+    "sfomuseum:aircraft_id": 1528104575,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20240524-A-DLH-7859",
@@ -39,6 +43,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,11 +61,16 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "86989144",
+      "swim:gufi": "KO44941600"
+    },
     "wof:country": "US",
     "wof:created": 1716653958,
     "wof:geomhash": "46fccc0e56242535ccfd5ecb278f9a75",
     "wof:hierarchy": [
       {
+        "[\n      \"flight\"\n    ]_id": 1914031459,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588271,
@@ -73,6 +86,7 @@
         "wing_id": 1763588269
       },
       {
+        "[\n      \"flight\"\n    ]_id": 1914031459,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588271,
@@ -88,13 +102,14 @@
     ],
     "wof:id": 1914031459,
     "wof:involves": [
-      102527513,
-      102528943,
       1159285413,
       1763588287,
-      1159286015
+      1159286015,
+      1528104575,
+      102527513,
+      102528943
     ],
-    "wof:lastmodified": 1716653958,
+    "wof:lastmodified": 1716655517,
     "wof:name": "UA1746 (LIH-SFO)",
     "wof:parent_id": 1763588287,
     "wof:placetype": "custom",

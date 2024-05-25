@@ -2,10 +2,12 @@
   "id": 1914033329,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-05-25",
+    "date:cessation_upper": "2024-05-25",
     "date:inception_lower": "2024-05-24",
     "date:inception_upper": "2024-05-24",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-05-24",
+    "edtf:cessation": "2024-05-25T10:54:03Z",
+    "edtf:inception": "2024-05-24T22:54:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "YP",
     "flysfo:date": "2024-05-24",
@@ -48,11 +50,15 @@
       1763588175,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "87138937"
+    },
     "wof:country": "US",
     "wof:created": 1716654530,
     "wof:geomhash": "76fab8ba90cc172f777e745d124625d2",
     "wof:hierarchy": [
       {
+        "[\n      \"flight\"\n    ]_id": 1914033329,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588177,
@@ -68,6 +74,7 @@
         "wing_id": 1763588175
       },
       {
+        "[\n      \"flight\"\n    ]_id": 1914033329,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588177,
@@ -88,7 +95,7 @@
       -1,
       1763588483
     ],
-    "wof:lastmodified": 1716654530,
+    "wof:lastmodified": 1716655528,
     "wof:name": "YP112 (SFO-ICN)",
     "wof:parent_id": 1763588483,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 1914033839,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2024-05-24",
-    "date:inception_upper": "2024-05-24",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-05-24",
+    "date:cessation_lower": "2024-05-25",
+    "date:cessation_upper": "2024-05-25",
+    "date:inception_lower": "2024-05-25",
+    "date:inception_upper": "2024-05-25",
+    "edtf:cessation": "2024-05-25T03:46:00Z",
+    "edtf:inception": "2024-05-25T02:50:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -120.38022649999999,
     "iata:airline": "DL",
     "iata:base_airline": "",
+    "icao:aircraft": "B739",
     "icao:airline": "DAL",
     "icao:base_airline": "KAL",
     "lbl:latitude": 37.615184,
     "lbl:longitude": -122.382965,
+    "sfomuseum:aircraft_id": 1377564285,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102533795,
     "sfomuseum:base_flight_id": "20240524-D-KAL-7236",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N869DN",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,11 +62,16 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "86976056",
+      "swim:gufi": "KO04202700"
+    },
     "wof:country": "US",
     "wof:created": 1716654688,
     "wof:geomhash": "602be2a828e3460cadf44be5b1c2e36b",
     "wof:hierarchy": [
       {
+        "[\n      \"flight\"\n    ]_id": 1914033839,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588233,
@@ -73,6 +87,7 @@
         "wing_id": 1763588123
       },
       {
+        "[\n      \"flight\"\n    ]_id": 1914033839,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588233,
@@ -88,13 +103,14 @@
     ],
     "wof:id": 1914033839,
     "wof:involves": [
+      1377564285,
       102533795,
       102527513,
       1159284261,
       1763588243,
       1159284625
     ],
-    "wof:lastmodified": 1716654688,
+    "wof:lastmodified": 1716655534,
     "wof:name": "DL1051 (SFO-LAX)",
     "wof:parent_id": 1763588243,
     "wof:placetype": "custom",

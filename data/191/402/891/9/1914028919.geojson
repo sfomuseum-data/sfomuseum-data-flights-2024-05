@@ -2,10 +2,12 @@
   "id": 1914028919,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-05-25",
+    "date:cessation_upper": "2024-05-25",
     "date:inception_lower": "2024-05-24",
     "date:inception_upper": "2024-05-24",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-05-24",
+    "edtf:cessation": "2024-05-25T01:15:00Z",
+    "edtf:inception": "2024-05-24T23:26:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AC",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -122.7750715,
     "iata:airline": "AC",
     "iata:base_airline": "",
+    "icao:aircraft": "A319",
     "icao:airline": "ACA",
     "icao:base_airline": "SWR",
     "lbl:latitude": 37.618149,
     "lbl:longitude": -122.381669,
+    "sfomuseum:aircraft_id": 1159289407,
     "sfomuseum:airline_id": 1159283597,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20240524-A-SWR-4645",
@@ -39,6 +43,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,11 +60,16 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "87072403",
+      "swim:gufi": "KS80880600"
+    },
     "wof:country": "US",
     "wof:created": 1716653166,
     "wof:geomhash": "e68490b7b9257816408c117e0e15f8ec",
     "wof:hierarchy": [
       {
+        "[\n      \"flight\"\n    ]_id": 1914028919,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588125,
@@ -73,6 +85,7 @@
         "wing_id": 1763588123
       },
       {
+        "[\n      \"flight\"\n    ]_id": 1914028919,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588125,
@@ -88,13 +101,14 @@
     ],
     "wof:id": 1914028919,
     "wof:involves": [
-      102527513,
-      102555307,
       1159283597,
       1763588155,
-      1159286475
+      1159286475,
+      1159289407,
+      102527513,
+      102555307
     ],
-    "wof:lastmodified": 1716653166,
+    "wof:lastmodified": 1716655514,
     "wof:name": "AC568 (YVR-SFO)",
     "wof:parent_id": 1763588155,
     "wof:placetype": "custom",

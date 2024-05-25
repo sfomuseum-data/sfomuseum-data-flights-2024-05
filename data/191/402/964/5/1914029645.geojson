@@ -2,10 +2,12 @@
   "id": 1914029645,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2024-05-24",
-    "date:inception_upper": "2024-05-24",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-05-24",
+    "date:cessation_lower": "2024-05-25",
+    "date:cessation_upper": "2024-05-25",
+    "date:inception_lower": "2024-05-25",
+    "date:inception_upper": "2024-05-25",
+    "edtf:cessation": "2024-05-25T06:51:46Z",
+    "edtf:inception": "2024-05-25T02:06:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -139.40440999999998,
     "iata:airline": "AS",
     "iata:base_airline": "",
+    "icao:aircraft": "B39M",
     "icao:airline": "ASA",
     "icao:base_airline": "AAL",
     "lbl:latitude": 37.617908,
     "lbl:longitude": -122.381084,
+    "sfomuseum:aircraft_id": 1528104577,
     "sfomuseum:airline_id": 1159283813,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20240524-A-AAL-7579",
@@ -39,6 +43,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,11 +61,15 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "86975564"
+    },
     "wof:country": "US",
     "wof:created": 1716653392,
     "wof:geomhash": "e4ae4c60ed0a76df38dbcfaaa5dd6a55",
     "wof:hierarchy": [
       {
+        "[\n      \"flight\"\n    ]_id": 1914029645,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588125,
@@ -73,6 +85,7 @@
         "wing_id": 1763588123
       },
       {
+        "[\n      \"flight\"\n    ]_id": 1914029645,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588125,
@@ -88,13 +101,14 @@
     ],
     "wof:id": 1914029645,
     "wof:involves": [
+      1763588149,
+      1159283849,
+      1528104577,
       102527513,
       102532929,
-      1159283813,
-      1763588149,
-      1159283849
+      1159283813
     ],
-    "wof:lastmodified": 1716653392,
+    "wof:lastmodified": 1716655518,
     "wof:name": "AS878 (OGG-SFO)",
     "wof:parent_id": 1763588149,
     "wof:placetype": "custom",

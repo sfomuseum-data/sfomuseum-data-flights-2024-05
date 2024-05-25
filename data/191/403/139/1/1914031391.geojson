@@ -2,10 +2,12 @@
   "id": 1914031391,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-05-25",
+    "date:cessation_upper": "2024-05-25",
     "date:inception_lower": "2024-05-24",
     "date:inception_upper": "2024-05-24",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-05-24",
+    "edtf:cessation": "2024-05-25T01:40:00Z",
+    "edtf:inception": "2024-05-24T22:49:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -116.044202,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B738",
     "icao:airline": "UAL",
     "icao:base_airline": "ACA",
     "lbl:latitude": 37.617458,
     "lbl:longitude": -122.391079,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20240524-A-ACA-5319",
@@ -53,11 +57,16 @@
       1763588369,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "87069251",
+      "swim:gufi": "KL00876700"
+    },
     "wof:country": "US",
     "wof:created": 1716653937,
     "wof:geomhash": "57b2b594ef41523ab9fe7c26d147f9bd",
     "wof:hierarchy": [
       {
+        "[\n      \"flight\"\n    ]_id": 1914031391,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588433,
@@ -73,6 +82,7 @@
         "wing_id": 1763588369
       },
       {
+        "[\n      \"flight\"\n    ]_id": 1914031391,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588433,
@@ -88,13 +98,14 @@
     ],
     "wof:id": 1914031391,
     "wof:involves": [
+      1159289871,
       102527513,
       102536441,
       1159285413,
       1763588443,
       1159283597
     ],
-    "wof:lastmodified": 1716653937,
+    "wof:lastmodified": 1716655516,
     "wof:name": "UA1174 (SJD-SFO)",
     "wof:parent_id": 1763588443,
     "wof:placetype": "custom",

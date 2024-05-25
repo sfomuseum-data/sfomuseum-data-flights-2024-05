@@ -2,10 +2,12 @@
   "id": 1914032875,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-05-25",
+    "date:cessation_upper": "2024-05-25",
     "date:inception_lower": "2024-05-24",
     "date:inception_upper": "2024-05-24",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-05-24",
+    "edtf:cessation": "2024-05-25T06:25:40Z",
+    "edtf:inception": "2024-05-24T20:15:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "NH",
     "flysfo:base_airline": "",
@@ -53,11 +55,15 @@
       1763588369,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "87044771"
+    },
     "wof:country": "US",
     "wof:created": 1716654392,
     "wof:geomhash": "b0708fbc9882ec26729f19c3bf135279",
     "wof:hierarchy": [
       {
+        "[\n      \"flight\"\n    ]_id": 1914032875,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588433,
@@ -73,6 +79,7 @@
         "wing_id": 1763588369
       },
       {
+        "[\n      \"flight\"\n    ]_id": 1914032875,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588433,
@@ -94,7 +101,7 @@
       1763588447,
       1159285639
     ],
-    "wof:lastmodified": 1716654392,
+    "wof:lastmodified": 1716655526,
     "wof:name": "NH7 (SFO-NRT)",
     "wof:parent_id": 1763588447,
     "wof:placetype": "custom",

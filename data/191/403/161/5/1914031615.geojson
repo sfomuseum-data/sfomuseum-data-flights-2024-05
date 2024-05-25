@@ -2,10 +2,12 @@
   "id": 1914031615,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-05-24",
+    "date:cessation_upper": "2024-05-24",
     "date:inception_lower": "2024-05-24",
     "date:inception_upper": "2024-05-24",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-05-24",
+    "edtf:cessation": "2024-05-24T21:46:00Z",
+    "edtf:inception": "2024-05-24T18:04:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -108.8546935,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B738",
     "icao:airline": "UAL",
     "icao:base_airline": "UAE",
     "lbl:latitude": 37.620304,
     "lbl:longitude": -122.388827,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20240524-A-UAE-6156",
@@ -53,11 +57,16 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "87036388",
+      "swim:gufi": "KH61344600"
+    },
     "wof:country": "US",
     "wof:created": 1716654008,
     "wof:geomhash": "25dc9d98eae1cd54f40654c6c4fb6929",
     "wof:hierarchy": [
       {
+        "[\n      \"flight\"\n    ]_id": 1914031615,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588271,
@@ -73,6 +82,7 @@
         "wing_id": 1763588269
       },
       {
+        "[\n      \"flight\"\n    ]_id": 1914031615,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588271,
@@ -88,13 +98,14 @@
     ],
     "wof:id": 1914031615,
     "wof:involves": [
+      1159289871,
       102527513,
       102534097,
       1159285413,
       1763588315,
       1159284333
     ],
-    "wof:lastmodified": 1716654008,
+    "wof:lastmodified": 1716655518,
     "wof:name": "UA2611 (IAH-SFO)",
     "wof:parent_id": 1763588315,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 1914035447,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-05-24",
+    "date:cessation_upper": "2024-05-24",
     "date:inception_lower": "2024-05-24",
     "date:inception_upper": "2024-05-24",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-05-24",
+    "edtf:cessation": "2024-05-24T18:51:43Z",
+    "edtf:inception": "2024-05-24T18:05:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -121.104038,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "A320",
     "icao:airline": "UAL",
     "icao:base_airline": "ACA",
     "lbl:latitude": 37.617921,
     "lbl:longitude": -122.38181,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527337,
     "sfomuseum:base_flight_id": "20240524-D-ACA-4058",
@@ -39,6 +43,7 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "swim:tail_number": "N465UA",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,11 +58,16 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "87035265",
+      "swim:gufi": "KO54306600"
+    },
     "wof:country": "US",
     "wof:created": 1716655186,
     "wof:geomhash": "1d9a5fa2c9575ebb155d9645f1016c57",
     "wof:hierarchy": [
       {
+        "[\n      \"flight\"\n    ]_id": 1914035447,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588125,
@@ -73,6 +83,7 @@
         "wing_id": 1763588123
       },
       {
+        "[\n      \"flight\"\n    ]_id": 1914035447,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588125,
@@ -88,13 +99,14 @@
     ],
     "wof:id": 1914035447,
     "wof:involves": [
+      1159283597,
+      1159292085,
       102527337,
       102527513,
       1159285413,
-      1763588159,
-      1159283597
+      1763588159
     ],
-    "wof:lastmodified": 1716655186,
+    "wof:lastmodified": 1716655529,
     "wof:name": "UA2367 (SFO-SBA)",
     "wof:parent_id": 1763588159,
     "wof:placetype": "custom",

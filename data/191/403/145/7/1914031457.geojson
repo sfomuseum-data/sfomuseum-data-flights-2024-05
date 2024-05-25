@@ -2,10 +2,12 @@
   "id": 1914031457,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-05-24",
+    "date:cessation_upper": "2024-05-24",
     "date:inception_lower": "2024-05-24",
     "date:inception_upper": "2024-05-24",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-05-24",
+    "edtf:cessation": "2024-05-24T15:41:02Z",
+    "edtf:inception": "2024-05-24T14:35:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -119.778435,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B738",
     "icao:airline": "UAL",
     "icao:base_airline": "ACA",
     "lbl:latitude": 37.617908,
     "lbl:longitude": -122.381084,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20240524-A-ACA-4193",
@@ -53,11 +57,16 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "87012019",
+      "swim:gufi": "KL43541600"
+    },
     "wof:country": "US",
     "wof:created": 1716653957,
     "wof:geomhash": "d1d4873ced1d6ea3128e45b0b2070718",
     "wof:hierarchy": [
       {
+        "[\n      \"flight\"\n    ]_id": 1914031457,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588125,
@@ -73,6 +82,7 @@
         "wing_id": 1763588123
       },
       {
+        "[\n      \"flight\"\n    ]_id": 1914031457,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588125,
@@ -88,13 +98,14 @@
     ],
     "wof:id": 1914031457,
     "wof:involves": [
+      1159283597,
+      1159289871,
       102527513,
       102528997,
       1159285413,
-      1763588149,
-      1159283597
+      1763588149
     ],
-    "wof:lastmodified": 1716653957,
+    "wof:lastmodified": 1716655517,
     "wof:name": "UA1734 (SAN-SFO)",
     "wof:parent_id": 1763588149,
     "wof:placetype": "custom",

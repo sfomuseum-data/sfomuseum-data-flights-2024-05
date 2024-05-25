@@ -2,10 +2,12 @@
   "id": 1914030191,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-05-25",
+    "date:cessation_upper": "2024-05-25",
     "date:inception_lower": "2024-05-24",
     "date:inception_upper": "2024-05-24",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-05-24",
+    "edtf:cessation": "2024-05-25T01:55:46Z",
+    "edtf:inception": "2024-05-24T15:04:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "LH",
     "flysfo:base_airline": "",
@@ -53,11 +55,15 @@
       1763588369,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "87011946"
+    },
     "wof:country": "US",
     "wof:created": 1716653562,
     "wof:geomhash": "eba9741d16611c9af3d962416d546de7",
     "wof:hierarchy": [
       {
+        "[\n      \"flight\"\n    ]_id": 1914030191,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588433,
@@ -73,6 +79,7 @@
         "wing_id": 1763588369
       },
       {
+        "[\n      \"flight\"\n    ]_id": 1914030191,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588433,
@@ -94,7 +101,7 @@
       1763588451,
       1159283697
     ],
-    "wof:lastmodified": 1716653562,
+    "wof:lastmodified": 1716655510,
     "wof:name": "LH458 (MUC-SFO)",
     "wof:parent_id": 1763588451,
     "wof:placetype": "custom",

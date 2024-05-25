@@ -2,10 +2,12 @@
   "id": 1914033963,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-05-25",
+    "date:cessation_upper": "2024-05-25",
     "date:inception_lower": "2024-05-24",
     "date:inception_upper": "2024-05-24",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-05-24",
+    "edtf:cessation": "2024-05-25T01:15:05Z",
+    "edtf:inception": "2024-05-24T20:02:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:date": "2024-05-24",
@@ -21,9 +23,11 @@
     "geom:latitude": 39.990156,
     "geom:longitude": -96.6928465,
     "iata:airline": "DL",
+    "icao:aircraft": "A21N",
     "icao:airline": "DAL",
     "lbl:latitude": 37.615184,
     "lbl:longitude": -122.382965,
+    "sfomuseum:aircraft_id": 1377564297,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102530741,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N542DE",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -48,11 +57,16 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "87045939",
+      "swim:gufi": "KO67262600"
+    },
     "wof:country": "US",
     "wof:created": 1716654726,
     "wof:geomhash": "92fb504f17f3373e6b03bb6769f65d8a",
     "wof:hierarchy": [
       {
+        "[\n      \"flight\"\n    ]_id": 1914033963,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588233,
@@ -68,6 +82,7 @@
         "wing_id": 1763588123
       },
       {
+        "[\n      \"flight\"\n    ]_id": 1914033963,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588233,
@@ -83,12 +98,13 @@
     ],
     "wof:id": 1914033963,
     "wof:involves": [
+      1377564297,
       102530741,
       102527513,
       1159284261,
       1763588243
     ],
-    "wof:lastmodified": 1716654726,
+    "wof:lastmodified": 1716655534,
     "wof:name": "DL977 (SFO-BOS)",
     "wof:parent_id": 1763588243,
     "wof:placetype": "custom",

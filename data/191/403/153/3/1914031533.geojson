@@ -2,10 +2,12 @@
   "id": 1914031533,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-05-24",
+    "date:cessation_upper": "2024-05-24",
     "date:inception_lower": "2024-05-24",
     "date:inception_upper": "2024-05-24",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-05-24",
+    "edtf:cessation": "2024-05-24T05:14:00Z",
+    "edtf:inception": "2024-05-24T03:38:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -122.3376055,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B38M",
     "icao:airline": "UAL",
     "icao:base_airline": "AVA",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1528104575,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20240524-A-AVA-2037",
@@ -53,11 +57,16 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "86978412",
+      "swim:gufi": "KS84233500"
+    },
     "wof:country": "US",
     "wof:created": 1716653982,
     "wof:geomhash": "3123a4aff4021144fa8973299956ba97",
     "wof:hierarchy": [
       {
+        "[\n      \"flight\"\n    ]_id": 1914031533,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588271,
@@ -73,6 +82,7 @@
         "wing_id": 1763588269
       },
       {
+        "[\n      \"flight\"\n    ]_id": 1914031533,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588271,
@@ -88,13 +98,14 @@
     ],
     "wof:id": 1914031533,
     "wof:involves": [
+      1763588291,
+      1159285749,
+      1528104575,
       102527513,
       102533269,
-      1159285413,
-      1763588291,
-      1159285749
+      1159285413
     ],
-    "wof:lastmodified": 1716653982,
+    "wof:lastmodified": 1716655518,
     "wof:name": "UA2091 (SEA-SFO)",
     "wof:parent_id": 1763588291,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 1914033441,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-05-24",
+    "date:cessation_upper": "2024-05-24",
     "date:inception_lower": "2024-05-24",
     "date:inception_upper": "2024-05-24",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-05-24",
+    "edtf:cessation": "2024-05-24T11:25:05Z",
+    "edtf:inception": "2024-05-24T06:31:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -98.07939400000001,
     "iata:airline": "AS",
     "iata:base_airline": "",
+    "icao:aircraft": "B39M",
     "icao:airline": "ASA",
     "icao:base_airline": "QTR",
     "lbl:latitude": 37.617421,
     "lbl:longitude": -122.380916,
+    "sfomuseum:aircraft_id": 1528104577,
     "sfomuseum:airline_id": 1159283813,
     "sfomuseum:arrival_id": 102534365,
     "sfomuseum:base_flight_id": "20240524-D-QTR-2984",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N956AK",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,11 +62,15 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "86984174"
+    },
     "wof:country": "US",
     "wof:created": 1716654565,
     "wof:geomhash": "1348792a172720778d3219cc18ccd8ee",
     "wof:hierarchy": [
       {
+        "[\n      \"flight\"\n    ]_id": 1914033441,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588125,
@@ -73,6 +86,7 @@
         "wing_id": 1763588123
       },
       {
+        "[\n      \"flight\"\n    ]_id": 1914033441,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588125,
@@ -88,13 +102,14 @@
     ],
     "wof:id": 1914033441,
     "wof:involves": [
+      1763588145,
+      1159286153,
+      1528104577,
       102534365,
       102527513,
-      1159283813,
-      1763588145,
-      1159286153
+      1159283813
     ],
-    "wof:lastmodified": 1716654565,
+    "wof:lastmodified": 1716655532,
     "wof:name": "AS38 (SFO-JFK)",
     "wof:parent_id": 1763588145,
     "wof:placetype": "custom",

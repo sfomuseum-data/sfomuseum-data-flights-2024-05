@@ -2,10 +2,12 @@
   "id": 1914035479,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-05-25",
+    "date:cessation_upper": "2024-05-25",
     "date:inception_lower": "2024-05-24",
     "date:inception_upper": "2024-05-24",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-05-24",
+    "edtf:cessation": "2024-05-25T01:10:00Z",
+    "edtf:inception": "2024-05-24T23:49:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -122.484166,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B738",
     "icao:airline": "UAL",
     "icao:base_airline": "THY",
     "lbl:latitude": 37.618874,
     "lbl:longitude": -122.38419,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102532251,
     "sfomuseum:base_flight_id": "20240524-D-THY-9589",
@@ -53,11 +57,16 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "87073745",
+      "swim:gufi": "KO71248600"
+    },
     "wof:country": "US",
     "wof:created": 1716655197,
     "wof:geomhash": "a0e250e9237d15725a2a6f51d6b7a6b6",
     "wof:hierarchy": [
       {
+        "[\n      \"flight\"\n    ]_id": 1914035479,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588335,
@@ -73,6 +82,7 @@
         "wing_id": 1763588269
       },
       {
+        "[\n      \"flight\"\n    ]_id": 1914035479,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588335,
@@ -88,13 +98,14 @@
     ],
     "wof:id": 1914035479,
     "wof:involves": [
+      1159289871,
       102532251,
       102527513,
       1159285413,
       1763588343,
       1159285391
     ],
-    "wof:lastmodified": 1716655197,
+    "wof:lastmodified": 1716655529,
     "wof:name": "UA2611 (SFO-PDX)",
     "wof:parent_id": 1763588343,
     "wof:placetype": "custom",

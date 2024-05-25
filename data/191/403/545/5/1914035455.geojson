@@ -2,10 +2,12 @@
   "id": 1914035455,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-05-24",
+    "date:cessation_upper": "2024-05-24",
     "date:inception_lower": "2024-05-24",
     "date:inception_upper": "2024-05-24",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-05-24",
+    "edtf:cessation": "2024-05-24T23:41:00Z",
+    "edtf:inception": "2024-05-24T18:55:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -140.1446795,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B772",
     "icao:airline": "UAL",
     "icao:base_airline": "ANZ",
     "lbl:latitude": 37.620818,
     "lbl:longitude": -122.389182,
+    "sfomuseum:aircraft_id": 1159289985,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102533997,
     "sfomuseum:base_flight_id": "20240524-D-ANZ-9145",
@@ -53,11 +57,16 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "87038668",
+      "swim:gufi": "KO59329600"
+    },
     "wof:country": "US",
     "wof:created": 1716655189,
     "wof:geomhash": "ff961493fc59fc665836e174da62aa8e",
     "wof:hierarchy": [
       {
+        "[\n      \"flight\"\n    ]_id": 1914035455,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588271,
@@ -73,6 +82,7 @@
         "wing_id": 1763588269
       },
       {
+        "[\n      \"flight\"\n    ]_id": 1914035455,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588271,
@@ -88,13 +98,14 @@
     ],
     "wof:id": 1914035455,
     "wof:involves": [
+      1763588317,
+      1159283697,
+      1159289985,
       102533997,
       102527513,
-      1159285413,
-      1763588317,
-      1159283697
+      1159285413
     ],
-    "wof:lastmodified": 1716655189,
+    "wof:lastmodified": 1716655529,
     "wof:name": "UA2380 (SFO-HNL)",
     "wof:parent_id": 1763588317,
     "wof:placetype": "custom",

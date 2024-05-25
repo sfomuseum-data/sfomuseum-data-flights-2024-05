@@ -2,10 +2,12 @@
   "id": 1914029489,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-05-25",
+    "date:cessation_upper": "2024-05-25",
     "date:inception_lower": "2024-05-24",
     "date:inception_upper": "2024-05-24",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-05-24",
+    "edtf:cessation": "2024-05-25T00:55:18Z",
+    "edtf:inception": "2024-05-24T23:18:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -122.3376055,
     "iata:airline": "AS",
     "iata:base_airline": "",
+    "icao:aircraft": "B39M",
     "icao:airline": "ASA",
     "icao:base_airline": "BAW",
     "lbl:latitude": 37.61705,
     "lbl:longitude": -122.380838,
+    "sfomuseum:aircraft_id": 1528104577,
     "sfomuseum:airline_id": 1159283813,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20240524-A-BAW-7544",
@@ -53,11 +57,16 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "87069735",
+      "swim:gufi": "KS78487601"
+    },
     "wof:country": "US",
     "wof:created": 1716653347,
     "wof:geomhash": "3123a4aff4021144fa8973299956ba97",
     "wof:hierarchy": [
       {
+        "[\n      \"flight\"\n    ]_id": 1914029489,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588125,
@@ -73,6 +82,7 @@
         "wing_id": 1763588123
       },
       {
+        "[\n      \"flight\"\n    ]_id": 1914029489,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588125,
@@ -88,13 +98,14 @@
     ],
     "wof:id": 1914029489,
     "wof:involves": [
+      1528104577,
       102527513,
       102533269,
       1159283813,
       1763588141,
       1159284021
     ],
-    "wof:lastmodified": 1716653347,
+    "wof:lastmodified": 1716655517,
     "wof:name": "AS1140 (SEA-SFO)",
     "wof:parent_id": 1763588141,
     "wof:placetype": "custom",
