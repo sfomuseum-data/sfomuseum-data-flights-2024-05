@@ -2,10 +2,12 @@
   "id": 1914039957,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-05-25",
+    "date:cessation_upper": "2024-05-25",
     "date:inception_lower": "2024-05-25",
     "date:inception_upper": "2024-05-25",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-05-25",
+    "edtf:cessation": "2024-05-25T13:16:00Z",
+    "edtf:inception": "2024-05-25T08:43:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -140.1446795,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B77W",
     "icao:airline": "UAL",
     "icao:base_airline": "ACA",
     "lbl:latitude": 37.620929,
     "lbl:longitude": -122.390272,
+    "sfomuseum:aircraft_id": 1159289993,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20240525-A-ACA-3518",
@@ -39,6 +43,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,11 +61,16 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "87096702",
+      "swim:gufi": "KO42494700"
+    },
     "wof:country": "US",
     "wof:created": 1716740323,
     "wof:geomhash": "1ad63fa22de9103ed4396c0ca683f63f",
     "wof:hierarchy": [
       {
+        "[\n      \"flight\"\n    ]_id": 1914039957,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588271,
@@ -73,6 +86,7 @@
         "wing_id": 1763588269
       },
       {
+        "[\n      \"flight\"\n    ]_id": 1914039957,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588271,
@@ -88,13 +102,14 @@
     ],
     "wof:id": 1914039957,
     "wof:involves": [
+      1763588325,
+      1159283597,
+      1159289993,
       102527513,
       102533997,
-      1159285413,
-      1763588325,
-      1159283597
+      1159285413
     ],
-    "wof:lastmodified": 1716740323,
+    "wof:lastmodified": 1716741826,
     "wof:name": "UA1176 (HNL-SFO)",
     "wof:parent_id": 1763588325,
     "wof:placetype": "custom",

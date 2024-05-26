@@ -2,10 +2,12 @@
   "id": 1914038933,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-05-25",
+    "date:cessation_upper": "2024-05-25",
     "date:inception_lower": "2024-05-25",
     "date:inception_upper": "2024-05-25",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-05-25",
+    "edtf:cessation": "2024-05-25T18:52:00Z",
+    "edtf:inception": "2024-05-25T17:53:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "F9",
     "flysfo:date": "2024-05-25",
@@ -21,9 +23,11 @@
     "geom:latitude": 35.780291500000004,
     "geom:longitude": -120.38022649999999,
     "iata:airline": "F9",
+    "icao:aircraft": "A20N",
     "icao:airline": "FFT",
     "lbl:latitude": 37.611664,
     "lbl:longitude": -122.390495,
+    "sfomuseum:aircraft_id": 1377564295,
     "sfomuseum:airline_id": 1159284401,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102533795,
@@ -48,11 +52,16 @@
       1763588369,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "87129996",
+      "swim:gufi": "KL56343700"
+    },
     "wof:country": "US",
     "wof:created": 1716739999,
     "wof:geomhash": "f16008bc2ad68c6d1bc593247c6c74a9",
     "wof:hierarchy": [
       {
+        "[\n      \"flight\"\n    ]_id": 1914038933,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588371,
@@ -68,6 +77,7 @@
         "wing_id": 1763588369
       },
       {
+        "[\n      \"flight\"\n    ]_id": 1914038933,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588371,
@@ -83,12 +93,13 @@
     ],
     "wof:id": 1914038933,
     "wof:involves": [
-      102527513,
-      102533795,
       1159284401,
-      1763588427
+      1763588427,
+      1377564295,
+      102527513,
+      102533795
     ],
-    "wof:lastmodified": 1716739999,
+    "wof:lastmodified": 1716741820,
     "wof:name": "F93307 (LAX-SFO)",
     "wof:parent_id": 1763588427,
     "wof:placetype": "custom",

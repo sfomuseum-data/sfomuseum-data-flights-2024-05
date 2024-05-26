@@ -2,10 +2,12 @@
   "id": 1914043813,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-05-26",
+    "date:cessation_upper": "2024-05-26",
     "date:inception_lower": "2024-05-25",
     "date:inception_upper": "2024-05-25",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-05-25",
+    "edtf:cessation": "2024-05-26T10:35:27Z",
+    "edtf:inception": "2024-05-25T18:57:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:date": "2024-05-25",
@@ -21,9 +23,11 @@
     "geom:latitude": 19.482695,
     "geom:longitude": -9.197052,
     "iata:airline": "UA",
+    "icao:aircraft": "B789",
     "icao:airline": "UAL",
     "lbl:latitude": 37.617321,
     "lbl:longitude": -122.389477,
+    "sfomuseum:aircraft_id": 1159293215,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102551593,
     "sfomuseum:departure_id": 102527513,
@@ -34,6 +38,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-path"
+    ],
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -48,11 +55,16 @@
       1763588369,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "87141904",
+      "swim:gufi": "KO56036701"
+    },
     "wof:country": "US",
     "wof:created": 1716741528,
     "wof:geomhash": "998e7b0d931c2ad5e41dcc1541aaab60",
     "wof:hierarchy": [
       {
+        "[\n      \"flight\"\n    ]_id": 1914043813,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588433,
@@ -68,6 +80,7 @@
         "wing_id": 1763588369
       },
       {
+        "[\n      \"flight\"\n    ]_id": 1914043813,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588433,
@@ -86,9 +99,10 @@
       102551593,
       102527513,
       1159285413,
-      1763588437
+      1763588437,
+      1159293215
     ],
-    "wof:lastmodified": 1716741528,
+    "wof:lastmodified": 1716741833,
     "wof:name": "UA29 (SFO-SIN)",
     "wof:parent_id": 1763588437,
     "wof:placetype": "custom",

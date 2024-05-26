@@ -2,10 +2,12 @@
   "id": 1914038527,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-05-25",
+    "date:cessation_upper": "2024-05-25",
     "date:inception_lower": "2024-05-25",
     "date:inception_upper": "2024-05-25",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-05-25",
+    "edtf:cessation": "2024-05-25T15:22:15Z",
+    "edtf:inception": "2024-05-25T03:32:22Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "MU",
     "flysfo:base_airline": "",
@@ -53,11 +55,15 @@
       1763588369,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "87091175"
+    },
     "wof:country": "US",
     "wof:created": 1716739871,
     "wof:geomhash": "0a16624c451961804ad27ef012213244",
     "wof:hierarchy": [
       {
+        "[\n      \"flight\"\n    ]_id": 1914038527,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588371,
@@ -73,6 +79,7 @@
         "wing_id": 1763588369
       },
       {
+        "[\n      \"flight\"\n    ]_id": 1914038527,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588371,
@@ -94,7 +101,7 @@
       1763588409,
       1159284261
     ],
-    "wof:lastmodified": 1716739871,
+    "wof:lastmodified": 1716741818,
     "wof:name": "MU589 (PVG-SFO)",
     "wof:parent_id": 1763588409,
     "wof:placetype": "custom",

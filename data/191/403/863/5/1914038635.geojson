@@ -2,10 +2,12 @@
   "id": 1914038635,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-05-26",
+    "date:cessation_upper": "2024-05-26",
     "date:inception_lower": "2024-05-25",
     "date:inception_upper": "2024-05-25",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-05-25",
+    "edtf:cessation": "2024-05-26T06:14:00Z",
+    "edtf:inception": "2024-05-25T23:09:15Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "CM",
     "flysfo:base_airline": "",
@@ -53,11 +55,15 @@
       1763588369,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "87172831"
+    },
     "wof:country": "US",
     "wof:created": 1716739905,
     "wof:geomhash": "a24fa29091ad40e8c2dcacd18340610c",
     "wof:hierarchy": [
       {
+        "[\n      \"flight\"\n    ]_id": 1914038635,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588371,
@@ -73,6 +79,7 @@
         "wing_id": 1763588369
       },
       {
+        "[\n      \"flight\"\n    ]_id": 1914038635,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588371,
@@ -94,7 +101,7 @@
       1763588407,
       1159285413
     ],
-    "wof:lastmodified": 1716739905,
+    "wof:lastmodified": 1716741818,
     "wof:name": "CM382 (PTY-SFO)",
     "wof:parent_id": 1763588407,
     "wof:placetype": "custom",

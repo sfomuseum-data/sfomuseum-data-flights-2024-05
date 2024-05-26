@@ -2,10 +2,12 @@
   "id": 1914037633,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-05-26",
+    "date:cessation_upper": "2024-05-26",
     "date:inception_lower": "2024-05-25",
     "date:inception_upper": "2024-05-25",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-05-25",
+    "edtf:cessation": "2024-05-26T03:11:03Z",
+    "edtf:inception": "2024-05-25T23:10:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AM",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -110.7258735,
     "iata:airline": "AM",
     "iata:base_airline": "",
+    "icao:aircraft": "B39M",
     "icao:airline": "AMX",
     "icao:base_airline": "DAL",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1528104577,
     "sfomuseum:airline_id": 1159283539,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20240525-A-DAL-8008",
@@ -39,6 +43,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,11 +61,15 @@
       1763588369,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "87172240"
+    },
     "wof:country": "US",
     "wof:created": 1716739585,
     "wof:geomhash": "4224d1c4c9907a232ddfbf90e60373e4",
     "wof:hierarchy": [
       {
+        "[\n      \"flight\"\n    ]_id": 1914037633,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588371,
@@ -73,6 +85,7 @@
         "wing_id": 1763588369
       },
       {
+        "[\n      \"flight\"\n    ]_id": 1914037633,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588371,
@@ -88,13 +101,14 @@
     ],
     "wof:id": 1914037633,
     "wof:involves": [
-      102527513,
-      102536579,
       1159283539,
       1763588407,
-      1159284261
+      1159284261,
+      1528104577,
+      102527513,
+      102536579
     ],
-    "wof:lastmodified": 1716739585,
+    "wof:lastmodified": 1716741813,
     "wof:name": "AM664 (MEX-SFO)",
     "wof:parent_id": 1763588407,
     "wof:placetype": "custom",

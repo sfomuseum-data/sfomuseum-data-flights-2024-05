@@ -2,10 +2,12 @@
   "id": 1914040069,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-05-26",
+    "date:cessation_upper": "2024-05-26",
     "date:inception_lower": "2024-05-25",
     "date:inception_upper": "2024-05-25",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-05-25",
+    "edtf:cessation": "2024-05-26T00:27:00Z",
+    "edtf:inception": "2024-05-25T23:32:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -120.38022649999999,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "A320",
     "icao:airline": "UAL",
     "icao:base_airline": "ANZ",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159292085,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20240525-A-ANZ-9271",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N454UA",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,11 +62,16 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "87172984",
+      "swim:gufi": "KL70677700"
+    },
     "wof:country": "US",
     "wof:created": 1716740357,
     "wof:geomhash": "f16008bc2ad68c6d1bc593247c6c74a9",
     "wof:hierarchy": [
       {
+        "[\n      \"flight\"\n    ]_id": 1914040069,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588271,
@@ -73,6 +87,7 @@
         "wing_id": 1763588269
       },
       {
+        "[\n      \"flight\"\n    ]_id": 1914040069,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588271,
@@ -92,9 +107,10 @@
       102533795,
       1159285413,
       1763588291,
-      1159283697
+      1159283697,
+      1159292085
     ],
-    "wof:lastmodified": 1716740357,
+    "wof:lastmodified": 1716741807,
     "wof:name": "UA2019 (LAX-SFO)",
     "wof:parent_id": 1763588291,
     "wof:placetype": "custom",

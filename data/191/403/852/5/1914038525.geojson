@@ -2,10 +2,12 @@
   "id": 1914038525,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-05-25",
+    "date:cessation_upper": "2024-05-25",
     "date:inception_lower": "2024-05-25",
     "date:inception_upper": "2024-05-25",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-05-25",
+    "edtf:cessation": "2024-05-25T16:25:58Z",
+    "edtf:inception": "2024-05-25T05:40:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "CA",
     "flysfo:date": "2024-05-25",
@@ -21,9 +23,11 @@
     "geom:latitude": 38.8432295,
     "geom:longitude": -2.892393999999996,
     "iata:airline": "CA",
+    "icao:aircraft": "B77W",
     "icao:airline": "CCA",
     "lbl:latitude": 37.618209,
     "lbl:longitude": -122.391665,
+    "sfomuseum:aircraft_id": 1159289993,
     "sfomuseum:airline_id": 1159283605,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102550367,
@@ -34,6 +38,9 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route"
+    ],
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -48,11 +55,15 @@
       1763588369,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "87093231"
+    },
     "wof:country": "US",
     "wof:created": 1716739871,
     "wof:geomhash": "96cbe57d72475858a8ed1d7cff76fcd0",
     "wof:hierarchy": [
       {
+        "[\n      \"flight\"\n    ]_id": 1914038525,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588433,
@@ -68,6 +79,7 @@
         "wing_id": 1763588369
       },
       {
+        "[\n      \"flight\"\n    ]_id": 1914038525,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588433,
@@ -83,12 +95,13 @@
     ],
     "wof:id": 1914038525,
     "wof:involves": [
+      1159289993,
       102527513,
       102550367,
       1159283605,
       1763588449
     ],
-    "wof:lastmodified": 1716739871,
+    "wof:lastmodified": 1716741818,
     "wof:name": "CA985 (PEK-SFO)",
     "wof:parent_id": 1763588449,
     "wof:placetype": "custom",

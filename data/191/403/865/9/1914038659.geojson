@@ -2,10 +2,12 @@
   "id": 1914038659,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-05-26",
+    "date:cessation_upper": "2024-05-26",
     "date:inception_lower": "2024-05-25",
     "date:inception_upper": "2024-05-25",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-05-25",
+    "edtf:cessation": "2024-05-26T04:38:43Z",
+    "edtf:inception": "2024-05-25T16:42:27Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "CX",
     "flysfo:date": "2024-05-25",
@@ -21,9 +23,11 @@
     "geom:latitude": 29.9627305,
     "geom:longitude": -4.221753499999998,
     "iata:airline": "CX",
+    "icao:aircraft": "A359",
     "icao:airline": "CPA",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1377564293,
     "sfomuseum:airline_id": 1159284127,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102541737,
@@ -34,6 +38,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -48,11 +56,15 @@
       1763588369,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "87132477"
+    },
     "wof:country": "US",
     "wof:created": 1716739913,
     "wof:geomhash": "300aa0b6d6fd1fa7d09bf740f0e0c265",
     "wof:hierarchy": [
       {
+        "[\n      \"flight\"\n    ]_id": 1914038659,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588371,
@@ -68,6 +80,7 @@
         "wing_id": 1763588369
       },
       {
+        "[\n      \"flight\"\n    ]_id": 1914038659,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588371,
@@ -83,12 +96,13 @@
     ],
     "wof:id": 1914038659,
     "wof:involves": [
+      1377564293,
       102527513,
       102541737,
       1159284127,
       1763588405
     ],
-    "wof:lastmodified": 1716739913,
+    "wof:lastmodified": 1716741818,
     "wof:name": "CX872 (HKG-SFO)",
     "wof:parent_id": 1763588405,
     "wof:placetype": "custom",

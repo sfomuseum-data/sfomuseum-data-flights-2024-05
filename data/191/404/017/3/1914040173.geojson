@@ -2,10 +2,12 @@
   "id": 1914040173,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-05-25",
+    "date:cessation_upper": "2024-05-25",
     "date:inception_lower": "2024-05-25",
     "date:inception_upper": "2024-05-25",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-05-25",
+    "edtf:cessation": "2024-05-25T16:29:45Z",
+    "edtf:inception": "2024-05-25T11:11:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -99.9123225,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B39M",
     "icao:airline": "UAL",
     "icao:base_airline": "CCA",
     "lbl:latitude": 37.617908,
     "lbl:longitude": -122.381084,
+    "sfomuseum:aircraft_id": 1528104577,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20240525-A-CCA-7240",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N17566",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,11 +62,16 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "87101144",
+      "swim:gufi": "KW27945700"
+    },
     "wof:country": "US",
     "wof:created": 1716740390,
     "wof:geomhash": "376248592ab7850cfb9a479529cc5caf",
     "wof:hierarchy": [
       {
+        "[\n      \"flight\"\n    ]_id": 1914040173,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588125,
@@ -73,6 +87,7 @@
         "wing_id": 1763588123
       },
       {
+        "[\n      \"flight\"\n    ]_id": 1914040173,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588125,
@@ -88,13 +103,14 @@
     ],
     "wof:id": 1914040173,
     "wof:involves": [
+      1159283605,
+      1528104577,
       102527513,
       102528817,
       1159285413,
-      1763588149,
-      1159283605
+      1763588149
     ],
-    "wof:lastmodified": 1716740390,
+    "wof:lastmodified": 1716741809,
     "wof:name": "UA277 (IAD-SFO)",
     "wof:parent_id": 1763588149,
     "wof:placetype": "custom",

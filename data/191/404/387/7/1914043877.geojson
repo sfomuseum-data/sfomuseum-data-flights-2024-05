@@ -2,10 +2,12 @@
   "id": 1914043877,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2024-05-25",
-    "date:inception_upper": "2024-05-25",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-05-25",
+    "date:cessation_lower": "2024-05-26",
+    "date:cessation_upper": "2024-05-26",
+    "date:inception_lower": "2024-05-26",
+    "date:inception_upper": "2024-05-26",
+    "edtf:cessation": "2024-05-26T05:09:29Z",
+    "edtf:inception": "2024-05-26T01:58:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -108.8546935,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B739",
     "icao:airline": "UAL",
     "icao:base_airline": "AAR",
     "lbl:latitude": 37.618102,
     "lbl:longitude": -122.38769,
+    "sfomuseum:aircraft_id": 1377564285,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102534097,
     "sfomuseum:base_flight_id": "20240525-D-AAR-9521",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N39475",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,11 +62,16 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "87083689",
+      "swim:gufi": "KO84498700"
+    },
     "wof:country": "US",
     "wof:created": 1716741547,
     "wof:geomhash": "4d8eca8dfd12d13a56951180b27dbf13",
     "wof:hierarchy": [
       {
+        "[\n      \"flight\"\n    ]_id": 1914043877,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588271,
@@ -73,6 +87,7 @@
         "wing_id": 1763588269
       },
       {
+        "[\n      \"flight\"\n    ]_id": 1914043877,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588271,
@@ -88,13 +103,14 @@
     ],
     "wof:id": 1914043877,
     "wof:involves": [
+      1159283917,
+      1377564285,
       102534097,
       102527513,
       1159285413,
-      1763588285,
-      1159283917
+      1763588285
     ],
-    "wof:lastmodified": 1716741547,
+    "wof:lastmodified": 1716741834,
     "wof:name": "UA514 (SFO-IAH)",
     "wof:parent_id": 1763588285,
     "wof:placetype": "custom",

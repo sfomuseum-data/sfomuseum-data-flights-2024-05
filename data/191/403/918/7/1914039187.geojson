@@ -2,10 +2,12 @@
   "id": 1914039187,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-05-25",
+    "date:cessation_upper": "2024-05-25",
     "date:inception_lower": "2024-05-25",
     "date:inception_upper": "2024-05-25",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-05-25",
+    "edtf:cessation": "2024-05-25T18:31:24Z",
+    "edtf:inception": "2024-05-25T10:02:58Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "JL",
     "flysfo:base_airline": "",
@@ -53,11 +55,15 @@
       1763588369,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "87203944"
+    },
     "wof:country": "US",
     "wof:created": 1716740080,
     "wof:geomhash": "d46bcc8d1d94e68df95be799ac6a3b4c",
     "wof:hierarchy": [
       {
+        "[\n      \"flight\"\n    ]_id": 1914039187,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588371,
@@ -73,6 +79,7 @@
         "wing_id": 1763588369
       },
       {
+        "[\n      \"flight\"\n    ]_id": 1914039187,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588371,
@@ -94,7 +101,7 @@
       1763588405,
       1159283849
     ],
-    "wof:lastmodified": 1716740080,
+    "wof:lastmodified": 1716741822,
     "wof:name": "JL58 (NRT-SFO)",
     "wof:parent_id": 1763588405,
     "wof:placetype": "custom",

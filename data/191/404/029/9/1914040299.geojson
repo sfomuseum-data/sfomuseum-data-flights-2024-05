@@ -2,10 +2,12 @@
   "id": 1914040299,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-05-26",
+    "date:cessation_upper": "2024-05-26",
     "date:inception_lower": "2024-05-25",
     "date:inception_upper": "2024-05-25",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-05-25",
+    "edtf:cessation": "2024-05-26T00:20:00Z",
+    "edtf:inception": "2024-05-25T22:22:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -116.76460499999999,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "A319",
     "icao:airline": "UAL",
     "icao:base_airline": "ANZ",
     "lbl:latitude": 37.618578,
     "lbl:longitude": -122.385434,
+    "sfomuseum:aircraft_id": 1159289407,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20240525-A-ANZ-9415",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N854UA",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,11 +62,16 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "87165098",
+      "swim:gufi": "KU70003700"
+    },
     "wof:country": "US",
     "wof:created": 1716740430,
     "wof:geomhash": "acf2ad4ec949b4135a187e5a7cb03262",
     "wof:hierarchy": [
       {
+        "[\n      \"flight\"\n    ]_id": 1914040299,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588271,
@@ -73,6 +87,7 @@
         "wing_id": 1763588269
       },
       {
+        "[\n      \"flight\"\n    ]_id": 1914040299,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588271,
@@ -92,9 +107,10 @@
       102530815,
       1159285413,
       1763588281,
-      1159283697
+      1159283697,
+      1159289407
     ],
-    "wof:lastmodified": 1716740430,
+    "wof:lastmodified": 1716741810,
     "wof:name": "UA589 (BZN-SFO)",
     "wof:parent_id": 1763588281,
     "wof:placetype": "custom",

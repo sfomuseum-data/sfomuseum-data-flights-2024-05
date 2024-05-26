@@ -2,10 +2,12 @@
   "id": 1914043643,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2024-05-25",
-    "date:inception_upper": "2024-05-25",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-05-25",
+    "date:cessation_lower": "2024-05-26",
+    "date:cessation_upper": "2024-05-26",
+    "date:inception_lower": "2024-05-26",
+    "date:inception_upper": "2024-05-26",
+    "edtf:cessation": "2024-05-26T11:04:00Z",
+    "edtf:inception": "2024-05-26T06:29:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -101.3334745,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B738",
     "icao:airline": "UAL",
     "icao:base_airline": "CMP",
     "lbl:latitude": 37.617921,
     "lbl:longitude": -122.38181,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102531023,
     "sfomuseum:base_flight_id": "20240525-D-CMP-2876",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N76504",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,11 +62,16 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "87092951",
+      "swim:gufi": "KO12604100"
+    },
     "wof:country": "US",
     "wof:created": 1716741474,
     "wof:geomhash": "05e474f4bf1eb5ae110c20d94aac828f",
     "wof:hierarchy": [
       {
+        "[\n      \"flight\"\n    ]_id": 1914043643,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588125,
@@ -73,6 +87,7 @@
         "wing_id": 1763588123
       },
       {
+        "[\n      \"flight\"\n    ]_id": 1914043643,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588125,
@@ -88,13 +103,14 @@
     ],
     "wof:id": 1914043643,
     "wof:involves": [
+      1159289871,
       102531023,
       102527513,
       1159285413,
       1763588159,
       1159284211
     ],
-    "wof:lastmodified": 1716741474,
+    "wof:lastmodified": 1716741831,
     "wof:name": "UA1637 (SFO-MIA)",
     "wof:parent_id": 1763588159,
     "wof:placetype": "custom",

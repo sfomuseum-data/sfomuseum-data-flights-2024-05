@@ -2,10 +2,12 @@
   "id": 1914038763,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-05-26",
+    "date:cessation_upper": "2024-05-26",
     "date:inception_lower": "2024-05-25",
     "date:inception_upper": "2024-05-25",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-05-25",
+    "edtf:cessation": "2024-05-26T03:51:00Z",
+    "edtf:inception": "2024-05-25T21:32:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -96.6928465,
     "iata:airline": "DL",
     "iata:base_airline": "",
+    "icao:aircraft": "A21N",
     "icao:airline": "DAL",
     "icao:base_airline": "LAN",
     "lbl:latitude": 37.614676,
     "lbl:longitude": -122.38248,
+    "sfomuseum:aircraft_id": 1377564297,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20240525-A-LAN-8949",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N531DA",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,11 +62,16 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "87160011",
+      "swim:gufi": "KB73247700"
+    },
     "wof:country": "US",
     "wof:created": 1716739943,
     "wof:geomhash": "9cccd37636918a32bc446a92e7ba93ba",
     "wof:hierarchy": [
       {
+        "[\n      \"flight\"\n    ]_id": 1914038763,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588233,
@@ -73,6 +87,7 @@
         "wing_id": 1763588123
       },
       {
+        "[\n      \"flight\"\n    ]_id": 1914038763,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588233,
@@ -88,13 +103,14 @@
     ],
     "wof:id": 1914038763,
     "wof:involves": [
+      1377564297,
       102527513,
       102530741,
       1159284261,
       1763588247,
       1159285641
     ],
-    "wof:lastmodified": 1716739943,
+    "wof:lastmodified": 1716741819,
     "wof:name": "DL475 (BOS-SFO)",
     "wof:parent_id": 1763588247,
     "wof:placetype": "custom",
