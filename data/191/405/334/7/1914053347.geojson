@@ -2,10 +2,12 @@
   "id": 1914053347,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2024-05-27",
-    "date:inception_upper": "2024-05-27",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-05-27",
+    "date:cessation_lower": "2024-05-28",
+    "date:cessation_upper": "2024-05-28",
+    "date:inception_lower": "2024-05-28",
+    "date:inception_upper": "2024-05-28",
+    "edtf:cessation": "2024-05-28T12:42:26Z",
+    "edtf:inception": "2024-05-28T02:41:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -57.5518295,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B77W",
     "icao:airline": "UAL",
     "icao:base_airline": "ACA",
     "lbl:latitude": 37.61836,
     "lbl:longitude": -122.393229,
+    "sfomuseum:aircraft_id": 1159289993,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102549057,
     "sfomuseum:base_flight_id": "20240527-D-ACA-5032",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N2136U",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,11 +62,16 @@
       1763588369,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "87277887",
+      "swim:gufi": "KO82741200"
+    },
     "wof:country": "US",
     "wof:created": 1716914489,
     "wof:geomhash": "a63fc4dac3cd4064d907a0b9ef33a7bc",
     "wof:hierarchy": [
       {
+        "[\n      \"flight\"\n    ]_id": 1914053347,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588433,
@@ -73,6 +87,7 @@
         "wing_id": 1763588369
       },
       {
+        "[\n      \"flight\"\n    ]_id": 1914053347,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588433,
@@ -88,13 +103,14 @@
     ],
     "wof:id": 1914053347,
     "wof:involves": [
+      1159289993,
       102549057,
       102527513,
       1159285413,
       1763588455,
       1159283597
     ],
-    "wof:lastmodified": 1716914489,
+    "wof:lastmodified": 1716914729,
     "wof:name": "UA926 (SFO-FRA)",
     "wof:parent_id": 1763588455,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 1914047263,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-05-28",
+    "date:cessation_upper": "2024-05-28",
     "date:inception_lower": "2024-05-27",
     "date:inception_upper": "2024-05-27",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-05-27",
+    "edtf:cessation": "2024-05-28T01:15:06Z",
+    "edtf:inception": "2024-05-27T23:50:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -122.484166,
     "iata:airline": "AS",
     "iata:base_airline": "",
+    "icao:aircraft": "B39M",
     "icao:airline": "ASA",
     "icao:base_airline": "FJI",
     "lbl:latitude": 37.617421,
     "lbl:longitude": -122.380916,
+    "sfomuseum:aircraft_id": 1528104577,
     "sfomuseum:airline_id": 1159283813,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20240527-A-FJI-5815",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N948AK",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,11 +62,16 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "87268839",
+      "swim:gufi": "KS81433201"
+    },
     "wof:country": "US",
     "wof:created": 1716912557,
     "wof:geomhash": "3af422147b92e6fa9912d38a57ea404a",
     "wof:hierarchy": [
       {
+        "[\n      \"flight\"\n    ]_id": 1914047263,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588125,
@@ -73,6 +87,7 @@
         "wing_id": 1763588123
       },
       {
+        "[\n      \"flight\"\n    ]_id": 1914047263,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588125,
@@ -88,13 +103,14 @@
     ],
     "wof:id": 1914047263,
     "wof:involves": [
+      1528104577,
       102527513,
       102532251,
       1159283813,
       1763588145,
       1159283717
     ],
-    "wof:lastmodified": 1716912557,
+    "wof:lastmodified": 1716914715,
     "wof:name": "AS1163 (PDX-SFO)",
     "wof:parent_id": 1763588145,
     "wof:placetype": "custom",

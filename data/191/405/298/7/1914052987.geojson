@@ -2,10 +2,12 @@
   "id": 1914052987,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2024-05-27",
-    "date:inception_upper": "2024-05-27",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-05-27",
+    "date:cessation_lower": "2024-05-28",
+    "date:cessation_upper": "2024-05-28",
+    "date:inception_lower": "2024-05-28",
+    "date:inception_upper": "2024-05-28",
+    "edtf:cessation": "2024-05-28T08:08:00Z",
+    "edtf:inception": "2024-05-28T07:07:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -118.7636915,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B738",
     "icao:airline": "UAL",
     "icao:base_airline": "THY",
     "lbl:latitude": 37.619367,
     "lbl:longitude": -122.38387,
+    "sfomuseum:aircraft_id": 1159289871,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527209,
     "sfomuseum:base_flight_id": "20240527-D-THY-9591",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N35204",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,11 +62,16 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "87284737",
+      "swim:gufi": "KO11953300"
+    },
     "wof:country": "US",
     "wof:created": 1716914377,
     "wof:geomhash": "ccf694144ef1f7a2823fe9bc7c6018ea",
     "wof:hierarchy": [
       {
+        "[\n      \"flight\"\n    ]_id": 1914052987,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588335,
@@ -73,6 +87,7 @@
         "wing_id": 1763588269
       },
       {
+        "[\n      \"flight\"\n    ]_id": 1914052987,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588335,
@@ -92,9 +107,10 @@
       102527513,
       1159285413,
       1763588353,
-      1159285391
+      1159285391,
+      1159289871
     ],
-    "wof:lastmodified": 1716914377,
+    "wof:lastmodified": 1716914725,
     "wof:name": "UA1995 (SFO-LAS)",
     "wof:parent_id": 1763588353,
     "wof:placetype": "custom",

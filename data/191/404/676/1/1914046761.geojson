@@ -2,10 +2,12 @@
   "id": 1914046761,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-05-28",
+    "date:cessation_upper": "2024-05-28",
     "date:inception_lower": "2024-05-27",
     "date:inception_upper": "2024-05-27",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-05-27",
+    "edtf:cessation": "2024-05-28T02:53:44Z",
+    "edtf:inception": "2024-05-27T11:55:15Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AI",
     "flysfo:date": "2024-05-27",
@@ -21,9 +23,11 @@
     "geom:latitude": 28.3579,
     "geom:longitude": -24.752452999999996,
     "iata:airline": "AI",
+    "icao:aircraft": "B77L",
     "icao:airline": "AIC",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159289989,
     "sfomuseum:airline_id": 1159283649,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:departure_id": 102555685,
@@ -34,6 +38,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -48,11 +56,15 @@
       1763588369,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "87286890"
+    },
     "wof:country": "US",
     "wof:created": 1716912392,
     "wof:geomhash": "e8aee4e844e89ba8d7a176f852774210",
     "wof:hierarchy": [
       {
+        "[\n      \"flight\"\n    ]_id": 1914046761,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588371,
@@ -68,6 +80,7 @@
         "wing_id": 1763588369
       },
       {
+        "[\n      \"flight\"\n    ]_id": 1914046761,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588371,
@@ -83,12 +96,13 @@
     ],
     "wof:id": 1914046761,
     "wof:involves": [
+      1763588401,
+      1159289989,
       102527513,
       102555685,
-      1159283649,
-      1763588401
+      1159283649
     ],
-    "wof:lastmodified": 1716912392,
+    "wof:lastmodified": 1716914712,
     "wof:name": "AI179 (BOM-SFO)",
     "wof:parent_id": 1763588401,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 1914049195,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-05-27",
+    "date:cessation_upper": "2024-05-27",
     "date:inception_lower": "2024-05-27",
     "date:inception_upper": "2024-05-27",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-05-27",
+    "edtf:cessation": "2024-05-27T22:10:26Z",
+    "edtf:inception": "2024-05-27T18:03:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -105.1326535,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "A21N",
     "icao:airline": "UAL",
     "icao:base_airline": "ACA",
     "lbl:latitude": 37.620791,
     "lbl:longitude": -122.390014,
+    "sfomuseum:aircraft_id": 1377564297,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20240527-A-ACA-5081",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N14511",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,11 +62,16 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "87324385",
+      "swim:gufi": "KG54091200"
+    },
     "wof:country": "US",
     "wof:created": 1716913184,
     "wof:geomhash": "81d390dcf2582f737869c573200abb8f",
     "wof:hierarchy": [
       {
+        "[\n      \"flight\"\n    ]_id": 1914049195,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588271,
@@ -73,6 +87,7 @@
         "wing_id": 1763588269
       },
       {
+        "[\n      \"flight\"\n    ]_id": 1914049195,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588271,
@@ -92,9 +107,10 @@
       102533631,
       1159285413,
       1763588321,
-      1159283597
+      1159283597,
+      1377564297
     ],
-    "wof:lastmodified": 1716913184,
+    "wof:lastmodified": 1716914727,
     "wof:name": "UA1878 (ORD-SFO)",
     "wof:parent_id": 1763588321,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 1914047699,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-05-27",
+    "date:cessation_upper": "2024-05-27",
     "date:inception_lower": "2024-05-27",
     "date:inception_upper": "2024-05-27",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-05-27",
+    "edtf:cessation": "2024-05-27T21:25:10Z",
+    "edtf:inception": "2024-05-27T10:20:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DE",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -57.5518295,
     "iata:airline": "DE",
     "iata:base_airline": "",
+    "icao:aircraft": "A339",
     "icao:airline": "CFG",
     "icao:base_airline": "ASA",
     "lbl:latitude": 37.612893,
     "lbl:longitude": -122.389652,
+    "sfomuseum:aircraft_id": 1393786509,
     "sfomuseum:airline_id": 1159284193,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20240527-A-ASA-8832",
@@ -39,6 +43,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,11 +61,15 @@
       1763588369,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "87289490"
+    },
     "wof:country": "US",
     "wof:created": 1716912696,
     "wof:geomhash": "ec6660f1f317e7fe021c7c410168f722",
     "wof:hierarchy": [
       {
+        "[\n      \"flight\"\n    ]_id": 1914047699,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588371,
@@ -73,6 +85,7 @@
         "wing_id": 1763588369
       },
       {
+        "[\n      \"flight\"\n    ]_id": 1914047699,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588371,
@@ -88,13 +101,14 @@
     ],
     "wof:id": 1914047699,
     "wof:involves": [
+      1393786509,
       102527513,
       102549057,
       1159284193,
       1763588417,
       1159283813
     ],
-    "wof:lastmodified": 1716912696,
+    "wof:lastmodified": 1716914717,
     "wof:name": "DE2092 (FRA-SFO)",
     "wof:parent_id": 1763588417,
     "wof:placetype": "custom",

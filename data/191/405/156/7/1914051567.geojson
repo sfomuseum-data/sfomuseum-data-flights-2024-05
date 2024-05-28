@@ -2,10 +2,12 @@
   "id": 1914051567,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-05-27",
+    "date:cessation_upper": "2024-05-27",
     "date:inception_lower": "2024-05-27",
     "date:inception_upper": "2024-05-27",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-05-27",
+    "edtf:cessation": "2024-05-27T14:26:00Z",
+    "edtf:inception": "2024-05-27T13:27:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -120.38022649999999,
     "iata:airline": "DL",
     "iata:base_airline": "",
+    "icao:aircraft": "A319",
     "icao:airline": "DAL",
     "icao:base_airline": "AMX",
     "lbl:latitude": 37.614645,
     "lbl:longitude": -122.382263,
+    "sfomuseum:aircraft_id": 1159289407,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102533795,
     "sfomuseum:base_flight_id": "20240527-D-AMX-4089",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N317NB",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,11 +62,15 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "87299030"
+    },
     "wof:country": "US",
     "wof:created": 1716913932,
     "wof:geomhash": "602be2a828e3460cadf44be5b1c2e36b",
     "wof:hierarchy": [
       {
+        "[\n      \"flight\"\n    ]_id": 1914051567,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588233,
@@ -73,6 +86,7 @@
         "wing_id": 1763588123
       },
       {
+        "[\n      \"flight\"\n    ]_id": 1914051567,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588233,
@@ -88,13 +102,14 @@
     ],
     "wof:id": 1914051567,
     "wof:involves": [
+      1159289407,
       102533795,
       102527513,
       1159284261,
       1763588253,
       1159283539
     ],
-    "wof:lastmodified": 1716913932,
+    "wof:lastmodified": 1716914717,
     "wof:name": "DL2841 (SFO-LAX)",
     "wof:parent_id": 1763588253,
     "wof:placetype": "custom",

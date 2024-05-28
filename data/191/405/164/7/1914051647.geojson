@@ -2,10 +2,12 @@
   "id": 1914051647,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-05-28",
+    "date:cessation_upper": "2024-05-28",
     "date:inception_lower": "2024-05-27",
     "date:inception_upper": "2024-05-27",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-05-27",
+    "edtf:cessation": "2024-05-28T00:50:00Z",
+    "edtf:inception": "2024-05-27T19:50:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -96.6928465,
     "iata:airline": "DL",
     "iata:base_airline": "",
+    "icao:aircraft": "A21N",
     "icao:airline": "DAL",
     "icao:base_airline": "CES",
     "lbl:latitude": 37.614676,
     "lbl:longitude": -122.38248,
+    "sfomuseum:aircraft_id": 1377564297,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102530741,
     "sfomuseum:base_flight_id": "20240527-D-CES-8867",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N527DE",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,11 +62,16 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "87333239",
+      "swim:gufi": "KO67262200"
+    },
     "wof:country": "US",
     "wof:created": 1716913956,
     "wof:geomhash": "92fb504f17f3373e6b03bb6769f65d8a",
     "wof:hierarchy": [
       {
+        "[\n      \"flight\"\n    ]_id": 1914051647,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588233,
@@ -73,6 +87,7 @@
         "wing_id": 1763588123
       },
       {
+        "[\n      \"flight\"\n    ]_id": 1914051647,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588233,
@@ -88,13 +103,14 @@
     ],
     "wof:id": 1914051647,
     "wof:involves": [
-      102530741,
-      102527513,
       1159284261,
       1763588247,
-      1159284157
+      1159284157,
+      1377564297,
+      102530741,
+      102527513
     ],
-    "wof:lastmodified": 1716913956,
+    "wof:lastmodified": 1716914717,
     "wof:name": "DL977 (SFO-BOS)",
     "wof:parent_id": 1763588247,
     "wof:placetype": "custom",

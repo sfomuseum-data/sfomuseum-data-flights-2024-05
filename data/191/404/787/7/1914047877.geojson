@@ -2,10 +2,12 @@
   "id": 1914047877,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-05-27",
+    "date:cessation_upper": "2024-05-27",
     "date:inception_lower": "2024-05-27",
     "date:inception_upper": "2024-05-27",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-05-27",
+    "edtf:cessation": "2024-05-27T20:11:54Z",
+    "edtf:inception": "2024-05-27T18:28:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "DL",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -117.1757545,
     "iata:airline": "DL",
     "iata:base_airline": "",
+    "icao:aircraft": "BCS1",
     "icao:airline": "DAL",
     "icao:base_airline": "AFR",
     "lbl:latitude": 37.614645,
     "lbl:longitude": -122.382263,
+    "sfomuseum:aircraft_id": 1528104583,
     "sfomuseum:airline_id": 1159284261,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20240527-A-AFR-2684",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N139DU",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,11 +62,16 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "87321577",
+      "swim:gufi": "KU59641200"
+    },
     "wof:country": "US",
     "wof:created": 1716912754,
     "wof:geomhash": "24b8b627208edff0ed857058cce4fc5a",
     "wof:hierarchy": [
       {
+        "[\n      \"flight\"\n    ]_id": 1914047877,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588233,
@@ -73,6 +87,7 @@
         "wing_id": 1763588123
       },
       {
+        "[\n      \"flight\"\n    ]_id": 1914047877,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588233,
@@ -88,13 +103,14 @@
     ],
     "wof:id": 1914047877,
     "wof:involves": [
+      1159283627,
+      1528104583,
       102527513,
       102527363,
       1159284261,
-      1763588253,
-      1159283627
+      1763588253
     ],
-    "wof:lastmodified": 1716912754,
+    "wof:lastmodified": 1716914718,
     "wof:name": "DL2414 (SLC-SFO)",
     "wof:parent_id": 1763588253,
     "wof:placetype": "custom",

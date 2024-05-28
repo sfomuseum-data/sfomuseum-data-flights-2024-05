@@ -2,10 +2,12 @@
   "id": 1914046717,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2024-05-27",
-    "date:inception_upper": "2024-05-27",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-05-27",
+    "date:cessation_lower": "2024-05-28",
+    "date:cessation_upper": "2024-05-28",
+    "date:inception_lower": "2024-05-28",
+    "date:inception_upper": "2024-05-28",
+    "edtf:cessation": "2024-05-28T07:30:00Z",
+    "edtf:inception": "2024-05-28T01:18:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AC",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -98.057846,
     "iata:airline": "AC",
     "iata:base_airline": "",
+    "icao:aircraft": "BCS3",
     "icao:airline": "ACA",
     "icao:base_airline": "ANZ",
     "lbl:latitude": 37.618249,
     "lbl:longitude": -122.381477,
+    "sfomuseum:aircraft_id": 1813375783,
     "sfomuseum:airline_id": 1159283597,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20240527-A-ANZ-4807",
@@ -39,6 +43,10 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,11 +61,16 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "87269918",
+      "swim:gufi": "KP09025300"
+    },
     "wof:country": "US",
     "wof:created": 1716912376,
     "wof:geomhash": "d6fced31e2f30d79d54c9b38b6916cc7",
     "wof:hierarchy": [
       {
+        "[\n      \"flight\"\n    ]_id": 1914046717,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588125,
@@ -73,6 +86,7 @@
         "wing_id": 1763588123
       },
       {
+        "[\n      \"flight\"\n    ]_id": 1914046717,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588125,
@@ -88,13 +102,14 @@
     ],
     "wof:id": 1914046717,
     "wof:involves": [
+      1813375783,
       102527513,
       102554351,
       1159283597,
       1763588153,
       1159283697
     ],
-    "wof:lastmodified": 1716912376,
+    "wof:lastmodified": 1716914712,
     "wof:name": "AC765 (YUL-SFO)",
     "wof:parent_id": 1763588153,
     "wof:placetype": "custom",

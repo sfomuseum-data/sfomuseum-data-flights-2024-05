@@ -2,10 +2,12 @@
   "id": 1914049277,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2024-05-27",
-    "date:inception_upper": "2024-05-27",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-05-27",
+    "date:cessation_lower": "2024-05-28",
+    "date:cessation_upper": "2024-05-28",
+    "date:inception_lower": "2024-05-28",
+    "date:inception_upper": "2024-05-28",
+    "edtf:cessation": "2024-05-28T06:01:00Z",
+    "edtf:inception": "2024-05-28T03:56:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -113.521581,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B753",
     "icao:airline": "UAL",
     "icao:base_airline": "ACA",
     "lbl:latitude": 37.621076,
     "lbl:longitude": -122.390239,
+    "sfomuseum:aircraft_id": 1159289945,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20240527-A-ACA-3620",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N75851",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,11 +62,16 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "87280821",
+      "swim:gufi": "KD02500300"
+    },
     "wof:country": "US",
     "wof:created": 1716913210,
     "wof:geomhash": "736fe0d2ebd38878be6950e82908a686",
     "wof:hierarchy": [
       {
+        "[\n      \"flight\"\n    ]_id": 1914049277,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588271,
@@ -73,6 +87,7 @@
         "wing_id": 1763588269
       },
       {
+        "[\n      \"flight\"\n    ]_id": 1914049277,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588271,
@@ -88,13 +103,14 @@
     ],
     "wof:id": 1914049277,
     "wof:involves": [
+      1763588327,
+      1159283597,
+      1159289945,
       102527513,
       102531189,
-      1159285413,
-      1763588327,
-      1159283597
+      1159285413
     ],
-    "wof:lastmodified": 1716913210,
+    "wof:lastmodified": 1716914728,
     "wof:name": "UA2239 (DEN-SFO)",
     "wof:parent_id": 1763588327,
     "wof:placetype": "custom",

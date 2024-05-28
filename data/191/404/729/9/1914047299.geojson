@@ -2,10 +2,12 @@
   "id": 1914047299,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-05-28",
+    "date:cessation_upper": "2024-05-28",
     "date:inception_lower": "2024-05-27",
     "date:inception_upper": "2024-05-27",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-05-27",
+    "edtf:cessation": "2024-05-28T04:28:24Z",
+    "edtf:inception": "2024-05-27T22:25:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "AS",
     "flysfo:base_airline": "",
@@ -53,11 +55,15 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "87341766"
+    },
     "wof:country": "US",
     "wof:created": 1716912570,
     "wof:geomhash": "ba4d31d1826c6198b5ffa8fdb1249c5d",
     "wof:hierarchy": [
       {
+        "[\n      \"flight\"\n    ]_id": 1914047299,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588125,
@@ -73,6 +79,7 @@
         "wing_id": 1763588123
       },
       {
+        "[\n      \"flight\"\n    ]_id": 1914047299,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588125,
@@ -94,7 +101,7 @@
       1763588145,
       1159284193
     ],
-    "wof:lastmodified": 1716912570,
+    "wof:lastmodified": 1716914715,
     "wof:name": "AS27 (JFK-SFO)",
     "wof:parent_id": 1763588145,
     "wof:placetype": "custom",

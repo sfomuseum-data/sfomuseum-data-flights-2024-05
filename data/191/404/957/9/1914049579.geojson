@@ -2,10 +2,12 @@
   "id": 1914049579,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-05-27",
+    "date:cessation_upper": "2024-05-27",
     "date:inception_lower": "2024-05-27",
     "date:inception_upper": "2024-05-27",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-05-27",
+    "edtf:cessation": "2024-05-27T13:51:00Z",
+    "edtf:inception": "2024-05-27T02:27:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": 26.208867500000004,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B789",
     "icao:airline": "UAL",
     "icao:base_airline": "DLH",
     "lbl:latitude": 37.61799,
     "lbl:longitude": -122.370943,
+    "sfomuseum:aircraft_id": 1159293215,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102527513,
     "sfomuseum:base_flight_id": "20240527-A-DLH-9324",
@@ -53,11 +57,16 @@
       1763588369,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "87275374",
+      "swim:gufi": "KO44986200"
+    },
     "wof:country": "US",
     "wof:created": 1716913310,
     "wof:geomhash": "07839d38a937070012f963bfe77eb5da",
     "wof:hierarchy": [
       {
+        "[\n      \"flight\"\n    ]_id": 1914049579,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588433,
@@ -73,6 +82,7 @@
         "wing_id": 1763588369
       },
       {
+        "[\n      \"flight\"\n    ]_id": 1914049579,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588433,
@@ -88,13 +98,14 @@
     ],
     "wof:id": 1914049579,
     "wof:involves": [
+      1159286015,
+      1159293215,
       102527513,
       102552389,
       1159285413,
-      1763588465,
-      1159286015
+      1763588465
     ],
-    "wof:lastmodified": 1716913310,
+    "wof:lastmodified": 1716914730,
     "wof:name": "UA916 (AKL-SFO)",
     "wof:parent_id": 1763588465,
     "wof:placetype": "custom",

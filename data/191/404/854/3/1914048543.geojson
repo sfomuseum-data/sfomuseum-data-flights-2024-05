@@ -2,10 +2,12 @@
   "id": 1914048543,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-05-27",
+    "date:cessation_upper": "2024-05-27",
     "date:inception_lower": "2024-05-27",
     "date:inception_upper": "2024-05-27",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-05-27",
+    "edtf:cessation": "2024-05-27T20:17:00Z",
+    "edtf:inception": "2024-05-27T18:47:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "MX",
     "flysfo:date": "2024-05-27",
@@ -48,11 +50,15 @@
       1763588123,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "87323840"
+    },
     "wof:country": "US",
     "wof:created": 1716912969,
     "wof:geomhash": "d887ded7dd7ecdf1f3f44081817da1ef",
     "wof:hierarchy": [
       {
+        "[\n      \"flight\"\n    ]_id": 1914048543,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588125,
@@ -68,6 +74,7 @@
         "wing_id": 1763588123
       },
       {
+        "[\n      \"flight\"\n    ]_id": 1914048543,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588125,
@@ -88,7 +95,7 @@
       1763552131,
       1763588147
     ],
-    "wof:lastmodified": 1716912969,
+    "wof:lastmodified": 1716914722,
     "wof:name": "MX600 (PVU-SFO)",
     "wof:parent_id": 1763588147,
     "wof:placetype": "custom",

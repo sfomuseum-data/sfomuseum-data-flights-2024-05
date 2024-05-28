@@ -2,10 +2,12 @@
   "id": 1914052949,
   "type": "Feature",
   "properties": {
-    "date:inception_lower": "2024-05-27",
-    "date:inception_upper": "2024-05-27",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-05-27",
+    "date:cessation_lower": "2024-05-28",
+    "date:cessation_upper": "2024-05-28",
+    "date:inception_lower": "2024-05-28",
+    "date:inception_upper": "2024-05-28",
+    "edtf:cessation": "2024-05-28T05:41:00Z",
+    "edtf:inception": "2024-05-28T00:41:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "UA",
     "flysfo:base_airline": "",
@@ -24,10 +26,12 @@
     "geom:longitude": -139.2030015,
     "iata:airline": "UA",
     "iata:base_airline": "",
+    "icao:aircraft": "B39M",
     "icao:airline": "UAL",
     "icao:base_airline": "ACA",
     "lbl:latitude": 37.619451,
     "lbl:longitude": -122.384404,
+    "sfomuseum:aircraft_id": 1528104577,
     "sfomuseum:airline_id": 1159285413,
     "sfomuseum:arrival_id": 102532939,
     "sfomuseum:base_flight_id": "20240527-D-ACA-3528",
@@ -39,6 +43,11 @@
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "flysfo",
+    "src:geom_alt": [
+      "swim-route",
+      "swim-path"
+    ],
+    "swim:tail_number": "N77573",
     "wof:belongsto": [
       1763588121,
       102527513,
@@ -53,11 +62,16 @@
       1763588269,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "87270533",
+      "swim:gufi": "KO75618200"
+    },
     "wof:country": "US",
     "wof:created": 1716914364,
     "wof:geomhash": "ffd2c7b34797175c51fc3517b1c4b69d",
     "wof:hierarchy": [
       {
+        "[\n      \"flight\"\n    ]_id": 1914052949,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588335,
@@ -73,6 +87,7 @@
         "wing_id": 1763588269
       },
       {
+        "[\n      \"flight\"\n    ]_id": 1914052949,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588335,
@@ -88,13 +103,14 @@
     ],
     "wof:id": 1914052949,
     "wof:involves": [
+      1528104577,
       102532939,
       102527513,
       1159285413,
       1763588347,
       1159283597
     ],
-    "wof:lastmodified": 1716914364,
+    "wof:lastmodified": 1716914725,
     "wof:name": "UA1723 (SFO-KOA)",
     "wof:parent_id": 1763588347,
     "wof:placetype": "custom",

@@ -2,10 +2,12 @@
   "id": 1914048257,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2024-05-28",
+    "date:cessation_upper": "2024-05-28",
     "date:inception_lower": "2024-05-27",
     "date:inception_upper": "2024-05-27",
-    "edtf:cessation": "",
-    "edtf:inception": "2024-05-27",
+    "edtf:cessation": "2024-05-28T03:40:11Z",
+    "edtf:inception": "2024-05-27T23:15:00Z",
     "flysfo:actual_timestamp": -1,
     "flysfo:airline": "HA",
     "flysfo:date": "2024-05-27",
@@ -48,11 +50,15 @@
       1763588369,
       102085387
     ],
+    "wof:concordances": {
+      "swim:flight_ref": "87352634"
+    },
     "wof:country": "US",
     "wof:created": 1716912878,
     "wof:geomhash": "e4ae4c60ed0a76df38dbcfaaa5dd6a55",
     "wof:hierarchy": [
       {
+        "[\n      \"flight\"\n    ]_id": 1914048257,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588371,
@@ -68,6 +74,7 @@
         "wing_id": 1763588369
       },
       {
+        "[\n      \"flight\"\n    ]_id": 1914048257,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588371,
@@ -88,7 +95,7 @@
       1159284489,
       1763588423
     ],
-    "wof:lastmodified": 1716912878,
+    "wof:lastmodified": 1716914721,
     "wof:name": "HA42 (OGG-SFO)",
     "wof:parent_id": 1763588423,
     "wof:placetype": "custom",
