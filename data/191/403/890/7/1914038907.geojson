@@ -50,7 +50,6 @@
     "wof:geomhash": "aecdd4fa1f8944d2eefd3273b1547edd",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914038907,
         "custom_id": 1914038907,
         "flight_id": 1914038907
       }
@@ -62,7 +61,7 @@
       102547639,
       1159283495
     ],
-    "wof:lastmodified": 1716741820,
+    "wof:lastmodified": 1716929370,
     "wof:name": "EI961 (DUB-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

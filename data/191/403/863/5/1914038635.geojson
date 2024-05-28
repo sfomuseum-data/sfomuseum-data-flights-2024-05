@@ -63,7 +63,6 @@
     "wof:geomhash": "a24fa29091ad40e8c2dcacd18340610c",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914038635,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588371,
@@ -79,7 +78,6 @@
         "wing_id": 1763588369
       },
       {
-        "[\n      \"flight\"\n    ]_id": 1914038635,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588371,
@@ -101,7 +99,7 @@
       1763588407,
       1159285413
     ],
-    "wof:lastmodified": 1716741818,
+    "wof:lastmodified": 1716929370,
     "wof:name": "CM382 (PTY-SFO)",
     "wof:parent_id": 1763588407,
     "wof:placetype": "custom",

@@ -71,7 +71,6 @@
     "wof:geomhash": "6d7202e034534315a50103622977ef57",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914040807,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588177,
@@ -87,7 +86,6 @@
         "wing_id": 1763588175
       },
       {
-        "[\n      \"flight\"\n    ]_id": 1914040807,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588177,
@@ -110,7 +108,7 @@
       1763588197,
       1159283717
     ],
-    "wof:lastmodified": 1716741813,
+    "wof:lastmodified": 1716929369,
     "wof:name": "AA614 (SFO-CLT)",
     "wof:parent_id": 1763588197,
     "wof:placetype": "custom",

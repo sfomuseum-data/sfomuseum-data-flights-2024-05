@@ -71,7 +71,6 @@
     "wof:geomhash": "81d390dcf2582f737869c573200abb8f",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914046265,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588177,
@@ -87,7 +86,6 @@
         "wing_id": 1763588175
       },
       {
-        "[\n      \"flight\"\n    ]_id": 1914046265,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588177,
@@ -110,7 +108,7 @@
       1159289871,
       102527513
     ],
-    "wof:lastmodified": 1716914709,
+    "wof:lastmodified": 1716929370,
     "wof:name": "AA2639 (ORD-SFO)",
     "wof:parent_id": 1763588207,
     "wof:placetype": "custom",

@@ -64,7 +64,6 @@
     "wof:geomhash": "83e2c60a8819c96e9fa3721059c5eac5",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914047249,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588371,
@@ -80,7 +79,6 @@
         "wing_id": 1763588369
       },
       {
-        "[\n      \"flight\"\n    ]_id": 1914047249,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588371,
@@ -101,7 +99,7 @@
       102556451,
       1763588413
     ],
-    "wof:lastmodified": 1716914715,
+    "wof:lastmodified": 1716929370,
     "wof:name": "YP111 (ICN-SFO)",
     "wof:parent_id": 1763588413,
     "wof:placetype": "custom",

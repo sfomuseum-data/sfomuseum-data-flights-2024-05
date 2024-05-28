@@ -71,7 +71,6 @@
     "wof:geomhash": "92fb504f17f3373e6b03bb6769f65d8a",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914052119,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588177,
@@ -87,7 +86,6 @@
         "wing_id": 1763588175
       },
       {
-        "[\n      \"flight\"\n    ]_id": 1914052119,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588177,
@@ -110,7 +108,7 @@
       1763588183,
       1159284489
     ],
-    "wof:lastmodified": 1716914720,
+    "wof:lastmodified": 1716929369,
     "wof:name": "B6734 (SFO-BOS)",
     "wof:parent_id": 1763588183,
     "wof:placetype": "custom",

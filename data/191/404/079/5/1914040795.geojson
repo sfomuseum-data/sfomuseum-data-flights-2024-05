@@ -68,7 +68,6 @@
     "wof:geomhash": "5e0f3a871c366f60ae43a6e5fe25b717",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914040795,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588177,
@@ -84,7 +83,6 @@
         "wing_id": 1763588175
       },
       {
-        "[\n      \"flight\"\n    ]_id": 1914040795,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588177,
@@ -107,7 +105,7 @@
       1763588207,
       1159285043
     ],
-    "wof:lastmodified": 1716741813,
+    "wof:lastmodified": 1716929369,
     "wof:name": "AA402 (SFO-DFW)",
     "wof:parent_id": 1763588207,
     "wof:placetype": "custom",

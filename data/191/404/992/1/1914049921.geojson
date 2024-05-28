@@ -67,7 +67,6 @@
     "wof:geomhash": "4b8d850891e12dfac0a460ee51cd363b",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914049921,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588177,
@@ -83,7 +82,6 @@
         "wing_id": 1763588175
       },
       {
-        "[\n      \"flight\"\n    ]_id": 1914049921,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588177,
@@ -105,7 +103,7 @@
       1763588199,
       1159283539
     ],
-    "wof:lastmodified": 1716914733,
+    "wof:lastmodified": 1716929370,
     "wof:name": "WS1520 (YYC-SFO)",
     "wof:parent_id": 1763588199,
     "wof:placetype": "custom",

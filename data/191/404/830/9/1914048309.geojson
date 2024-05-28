@@ -63,7 +63,6 @@
     "wof:geomhash": "99c2bdbe61e95eb26a51b43b0c172358",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914048309,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588371,
@@ -79,7 +78,6 @@
         "wing_id": 1763588369
       },
       {
-        "[\n      \"flight\"\n    ]_id": 1914048309,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588371,
@@ -101,7 +99,7 @@
       1763588429,
       1159283849
     ],
-    "wof:lastmodified": 1716914721,
+    "wof:lastmodified": 1716929370,
     "wof:name": "JL2 (HND-SFO)",
     "wof:parent_id": 1763588429,
     "wof:placetype": "custom",

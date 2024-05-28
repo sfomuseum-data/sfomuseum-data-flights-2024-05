@@ -71,7 +71,6 @@
     "wof:geomhash": "fcf5095e8d1a14d003993bc5070a7f0f",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914031601,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588271,
@@ -87,7 +86,6 @@
         "wing_id": 1763588269
       },
       {
-        "[\n      \"flight\"\n    ]_id": 1914031601,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588271,
@@ -110,7 +108,7 @@
       102527513,
       102527209
     ],
-    "wof:lastmodified": 1716655518,
+    "wof:lastmodified": 1716929368,
     "wof:name": "UA2416 (LAS-SFO)",
     "wof:parent_id": 1763588279,
     "wof:placetype": "custom",

@@ -69,7 +69,6 @@
     "wof:geomhash": "07839d38a937070012f963bfe77eb5da",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914046927,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588433,
@@ -85,7 +84,6 @@
         "wing_id": 1763588369
       },
       {
-        "[\n      \"flight\"\n    ]_id": 1914046927,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588433,
@@ -108,7 +106,7 @@
       1159283697,
       1763588455
     ],
-    "wof:lastmodified": 1716914713,
+    "wof:lastmodified": 1716929370,
     "wof:name": "NZ8 (AKL-SFO)",
     "wof:parent_id": 1763588455,
     "wof:placetype": "custom",

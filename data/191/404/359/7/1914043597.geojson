@@ -70,7 +70,6 @@
     "wof:geomhash": "7babf6b9ba279da48525185e0724d212",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914043597,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588335,
@@ -86,7 +85,6 @@
         "wing_id": 1763588269
       },
       {
-        "[\n      \"flight\"\n    ]_id": 1914043597,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588335,
@@ -109,7 +107,7 @@
       1763588341,
       1159283597
     ],
-    "wof:lastmodified": 1716741834,
+    "wof:lastmodified": 1716929369,
     "wof:name": "UA1189 (SFO-SJD)",
     "wof:parent_id": 1763588341,
     "wof:placetype": "custom",

@@ -64,7 +64,6 @@
     "wof:geomhash": "c9618692327b148a3f9466df78845400",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914028987,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588371,
@@ -80,7 +79,6 @@
         "wing_id": 1763588369
       },
       {
-        "[\n      \"flight\"\n    ]_id": 1914028987,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588371,
@@ -102,7 +100,7 @@
       1763588401,
       1159289989
     ],
-    "wof:lastmodified": 1716655515,
+    "wof:lastmodified": 1716929369,
     "wof:name": "AI183 (DEL-SFO)",
     "wof:parent_id": 1763588401,
     "wof:placetype": "custom",

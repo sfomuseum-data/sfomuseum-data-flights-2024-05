@@ -71,7 +71,6 @@
     "wof:geomhash": "38f88108bbae8bb050c3144d37bdc384",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914031427,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588335,
@@ -87,7 +86,6 @@
         "wing_id": 1763588269
       },
       {
-        "[\n      \"flight\"\n    ]_id": 1914031427,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588335,
@@ -110,7 +108,7 @@
       102527513,
       102531023
     ],
-    "wof:lastmodified": 1716655517,
+    "wof:lastmodified": 1716929368,
     "wof:name": "UA1503 (MIA-SFO)",
     "wof:parent_id": 1763588337,
     "wof:placetype": "custom",

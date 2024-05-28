@@ -71,7 +71,6 @@
     "wof:geomhash": "e5ae5d1ea61206da1f1e1104d6bc1bb7",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914031633,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588335,
@@ -87,7 +86,6 @@
         "wing_id": 1763588269
       },
       {
-        "[\n      \"flight\"\n    ]_id": 1914031633,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588335,
@@ -110,7 +108,7 @@
       1763588353,
       1159283697
     ],
-    "wof:lastmodified": 1716655518,
+    "wof:lastmodified": 1716929368,
     "wof:name": "UA300 (TPA-SFO)",
     "wof:parent_id": 1763588353,
     "wof:placetype": "custom",

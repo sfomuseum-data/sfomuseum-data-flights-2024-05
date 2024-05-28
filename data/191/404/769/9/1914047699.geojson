@@ -69,7 +69,6 @@
     "wof:geomhash": "ec6660f1f317e7fe021c7c410168f722",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914047699,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588371,
@@ -85,7 +84,6 @@
         "wing_id": 1763588369
       },
       {
-        "[\n      \"flight\"\n    ]_id": 1914047699,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588371,
@@ -108,7 +106,7 @@
       1763588417,
       1159283813
     ],
-    "wof:lastmodified": 1716914717,
+    "wof:lastmodified": 1716929370,
     "wof:name": "DE2092 (FRA-SFO)",
     "wof:parent_id": 1763588417,
     "wof:placetype": "custom",

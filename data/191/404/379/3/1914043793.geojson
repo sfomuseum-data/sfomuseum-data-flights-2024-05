@@ -70,7 +70,6 @@
     "wof:geomhash": "8c8f659fbae3cc58419f360e0abfbe56",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914043793,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588335,
@@ -86,7 +85,6 @@
         "wing_id": 1763588269
       },
       {
-        "[\n      \"flight\"\n    ]_id": 1914043793,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588335,
@@ -109,7 +107,7 @@
       1528104575,
       102532929
     ],
-    "wof:lastmodified": 1716741834,
+    "wof:lastmodified": 1716929369,
     "wof:name": "UA2623 (SFO-OGG)",
     "wof:parent_id": 1763588353,
     "wof:placetype": "custom",

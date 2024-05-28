@@ -70,7 +70,6 @@
     "wof:geomhash": "10c01f207ef95eecc919066d165ec5eb",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914040151,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588125,
@@ -86,7 +85,6 @@
         "wing_id": 1763588123
       },
       {
-        "[\n      \"flight\"\n    ]_id": 1914040151,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588125,
@@ -109,7 +107,7 @@
       102532047,
       1159285413
     ],
-    "wof:lastmodified": 1716741808,
+    "wof:lastmodified": 1716929368,
     "wof:name": "UA2421 (BWI-SFO)",
     "wof:parent_id": 1763588147,
     "wof:placetype": "custom",

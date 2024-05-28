@@ -70,7 +70,6 @@
     "wof:geomhash": "1ad63fa22de9103ed4396c0ca683f63f",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914031491,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588271,
@@ -86,7 +85,6 @@
         "wing_id": 1763588269
       },
       {
-        "[\n      \"flight\"\n    ]_id": 1914031491,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588271,
@@ -109,7 +107,7 @@
       1763588315,
       1159283597
     ],
-    "wof:lastmodified": 1716655517,
+    "wof:lastmodified": 1716929368,
     "wof:name": "UA1947 (HNL-SFO)",
     "wof:parent_id": 1763588315,
     "wof:placetype": "custom",

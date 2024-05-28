@@ -70,7 +70,6 @@
     "wof:geomhash": "40576486fbb454d3a66da49d62a0ae33",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914038107,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588125,
@@ -86,7 +85,6 @@
         "wing_id": 1763588123
       },
       {
-        "[\n      \"flight\"\n    ]_id": 1914038107,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588125,
@@ -109,7 +107,7 @@
       1159283813,
       1763588131
     ],
-    "wof:lastmodified": 1716741815,
+    "wof:lastmodified": 1716929370,
     "wof:name": "AS266 (ANC-SFO)",
     "wof:parent_id": 1763588131,
     "wof:placetype": "custom",

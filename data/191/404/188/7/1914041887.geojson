@@ -70,7 +70,6 @@
     "wof:geomhash": "25f5345529d944df781e36098260a435",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914041887,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588125,
@@ -86,7 +85,6 @@
         "wing_id": 1763588123
       },
       {
-        "[\n      \"flight\"\n    ]_id": 1914041887,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588125,
@@ -109,7 +107,7 @@
       1159283813,
       1763588143
     ],
-    "wof:lastmodified": 1716741820,
+    "wof:lastmodified": 1716929369,
     "wof:name": "AS716 (SFO-SAN)",
     "wof:parent_id": 1763588143,
     "wof:placetype": "custom",

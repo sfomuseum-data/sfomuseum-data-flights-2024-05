@@ -67,7 +67,6 @@
     "wof:geomhash": "5afbf99c4360a00cfc0890f48cccf304",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914047301,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588125,
@@ -83,7 +82,6 @@
         "wing_id": 1763588123
       },
       {
-        "[\n      \"flight\"\n    ]_id": 1914047301,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588125,
@@ -105,7 +103,7 @@
       1763588137,
       1159283849
     ],
-    "wof:lastmodified": 1716914715,
+    "wof:lastmodified": 1716929370,
     "wof:name": "AS295 (EWR-SFO)",
     "wof:parent_id": 1763588137,
     "wof:placetype": "custom",

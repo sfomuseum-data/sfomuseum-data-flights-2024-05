@@ -52,7 +52,6 @@
     "wof:geomhash": "f971d3f872ee602b2fa6051cf4be0e69",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914043589,
         "custom_id": 1914043589,
         "flight_id": 1914043589
       }
@@ -64,7 +63,7 @@
       102527513,
       1159285413
     ],
-    "wof:lastmodified": 1716741830,
+    "wof:lastmodified": 1716929369,
     "wof:name": "UA115 (SFO-PPT)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

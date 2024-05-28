@@ -71,7 +71,6 @@
     "wof:geomhash": "1b844caa247a357e6d3574dc4c3eb3e8",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914035655,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588433,
@@ -87,7 +86,6 @@
         "wing_id": 1763588369
       },
       {
-        "[\n      \"flight\"\n    ]_id": 1914035655,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588433,
@@ -110,7 +108,7 @@
       1159289985,
       102545733
     ],
-    "wof:lastmodified": 1716655538,
+    "wof:lastmodified": 1716929369,
     "wof:name": "UA672 (SFO-BCN)",
     "wof:parent_id": 1763588437,
     "wof:placetype": "custom",

@@ -71,7 +71,6 @@
     "wof:geomhash": "a0e250e9237d15725a2a6f51d6b7a6b6",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914043775,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588271,
@@ -87,7 +86,6 @@
         "wing_id": 1763588269
       },
       {
-        "[\n      \"flight\"\n    ]_id": 1914043775,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588271,
@@ -110,7 +108,7 @@
       1159283697,
       1159289407
     ],
-    "wof:lastmodified": 1716741832,
+    "wof:lastmodified": 1716929369,
     "wof:name": "UA246 (SFO-PDX)",
     "wof:parent_id": 1763588291,
     "wof:placetype": "custom",

@@ -51,7 +51,6 @@
     "wof:geomhash": "f16008bc2ad68c6d1bc593247c6c74a9",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914037267,
         "custom_id": 1914037267,
         "flight_id": 1914037267
       }
@@ -63,7 +62,7 @@
       1159289915,
       102527513
     ],
-    "wof:lastmodified": 1716741811,
+    "wof:lastmodified": 1716929370,
     "wof:name": "OZ284 (LAX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

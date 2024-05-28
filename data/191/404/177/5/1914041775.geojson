@@ -69,7 +69,6 @@
     "wof:geomhash": "ae49e61cad725fa4577f8355bb7297ad",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914041775,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588125,
@@ -85,7 +84,6 @@
         "wing_id": 1763588123
       },
       {
-        "[\n      \"flight\"\n    ]_id": 1914041775,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588125,
@@ -108,7 +106,7 @@
       1159283813,
       1763588145
     ],
-    "wof:lastmodified": 1716741819,
+    "wof:lastmodified": 1716929369,
     "wof:name": "AS1368 (SFO-PVR)",
     "wof:parent_id": 1763588145,
     "wof:placetype": "custom",

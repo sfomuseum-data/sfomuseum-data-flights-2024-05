@@ -70,7 +70,6 @@
     "wof:geomhash": "4b8d850891e12dfac0a460ee51cd363b",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914040093,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588335,
@@ -86,7 +85,6 @@
         "wing_id": 1763588269
       },
       {
-        "[\n      \"flight\"\n    ]_id": 1914040093,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588335,
@@ -109,7 +107,7 @@
       102527513,
       102554947
     ],
-    "wof:lastmodified": 1716741808,
+    "wof:lastmodified": 1716929368,
     "wof:name": "UA211 (YYC-SFO)",
     "wof:parent_id": 1763588351,
     "wof:placetype": "custom",

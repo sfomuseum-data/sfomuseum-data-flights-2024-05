@@ -63,7 +63,6 @@
     "wof:geomhash": "d46bcc8d1d94e68df95be799ac6a3b4c",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914039187,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588371,
@@ -79,7 +78,6 @@
         "wing_id": 1763588369
       },
       {
-        "[\n      \"flight\"\n    ]_id": 1914039187,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588371,
@@ -101,7 +99,7 @@
       1763588405,
       1159283849
     ],
-    "wof:lastmodified": 1716741822,
+    "wof:lastmodified": 1716929370,
     "wof:name": "JL58 (NRT-SFO)",
     "wof:parent_id": 1763588405,
     "wof:placetype": "custom",

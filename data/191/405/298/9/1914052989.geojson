@@ -71,7 +71,6 @@
     "wof:geomhash": "33c9625a4901edf29154e5ec4b308b8b",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914052989,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588335,
@@ -87,7 +86,6 @@
         "wing_id": 1763588269
       },
       {
-        "[\n      \"flight\"\n    ]_id": 1914052989,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588335,
@@ -110,7 +108,7 @@
       1763588355,
       1779770723
     ],
-    "wof:lastmodified": 1716914726,
+    "wof:lastmodified": 1716929369,
     "wof:name": "UA1997 (SFO-MCO)",
     "wof:parent_id": 1763588355,
     "wof:placetype": "custom",

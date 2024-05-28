@@ -71,7 +71,6 @@
     "wof:geomhash": "033526ec5f586bb6dd7c4e05cd770e88",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914043873,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588433,
@@ -87,7 +86,6 @@
         "wing_id": 1763588369
       },
       {
-        "[\n      \"flight\"\n    ]_id": 1914043873,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588433,
@@ -110,7 +108,7 @@
       1763588455,
       1159286015
     ],
-    "wof:lastmodified": 1716741834,
+    "wof:lastmodified": 1716929369,
     "wof:name": "UA507 (SFO-FCO)",
     "wof:parent_id": 1763588455,
     "wof:placetype": "custom",

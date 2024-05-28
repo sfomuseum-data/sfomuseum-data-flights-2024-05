@@ -71,7 +71,6 @@
     "wof:geomhash": "e1d14091bb010ff3febce3dc78c1c8b4",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914049163,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588125,
@@ -87,7 +86,6 @@
         "wing_id": 1763588123
       },
       {
-        "[\n      \"flight\"\n    ]_id": 1914049163,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588125,
@@ -110,7 +108,7 @@
       1763588149,
       1159283697
     ],
-    "wof:lastmodified": 1716914727,
+    "wof:lastmodified": 1716929370,
     "wof:name": "UA1702 (RDU-SFO)",
     "wof:parent_id": 1763588149,
     "wof:placetype": "custom",

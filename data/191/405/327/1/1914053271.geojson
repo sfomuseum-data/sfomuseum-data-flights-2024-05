@@ -71,7 +71,6 @@
     "wof:geomhash": "4d8eca8dfd12d13a56951180b27dbf13",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914053271,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588335,
@@ -87,7 +86,6 @@
         "wing_id": 1763588269
       },
       {
-        "[\n      \"flight\"\n    ]_id": 1914053271,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588335,
@@ -110,7 +108,7 @@
       1763588353,
       1159283697
     ],
-    "wof:lastmodified": 1716914728,
+    "wof:lastmodified": 1716929369,
     "wof:name": "UA742 (SFO-IAH)",
     "wof:parent_id": 1763588353,
     "wof:placetype": "custom",

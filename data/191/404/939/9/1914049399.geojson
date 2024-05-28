@@ -70,7 +70,6 @@
     "wof:geomhash": "83e3cf2d6d5d57bb8b348faf86770f57",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914049399,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588433,
@@ -86,7 +85,6 @@
         "wing_id": 1763588369
       },
       {
-        "[\n      \"flight\"\n    ]_id": 1914049399,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588433,
@@ -109,7 +107,7 @@
       102547941,
       1159285413
     ],
-    "wof:lastmodified": 1716914729,
+    "wof:lastmodified": 1716929370,
     "wof:name": "UA506 (FCO-SFO)",
     "wof:parent_id": 1763588441,
     "wof:placetype": "custom",

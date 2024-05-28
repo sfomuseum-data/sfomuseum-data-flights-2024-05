@@ -71,7 +71,6 @@
     "wof:geomhash": "59c1b41e582a5fde12da38b49a2c462f",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914031661,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588433,
@@ -87,7 +86,6 @@
         "wing_id": 1763588369
       },
       {
-        "[\n      \"flight\"\n    ]_id": 1914031661,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588433,
@@ -110,7 +108,7 @@
       102553957,
       1159285413
     ],
-    "wof:lastmodified": 1716655519,
+    "wof:lastmodified": 1716929368,
     "wof:name": "UA45 (ZRH-SFO)",
     "wof:parent_id": 1763588445,
     "wof:placetype": "custom",

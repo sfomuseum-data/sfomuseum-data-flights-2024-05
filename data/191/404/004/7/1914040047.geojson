@@ -70,7 +70,6 @@
     "wof:geomhash": "3af422147b92e6fa9912d38a57ea404a",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914040047,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588335,
@@ -86,7 +85,6 @@
         "wing_id": 1763588269
       },
       {
-        "[\n      \"flight\"\n    ]_id": 1914040047,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588335,
@@ -109,7 +107,7 @@
       1159285413,
       1763588337
     ],
-    "wof:lastmodified": 1716741807,
+    "wof:lastmodified": 1716929368,
     "wof:name": "UA1946 (PDX-SFO)",
     "wof:parent_id": 1763588337,
     "wof:placetype": "custom",

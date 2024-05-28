@@ -67,7 +67,6 @@
     "wof:geomhash": "64252c90f74b3e5d6a354a131140ee76",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914035729,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588433,
@@ -83,7 +82,6 @@
         "wing_id": 1763588369
       },
       {
-        "[\n      \"flight\"\n    ]_id": 1914035729,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588433,
@@ -106,7 +104,7 @@
       1763588445,
       1159283875
     ],
-    "wof:lastmodified": 1716655530,
+    "wof:lastmodified": 1716929369,
     "wof:name": "UA875 (SFO-HND)",
     "wof:parent_id": 1763588445,
     "wof:placetype": "custom",

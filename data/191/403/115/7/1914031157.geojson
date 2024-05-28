@@ -66,7 +66,6 @@
     "wof:geomhash": "fcf5095e8d1a14d003993bc5070a7f0f",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914031157,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588177,
@@ -82,7 +81,6 @@
         "wing_id": 1763588175
       },
       {
-        "[\n      \"flight\"\n    ]_id": 1914031157,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588177,
@@ -104,7 +102,7 @@
       1159285591,
       1763588189
     ],
-    "wof:lastmodified": 1716655515,
+    "wof:lastmodified": 1716929368,
     "wof:name": "WN2040 (LAS-SFO)",
     "wof:parent_id": 1763588189,
     "wof:placetype": "custom",

@@ -70,7 +70,6 @@
     "wof:geomhash": "af4ccf784d832b160f78d13fe8b8589a",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914044369,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588177,
@@ -86,7 +85,6 @@
         "wing_id": 1763588175
       },
       {
-        "[\n      \"flight\"\n    ]_id": 1914044369,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588177,
@@ -109,7 +107,7 @@
       102527513,
       1159285523
     ],
-    "wof:lastmodified": 1716741835,
+    "wof:lastmodified": 1716929370,
     "wof:name": "WS1775 (SFO-YVR)",
     "wof:parent_id": 1763588227,
     "wof:placetype": "custom",

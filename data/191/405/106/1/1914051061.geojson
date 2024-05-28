@@ -71,7 +71,6 @@
     "wof:geomhash": "1348792a172720778d3219cc18ccd8ee",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914051061,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588125,
@@ -87,7 +86,6 @@
         "wing_id": 1763588123
       },
       {
-        "[\n      \"flight\"\n    ]_id": 1914051061,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588125,
@@ -110,7 +108,7 @@
       1159286153,
       1377564285
     ],
-    "wof:lastmodified": 1716914714,
+    "wof:lastmodified": 1716929369,
     "wof:name": "AS30 (SFO-JFK)",
     "wof:parent_id": 1763588141,
     "wof:placetype": "custom",

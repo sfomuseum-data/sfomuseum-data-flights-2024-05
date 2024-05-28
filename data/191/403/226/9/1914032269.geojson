@@ -71,7 +71,6 @@
     "wof:geomhash": "05e474f4bf1eb5ae110c20d94aac828f",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914032269,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588177,
@@ -87,7 +86,6 @@
         "wing_id": 1763588175
       },
       {
-        "[\n      \"flight\"\n    ]_id": 1914032269,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588177,
@@ -110,7 +108,7 @@
       1779770725,
       1528104575
     ],
-    "wof:lastmodified": 1716655522,
+    "wof:lastmodified": 1716929368,
     "wof:name": "AA2045 (SFO-MIA)",
     "wof:parent_id": 1763588201,
     "wof:placetype": "custom",

@@ -71,7 +71,6 @@
     "wof:geomhash": "b9e617aa80dabb56896871b70acf102e",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914049259,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588125,
@@ -87,7 +86,6 @@
         "wing_id": 1763588123
       },
       {
-        "[\n      \"flight\"\n    ]_id": 1914049259,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588125,
@@ -110,7 +108,7 @@
       1159283697,
       1377564285
     ],
-    "wof:lastmodified": 1716914728,
+    "wof:lastmodified": 1716929370,
     "wof:name": "UA2153 (CLE-SFO)",
     "wof:parent_id": 1763588147,
     "wof:placetype": "custom",

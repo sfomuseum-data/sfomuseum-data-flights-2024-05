@@ -58,7 +58,6 @@
     "wof:geomhash": "e8aee4e844e89ba8d7a176f852774210",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914037601,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588371,
@@ -74,7 +73,6 @@
         "wing_id": 1763588369
       },
       {
-        "[\n      \"flight\"\n    ]_id": 1914037601,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588371,
@@ -95,7 +93,7 @@
       1159283649,
       1763588401
     ],
-    "wof:lastmodified": 1716741812,
+    "wof:lastmodified": 1716929370,
     "wof:name": "AI179 (BOM-SFO)",
     "wof:parent_id": 1763588401,
     "wof:placetype": "custom",

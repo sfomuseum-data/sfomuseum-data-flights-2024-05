@@ -53,7 +53,6 @@
     "wof:geomhash": "81d390dcf2582f737869c573200abb8f",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914031815,
         "custom_id": 1914031815,
         "flight_id": 1914031815
       }
@@ -65,7 +64,7 @@
       102533631,
       1159285413
     ],
-    "wof:lastmodified": 1716655520,
+    "wof:lastmodified": 1716929368,
     "wof:name": "UA8178 (ORD-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

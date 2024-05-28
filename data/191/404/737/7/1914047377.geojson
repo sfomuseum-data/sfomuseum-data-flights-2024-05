@@ -70,7 +70,6 @@
     "wof:geomhash": "376248592ab7850cfb9a479529cc5caf",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914047377,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588125,
@@ -86,7 +85,6 @@
         "wing_id": 1763588123
       },
       {
-        "[\n      \"flight\"\n    ]_id": 1914047377,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588125,
@@ -109,7 +107,7 @@
       102527513,
       102528817
     ],
-    "wof:lastmodified": 1716914715,
+    "wof:lastmodified": 1716929370,
     "wof:name": "AS435 (IAD-SFO)",
     "wof:parent_id": 1763588141,
     "wof:placetype": "custom",

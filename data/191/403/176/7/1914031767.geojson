@@ -70,7 +70,6 @@
     "wof:geomhash": "aae625247f3652ef8a50cae9f49d2791",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914031767,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588271,
@@ -86,7 +85,6 @@
         "wing_id": 1763588269
       },
       {
-        "[\n      \"flight\"\n    ]_id": 1914031767,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588271,
@@ -109,7 +107,7 @@
       1763588283,
       1159283597
     ],
-    "wof:lastmodified": 1716655519,
+    "wof:lastmodified": 1716929368,
     "wof:name": "UA645 (SBA-SFO)",
     "wof:parent_id": 1763588283,
     "wof:placetype": "custom",

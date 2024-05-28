@@ -69,7 +69,6 @@
     "wof:geomhash": "d1cf00e952c40abdeded8d31cdcdf72b",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914029013,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588371,
@@ -85,7 +84,6 @@
         "wing_id": 1763588369
       },
       {
-        "[\n      \"flight\"\n    ]_id": 1914029013,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588371,
@@ -108,7 +106,7 @@
       1763588407,
       1159284261
     ],
-    "wof:lastmodified": 1716655515,
+    "wof:lastmodified": 1716929370,
     "wof:name": "AM622 (GDL-SFO)",
     "wof:parent_id": 1763588407,
     "wof:placetype": "custom",

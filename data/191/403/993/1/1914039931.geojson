@@ -70,7 +70,6 @@
     "wof:geomhash": "736fe0d2ebd38878be6950e82908a686",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914039931,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588335,
@@ -86,7 +85,6 @@
         "wing_id": 1763588269
       },
       {
-        "[\n      \"flight\"\n    ]_id": 1914039931,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588335,
@@ -109,7 +107,7 @@
       1377564285,
       102527513
     ],
-    "wof:lastmodified": 1716741826,
+    "wof:lastmodified": 1716929370,
     "wof:name": "UA1007 (DEN-SFO)",
     "wof:parent_id": 1763588343,
     "wof:placetype": "custom",

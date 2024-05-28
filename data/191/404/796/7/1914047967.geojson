@@ -71,7 +71,6 @@
     "wof:geomhash": "9cccd37636918a32bc446a92e7ba93ba",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914047967,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588233,
@@ -87,7 +86,6 @@
         "wing_id": 1763588123
       },
       {
-        "[\n      \"flight\"\n    ]_id": 1914047967,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588233,
@@ -110,7 +108,7 @@
       102527513,
       102530741
     ],
-    "wof:lastmodified": 1716914719,
+    "wof:lastmodified": 1716929370,
     "wof:name": "DL977 (BOS-SFO)",
     "wof:parent_id": 1763588247,
     "wof:placetype": "custom",

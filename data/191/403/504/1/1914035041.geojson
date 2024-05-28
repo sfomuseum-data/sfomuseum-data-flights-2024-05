@@ -66,7 +66,6 @@
     "wof:geomhash": "2a19f056fd5d16c52f22f1bf5dc85c9c",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914035041,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588177,
@@ -82,7 +81,6 @@
         "wing_id": 1763588175
       },
       {
-        "[\n      \"flight\"\n    ]_id": 1914035041,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588177,
@@ -104,7 +102,7 @@
       1763588191,
       1159289869
     ],
-    "wof:lastmodified": 1716655537,
+    "wof:lastmodified": 1716929369,
     "wof:name": "WN5872 (SFO-PHX)",
     "wof:parent_id": 1763588191,
     "wof:placetype": "custom",

@@ -71,7 +71,6 @@
     "wof:geomhash": "b2ae00b77ffd1072a2eb4148779a5d9e",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914051557,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588233,
@@ -87,7 +86,6 @@
         "wing_id": 1763588123
       },
       {
-        "[\n      \"flight\"\n    ]_id": 1914051557,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588233,
@@ -110,7 +108,7 @@
       1528104583,
       102527363
     ],
-    "wof:lastmodified": 1716914717,
+    "wof:lastmodified": 1716929369,
     "wof:name": "DL2414 (SFO-SLC)",
     "wof:parent_id": 1763588245,
     "wof:placetype": "custom",

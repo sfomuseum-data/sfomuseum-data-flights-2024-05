@@ -70,7 +70,6 @@
     "wof:geomhash": "1348792a172720778d3219cc18ccd8ee",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914041783,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588125,
@@ -86,7 +85,6 @@
         "wing_id": 1763588123
       },
       {
-        "[\n      \"flight\"\n    ]_id": 1914041783,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588125,
@@ -109,7 +107,7 @@
       102527513,
       1159283813
     ],
-    "wof:lastmodified": 1716741819,
+    "wof:lastmodified": 1716929369,
     "wof:name": "AS20 (SFO-JFK)",
     "wof:parent_id": 1763588143,
     "wof:placetype": "custom",

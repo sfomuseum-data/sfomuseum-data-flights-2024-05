@@ -70,7 +70,6 @@
     "wof:geomhash": "fcf5095e8d1a14d003993bc5070a7f0f",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914049235,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588271,
@@ -86,7 +85,6 @@
         "wing_id": 1763588269
       },
       {
-        "[\n      \"flight\"\n    ]_id": 1914049235,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588271,
@@ -109,7 +107,7 @@
       1159289871,
       102527513
     ],
-    "wof:lastmodified": 1716914728,
+    "wof:lastmodified": 1716929370,
     "wof:name": "UA2047 (LAS-SFO)",
     "wof:parent_id": 1763588281,
     "wof:placetype": "custom",

@@ -48,7 +48,6 @@
     "wof:geomhash": "736fe0d2ebd38878be6950e82908a686",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914031823,
         "custom_id": 1914031823,
         "flight_id": 1914031823
       }
@@ -60,7 +59,7 @@
       102531189,
       1159285413
     ],
-    "wof:lastmodified": 1716655520,
+    "wof:lastmodified": 1716929368,
     "wof:name": "UA8261 (DEN-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

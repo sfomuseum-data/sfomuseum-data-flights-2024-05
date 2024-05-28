@@ -65,7 +65,6 @@
     "wof:geomhash": "b8fc8d95bb44b1c6b9f6cb201e4d2ca9",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914042283,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588371,
@@ -81,7 +80,6 @@
         "wing_id": 1763588369
       },
       {
-        "[\n      \"flight\"\n    ]_id": 1914042283,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588371,
@@ -103,7 +101,7 @@
       102541737,
       102527513
     ],
-    "wof:lastmodified": 1716741822,
+    "wof:lastmodified": 1716929369,
     "wof:name": "CX873 (SFO-HKG)",
     "wof:parent_id": 1763588417,
     "wof:placetype": "custom",

@@ -71,7 +71,6 @@
     "wof:geomhash": "148b50b9c1c42c575a8cdcaf5b598e8f",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914044033,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588433,
@@ -87,7 +86,6 @@
         "wing_id": 1763588369
       },
       {
-        "[\n      \"flight\"\n    ]_id": 1914044033,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588433,
@@ -110,7 +108,7 @@
       1159286015,
       1159289993
     ],
-    "wof:lastmodified": 1716741835,
+    "wof:lastmodified": 1716929370,
     "wof:name": "UA863 (SFO-SYD)",
     "wof:parent_id": 1763588455,
     "wof:placetype": "custom",

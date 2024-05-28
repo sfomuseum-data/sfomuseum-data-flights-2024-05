@@ -71,7 +71,6 @@
     "wof:geomhash": "945559894ecf54761855aac48d7d95c2",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914043951,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588433,
@@ -87,7 +86,6 @@
         "wing_id": 1763588369
       },
       {
-        "[\n      \"flight\"\n    ]_id": 1914043951,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588433,
@@ -110,7 +108,7 @@
       1159285413,
       1763588441
     ],
-    "wof:lastmodified": 1716741834,
+    "wof:lastmodified": 1716929369,
     "wof:name": "UA60 (SFO-MEL)",
     "wof:parent_id": 1763588441,
     "wof:placetype": "custom",

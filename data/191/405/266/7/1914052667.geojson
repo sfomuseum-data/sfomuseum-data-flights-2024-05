@@ -65,7 +65,6 @@
     "wof:geomhash": "25f5345529d944df781e36098260a435",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914052667,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588177,
@@ -81,7 +80,6 @@
         "wing_id": 1763588175
       },
       {
-        "[\n      \"flight\"\n    ]_id": 1914052667,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588177,
@@ -103,7 +101,7 @@
       1159285591,
       1763588191
     ],
-    "wof:lastmodified": 1716914723,
+    "wof:lastmodified": 1716929369,
     "wof:name": "WN4144 (SFO-SAN)",
     "wof:parent_id": 1763588191,
     "wof:placetype": "custom",

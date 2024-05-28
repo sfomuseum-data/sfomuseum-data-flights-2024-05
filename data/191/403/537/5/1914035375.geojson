@@ -71,7 +71,6 @@
     "wof:geomhash": "7a75cc81bf790964b92a4927d3978f50",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914035375,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588335,
@@ -87,7 +86,6 @@
         "wing_id": 1763588269
       },
       {
-        "[\n      \"flight\"\n    ]_id": 1914035375,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588335,
@@ -110,7 +108,7 @@
       1377564297,
       102533631
     ],
-    "wof:lastmodified": 1716655529,
+    "wof:lastmodified": 1716929369,
     "wof:name": "UA1998 (SFO-ORD)",
     "wof:parent_id": 1763588347,
     "wof:placetype": "custom",

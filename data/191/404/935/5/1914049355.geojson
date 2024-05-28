@@ -70,7 +70,6 @@
     "wof:geomhash": "a641cfa97e5d709c9877b45a6ec29f09",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914049355,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588433,
@@ -86,7 +85,6 @@
         "wing_id": 1763588369
       },
       {
-        "[\n      \"flight\"\n    ]_id": 1914049355,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588433,
@@ -109,7 +107,7 @@
       1763588463,
       1159283875
     ],
-    "wof:lastmodified": 1716914729,
+    "wof:lastmodified": 1716929370,
     "wof:name": "UA34 (KIX-SFO)",
     "wof:parent_id": 1763588463,
     "wof:placetype": "custom",

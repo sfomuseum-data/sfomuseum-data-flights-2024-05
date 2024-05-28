@@ -71,7 +71,6 @@
     "wof:geomhash": "ec8e91229a6790516c63cb7081c35777",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914043911,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588271,
@@ -87,7 +86,6 @@
         "wing_id": 1763588269
       },
       {
-        "[\n      \"flight\"\n    ]_id": 1914043911,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588271,
@@ -110,7 +108,7 @@
       102533575,
       102527513
     ],
-    "wof:lastmodified": 1716741834,
+    "wof:lastmodified": 1716929369,
     "wof:name": "UA565 (SFO-ONT)",
     "wof:parent_id": 1763588279,
     "wof:placetype": "custom",

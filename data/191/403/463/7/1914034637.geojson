@@ -65,7 +65,6 @@
     "wof:geomhash": "1b3bbc939bc3a370232933405173139d",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914034637,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588125,
@@ -81,7 +80,6 @@
         "wing_id": 1763588123
       },
       {
-        "[\n      \"flight\"\n    ]_id": 1914034637,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588125,
@@ -103,7 +101,7 @@
       1813375783,
       102533321
     ],
-    "wof:lastmodified": 1716655528,
+    "wof:lastmodified": 1716929369,
     "wof:name": "MX229 (SFO-SDF)",
     "wof:parent_id": 1763588147,
     "wof:placetype": "custom",

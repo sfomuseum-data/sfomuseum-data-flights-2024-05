@@ -65,7 +65,6 @@
     "wof:geomhash": "af4ccf784d832b160f78d13fe8b8589a",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914051903,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588265,
@@ -81,7 +80,6 @@
         "wing_id": 1763588175
       },
       {
-        "[\n      \"flight\"\n    ]_id": 1914051903,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588265,
@@ -103,7 +101,7 @@
       1763552143,
       1763588267
     ],
-    "wof:lastmodified": 1716914719,
+    "wof:lastmodified": 1716929369,
     "wof:name": "F81849 (SFO-YVR)",
     "wof:parent_id": 1763588267,
     "wof:placetype": "custom",

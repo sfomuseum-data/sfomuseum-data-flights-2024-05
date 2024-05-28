@@ -71,7 +71,6 @@
     "wof:geomhash": "f16008bc2ad68c6d1bc593247c6c74a9",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914030077,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588233,
@@ -87,7 +86,6 @@
         "wing_id": 1763588123
       },
       {
-        "[\n      \"flight\"\n    ]_id": 1914030077,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588233,
@@ -110,7 +108,7 @@
       1763588243,
       1159284613
     ],
-    "wof:lastmodified": 1716655508,
+    "wof:lastmodified": 1716929368,
     "wof:name": "DL2054 (LAX-SFO)",
     "wof:parent_id": 1763588243,
     "wof:placetype": "custom",

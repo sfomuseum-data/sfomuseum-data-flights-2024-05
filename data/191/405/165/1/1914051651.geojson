@@ -70,7 +70,6 @@
     "wof:geomhash": "d9a5d9d800d6bc92413ff3768040f8da",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914051651,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588433,
@@ -86,7 +85,6 @@
         "wing_id": 1763588369
       },
       {
-        "[\n      \"flight\"\n    ]_id": 1914051651,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588433,
@@ -109,7 +107,7 @@
       1763588461,
       1159283697
     ],
-    "wof:lastmodified": 1716914717,
+    "wof:lastmodified": 1716929369,
     "wof:name": "LH459 (SFO-MUC)",
     "wof:parent_id": 1763588461,
     "wof:placetype": "custom",

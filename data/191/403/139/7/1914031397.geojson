@@ -71,7 +71,6 @@
     "wof:geomhash": "9cccd37636918a32bc446a92e7ba93ba",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914031397,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588271,
@@ -87,7 +86,6 @@
         "wing_id": 1763588269
       },
       {
-        "[\n      \"flight\"\n    ]_id": 1914031397,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588271,
@@ -110,7 +108,7 @@
       102527513,
       102530741
     ],
-    "wof:lastmodified": 1716655516,
+    "wof:lastmodified": 1716929368,
     "wof:name": "UA1187 (BOS-SFO)",
     "wof:parent_id": 1763588287,
     "wof:placetype": "custom",

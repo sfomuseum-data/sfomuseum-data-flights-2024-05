@@ -70,7 +70,6 @@
     "wof:geomhash": "8115bc7828d3bd6404c793fb172971b8",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914053029,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588335,
@@ -86,7 +85,6 @@
         "wing_id": 1763588269
       },
       {
-        "[\n      \"flight\"\n    ]_id": 1914053029,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588335,
@@ -109,7 +107,7 @@
       1763588337,
       1159283697
     ],
-    "wof:lastmodified": 1716914726,
+    "wof:lastmodified": 1716929369,
     "wof:name": "UA2224 (SFO-BZN)",
     "wof:parent_id": 1763588337,
     "wof:placetype": "custom",

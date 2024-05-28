@@ -70,7 +70,6 @@
     "wof:geomhash": "9cccd37636918a32bc446a92e7ba93ba",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914030113,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588233,
@@ -86,7 +85,6 @@
         "wing_id": 1763588123
       },
       {
-        "[\n      \"flight\"\n    ]_id": 1914030113,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588233,
@@ -109,7 +107,7 @@
       1377564297,
       102527513
     ],
-    "wof:lastmodified": 1716655509,
+    "wof:lastmodified": 1716929368,
     "wof:name": "DL365 (BOS-SFO)",
     "wof:parent_id": 1763588245,
     "wof:placetype": "custom",

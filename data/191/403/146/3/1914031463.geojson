@@ -48,7 +48,6 @@
     "wof:geomhash": "d5ad4a83d3d679d1b3fe86e419b08d84",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914031463,
         "custom_id": 1914031463,
         "flight_id": 1914031463
       }
@@ -60,7 +59,7 @@
       102532939,
       1159285413
     ],
-    "wof:lastmodified": 1716655517,
+    "wof:lastmodified": 1716929368,
     "wof:name": "UA1759 (KOA-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

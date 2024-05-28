@@ -69,7 +69,6 @@
     "wof:geomhash": "4036ee3c983703867dbe0486453848b1",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914041759,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588125,
@@ -85,7 +84,6 @@
         "wing_id": 1763588123
       },
       {
-        "[\n      \"flight\"\n    ]_id": 1914041759,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588125,
@@ -108,7 +106,7 @@
       1763588137,
       1159284563
     ],
-    "wof:lastmodified": 1716741819,
+    "wof:lastmodified": 1716929369,
     "wof:name": "AS1123 (SFO-SEA)",
     "wof:parent_id": 1763588137,
     "wof:placetype": "custom",

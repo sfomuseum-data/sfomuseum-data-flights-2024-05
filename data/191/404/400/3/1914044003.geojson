@@ -53,7 +53,6 @@
     "wof:geomhash": "a0e250e9237d15725a2a6f51d6b7a6b6",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914044003,
         "custom_id": 1914044003,
         "flight_id": 1914044003
       }
@@ -65,7 +64,7 @@
       102527513,
       1159285413
     ],
-    "wof:lastmodified": 1716741835,
+    "wof:lastmodified": 1716929369,
     "wof:name": "UA8209 (SFO-PDX)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

@@ -70,7 +70,6 @@
     "wof:geomhash": "2a19f056fd5d16c52f22f1bf5dc85c9c",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914043711,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588125,
@@ -86,7 +85,6 @@
         "wing_id": 1763588123
       },
       {
-        "[\n      \"flight\"\n    ]_id": 1914043711,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588125,
@@ -109,7 +107,7 @@
       1159285413,
       1763588159
     ],
-    "wof:lastmodified": 1716741832,
+    "wof:lastmodified": 1716929369,
     "wof:name": "UA2077 (SFO-PHX)",
     "wof:parent_id": 1763588159,
     "wof:placetype": "custom",

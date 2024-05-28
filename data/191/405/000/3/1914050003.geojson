@@ -71,7 +71,6 @@
     "wof:geomhash": "5e0f3a871c366f60ae43a6e5fe25b717",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914050003,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588177,
@@ -87,7 +86,6 @@
         "wing_id": 1763588175
       },
       {
-        "[\n      \"flight\"\n    ]_id": 1914050003,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588177,
@@ -110,7 +108,7 @@
       1763588209,
       1159284021
     ],
-    "wof:lastmodified": 1716914736,
+    "wof:lastmodified": 1716929369,
     "wof:name": "AA378 (SFO-DFW)",
     "wof:parent_id": 1763588209,
     "wof:placetype": "custom",

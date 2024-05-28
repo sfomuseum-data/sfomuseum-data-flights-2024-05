@@ -64,7 +64,6 @@
     "wof:geomhash": "247e1e318adb65668d4614fd3ca74ae2",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914038701,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588177,
@@ -80,7 +79,6 @@
         "wing_id": 1763588175
       },
       {
-        "[\n      \"flight\"\n    ]_id": 1914038701,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588177,
@@ -102,7 +100,7 @@
       1159284165,
       1763588483
     ],
-    "wof:lastmodified": 1716741819,
+    "wof:lastmodified": 1716929370,
     "wof:name": "CZ657 (CAN-SFO)",
     "wof:parent_id": 1763588483,
     "wof:placetype": "custom",

@@ -70,7 +70,6 @@
     "wof:geomhash": "62f9f5a2734b9c5938b0b415e9e4a515",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914031439,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588125,
@@ -86,7 +85,6 @@
         "wing_id": 1763588123
       },
       {
-        "[\n      \"flight\"\n    ]_id": 1914031439,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588125,
@@ -109,7 +107,7 @@
       1763588159,
       1159283597
     ],
-    "wof:lastmodified": 1716655517,
+    "wof:lastmodified": 1716929368,
     "wof:name": "UA1668 (AUS-SFO)",
     "wof:parent_id": 1763588159,
     "wof:placetype": "custom",

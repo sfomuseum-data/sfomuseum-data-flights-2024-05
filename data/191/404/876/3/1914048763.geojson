@@ -64,7 +64,6 @@
     "wof:geomhash": "5ce04c0590c166d926aa7a8325b74dd4",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914048763,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588433,
@@ -80,7 +79,6 @@
         "wing_id": 1763588369
       },
       {
-        "[\n      \"flight\"\n    ]_id": 1914048763,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588433,
@@ -102,7 +100,7 @@
       1159285129,
       1763588451
     ],
-    "wof:lastmodified": 1716914724,
+    "wof:lastmodified": 1716929370,
     "wof:name": "SK935 (CPH-SFO)",
     "wof:parent_id": 1763588451,
     "wof:placetype": "custom",

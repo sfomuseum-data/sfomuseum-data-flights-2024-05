@@ -69,7 +69,6 @@
     "wof:geomhash": "b883d8e3c3c604f714c4dc756f6c1133",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914031139,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588433,
@@ -85,7 +84,6 @@
         "wing_id": 1763588369
       },
       {
-        "[\n      \"flight\"\n    ]_id": 1914031139,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588433,
@@ -108,7 +106,7 @@
       102551593,
       1159286259
     ],
-    "wof:lastmodified": 1716655515,
+    "wof:lastmodified": 1716929368,
     "wof:name": "SQ32 (SIN-SFO)",
     "wof:parent_id": 1763588461,
     "wof:placetype": "custom",

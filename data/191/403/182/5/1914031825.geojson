@@ -66,7 +66,6 @@
     "wof:geomhash": "c362a07ec1dacdc6f288623946bd8d01",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914031825,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588125,
@@ -82,7 +81,6 @@
         "wing_id": 1763588123
       },
       {
-        "[\n      \"flight\"\n    ]_id": 1914031825,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588125,
@@ -105,7 +103,7 @@
       1763588153,
       1159283697
     ],
-    "wof:lastmodified": 1716655520,
+    "wof:lastmodified": 1716929368,
     "wof:name": "UA8272 (YYZ-SFO)",
     "wof:parent_id": 1763588153,
     "wof:placetype": "custom",

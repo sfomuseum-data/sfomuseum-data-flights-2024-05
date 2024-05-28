@@ -71,7 +71,6 @@
     "wof:geomhash": "3123a4aff4021144fa8973299956ba97",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914030083,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588233,
@@ -87,7 +86,6 @@
         "wing_id": 1763588123
       },
       {
-        "[\n      \"flight\"\n    ]_id": 1914030083,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588233,
@@ -110,7 +108,7 @@
       1159284625,
       1813375783
     ],
-    "wof:lastmodified": 1716655508,
+    "wof:lastmodified": 1716929368,
     "wof:name": "DL2127 (SEA-SFO)",
     "wof:parent_id": 1763588243,
     "wof:placetype": "custom",

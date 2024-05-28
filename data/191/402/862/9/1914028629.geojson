@@ -45,7 +45,6 @@
     "wof:geomhash": "f16008bc2ad68c6d1bc593247c6c74a9",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914028629,
         "custom_id": 1914028629,
         "flight_id": 1914028629
       }
@@ -57,7 +56,7 @@
       1159283917,
       -1
     ],
-    "wof:lastmodified": 1716655513,
+    "wof:lastmodified": 1716929369,
     "wof:name": "OZ286 (LAX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

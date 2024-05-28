@@ -58,7 +58,6 @@
     "wof:geomhash": "7a64189ee84e1d057c670ad6a60700c7",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914039083,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588177,
@@ -74,7 +73,6 @@
         "wing_id": 1763588175
       },
       {
-        "[\n      \"flight\"\n    ]_id": 1914039083,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588177,
@@ -95,7 +93,7 @@
       1159284511,
       1763588203
     ],
-    "wof:lastmodified": 1716741821,
+    "wof:lastmodified": 1716929370,
     "wof:name": "IB2621 (BCN-SFO)",
     "wof:parent_id": 1763588203,
     "wof:placetype": "custom",

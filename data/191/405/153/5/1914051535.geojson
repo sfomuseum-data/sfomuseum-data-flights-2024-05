@@ -71,7 +71,6 @@
     "wof:geomhash": "8306f5516cededf93440c49d2c7be198",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914051535,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588233,
@@ -87,7 +86,6 @@
         "wing_id": 1763588123
       },
       {
-        "[\n      \"flight\"\n    ]_id": 1914051535,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588233,
@@ -110,7 +108,7 @@
       1763588245,
       1159283539
     ],
-    "wof:lastmodified": 1716914716,
+    "wof:lastmodified": 1716929369,
     "wof:name": "DL1257 (SFO-ATL)",
     "wof:parent_id": 1763588245,
     "wof:placetype": "custom",

@@ -71,7 +71,6 @@
     "wof:geomhash": "25dc9d98eae1cd54f40654c6c4fb6929",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914031373,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588335,
@@ -87,7 +86,6 @@
         "wing_id": 1763588269
       },
       {
-        "[\n      \"flight\"\n    ]_id": 1914031373,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588335,
@@ -110,7 +108,7 @@
       102527513,
       102534097
     ],
-    "wof:lastmodified": 1716655516,
+    "wof:lastmodified": 1716929368,
     "wof:name": "UA1041 (IAH-SFO)",
     "wof:parent_id": 1763588341,
     "wof:placetype": "custom",

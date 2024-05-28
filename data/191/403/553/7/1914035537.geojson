@@ -69,7 +69,6 @@
     "wof:geomhash": "3d19e2486afc236330c096bb1f630ba3",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914035537,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588335,
@@ -85,7 +84,6 @@
         "wing_id": 1763588269
       },
       {
-        "[\n      \"flight\"\n    ]_id": 1914035537,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588335,
@@ -108,7 +106,7 @@
       1159283697,
       1159289871
     ],
-    "wof:lastmodified": 1716655530,
+    "wof:lastmodified": 1716929370,
     "wof:name": "UA433 (SFO-MFR)",
     "wof:parent_id": 1763588345,
     "wof:placetype": "custom",

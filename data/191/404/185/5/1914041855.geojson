@@ -70,7 +70,6 @@
     "wof:geomhash": "92fb504f17f3373e6b03bb6769f65d8a",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914041855,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588125,
@@ -86,7 +85,6 @@
         "wing_id": 1763588123
       },
       {
-        "[\n      \"flight\"\n    ]_id": 1914041855,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588125,
@@ -109,7 +107,7 @@
       1159289871,
       102530741
     ],
-    "wof:lastmodified": 1716741819,
+    "wof:lastmodified": 1716929369,
     "wof:name": "AS356 (SFO-BOS)",
     "wof:parent_id": 1763588129,
     "wof:placetype": "custom",

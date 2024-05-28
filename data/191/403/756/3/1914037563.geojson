@@ -66,7 +66,6 @@
     "wof:geomhash": "d6fced31e2f30d79d54c9b38b6916cc7",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914037563,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588125,
@@ -82,7 +81,6 @@
         "wing_id": 1763588123
       },
       {
-        "[\n      \"flight\"\n    ]_id": 1914037563,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588125,
@@ -105,7 +103,7 @@
       1813375783,
       102527513
     ],
-    "wof:lastmodified": 1716741812,
+    "wof:lastmodified": 1716929370,
     "wof:name": "AC763 (YUL-SFO)",
     "wof:parent_id": 1763588155,
     "wof:placetype": "custom",

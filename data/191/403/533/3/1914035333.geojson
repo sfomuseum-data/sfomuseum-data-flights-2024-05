@@ -71,7 +71,6 @@
     "wof:geomhash": "5e0f3a871c366f60ae43a6e5fe25b717",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914035333,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588371,
@@ -87,7 +86,6 @@
         "wing_id": 1763588369
       },
       {
-        "[\n      \"flight\"\n    ]_id": 1914035333,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588371,
@@ -110,7 +108,7 @@
       1159285413,
       1763588419
     ],
-    "wof:lastmodified": 1716655529,
+    "wof:lastmodified": 1716929369,
     "wof:name": "UA1728 (SFO-DFW)",
     "wof:parent_id": 1763588419,
     "wof:placetype": "custom",

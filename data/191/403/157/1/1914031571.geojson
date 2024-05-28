@@ -65,7 +65,6 @@
     "wof:geomhash": "e570a09b358444cf621c068c13b8dbc0",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914031571,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588271,
@@ -81,7 +80,6 @@
         "wing_id": 1763588269
       },
       {
-        "[\n      \"flight\"\n    ]_id": 1914031571,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588271,
@@ -103,7 +101,7 @@
       102527513,
       102530507
     ],
-    "wof:lastmodified": 1716655518,
+    "wof:lastmodified": 1716929368,
     "wof:name": "UA2262 (RDM-SFO)",
     "wof:parent_id": 1763588285,
     "wof:placetype": "custom",

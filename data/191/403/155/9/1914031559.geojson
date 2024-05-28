@@ -66,7 +66,6 @@
     "wof:geomhash": "376248592ab7850cfb9a479529cc5caf",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914031559,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588335,
@@ -82,7 +81,6 @@
         "wing_id": 1763588269
       },
       {
-        "[\n      \"flight\"\n    ]_id": 1914031559,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588335,
@@ -105,7 +103,7 @@
       1159283697,
       1528104577
     ],
-    "wof:lastmodified": 1716655518,
+    "wof:lastmodified": 1716929368,
     "wof:name": "UA2228 (IAD-SFO)",
     "wof:parent_id": 1763588357,
     "wof:placetype": "custom",

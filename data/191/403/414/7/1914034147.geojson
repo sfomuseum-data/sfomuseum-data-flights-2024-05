@@ -66,7 +66,6 @@
     "wof:geomhash": "b0d868dab19a217943f06d97e1bf7ce6",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914034147,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588371,
@@ -82,7 +81,6 @@
         "wing_id": 1763588369
       },
       {
-        "[\n      \"flight\"\n    ]_id": 1914034147,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588371,
@@ -104,7 +102,7 @@
       1159284401,
       1763588423
     ],
-    "wof:lastmodified": 1716655535,
+    "wof:lastmodified": 1716929369,
     "wof:name": "F94042 (SFO-MDW)",
     "wof:parent_id": 1763588423,
     "wof:placetype": "custom",

@@ -68,7 +68,6 @@
     "wof:geomhash": "0a16624c451961804ad27ef012213244",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914047681,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588371,
@@ -84,7 +83,6 @@
         "wing_id": 1763588369
       },
       {
-        "[\n      \"flight\"\n    ]_id": 1914047681,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588371,
@@ -107,7 +105,7 @@
       1159289993,
       102527513
     ],
-    "wof:lastmodified": 1716914717,
+    "wof:lastmodified": 1716929370,
     "wof:name": "MU589 (PVG-SFO)",
     "wof:parent_id": 1763588431,
     "wof:placetype": "custom",

@@ -69,7 +69,6 @@
     "wof:geomhash": "998e7b0d931c2ad5e41dcc1541aaab60",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914052623,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588433,
@@ -85,7 +84,6 @@
         "wing_id": 1763588369
       },
       {
-        "[\n      \"flight\"\n    ]_id": 1914052623,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588433,
@@ -108,7 +106,7 @@
       1159286259,
       1763588451
     ],
-    "wof:lastmodified": 1716914723,
+    "wof:lastmodified": 1716929369,
     "wof:name": "SQ31 (SFO-SIN)",
     "wof:parent_id": 1763588451,
     "wof:placetype": "custom",

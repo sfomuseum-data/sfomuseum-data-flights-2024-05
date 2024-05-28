@@ -71,7 +71,6 @@
     "wof:geomhash": "d45c6baaf0d56697f52acbb8a9e14867",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914049385,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588335,
@@ -87,7 +86,6 @@
         "wing_id": 1763588269
       },
       {
-        "[\n      \"flight\"\n    ]_id": 1914049385,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588335,
@@ -110,7 +108,7 @@
       1528104577,
       102527513
     ],
-    "wof:lastmodified": 1716914729,
+    "wof:lastmodified": 1716929370,
     "wof:name": "UA470 (SAT-SFO)",
     "wof:parent_id": 1763588339,
     "wof:placetype": "custom",

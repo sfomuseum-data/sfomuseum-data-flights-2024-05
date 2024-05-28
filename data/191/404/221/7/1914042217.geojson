@@ -70,7 +70,6 @@
     "wof:geomhash": "a63fc4dac3cd4064d907a0b9ef33a7bc",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914042217,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588177,
@@ -86,7 +85,6 @@
         "wing_id": 1763588175
       },
       {
-        "[\n      \"flight\"\n    ]_id": 1914042217,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588177,
@@ -109,7 +107,7 @@
       1763588203,
       1159283813
     ],
-    "wof:lastmodified": 1716741822,
+    "wof:lastmodified": 1716929369,
     "wof:name": "DE2097 (SFO-FRA)",
     "wof:parent_id": 1763588203,
     "wof:placetype": "custom",

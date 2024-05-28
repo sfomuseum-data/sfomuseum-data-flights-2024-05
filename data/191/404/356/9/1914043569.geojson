@@ -71,7 +71,6 @@
     "wof:geomhash": "25f5345529d944df781e36098260a435",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914043569,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588335,
@@ -87,7 +86,6 @@
         "wing_id": 1763588269
       },
       {
-        "[\n      \"flight\"\n    ]_id": 1914043569,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588335,
@@ -110,7 +108,7 @@
       1159289871,
       102528997
     ],
-    "wof:lastmodified": 1716741830,
+    "wof:lastmodified": 1716929369,
     "wof:name": "UA1041 (SFO-SAN)",
     "wof:parent_id": 1763588353,
     "wof:placetype": "custom",

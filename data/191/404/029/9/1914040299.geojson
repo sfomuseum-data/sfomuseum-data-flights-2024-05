@@ -71,7 +71,6 @@
     "wof:geomhash": "acf2ad4ec949b4135a187e5a7cb03262",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914040299,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588271,
@@ -87,7 +86,6 @@
         "wing_id": 1763588269
       },
       {
-        "[\n      \"flight\"\n    ]_id": 1914040299,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588271,
@@ -110,7 +108,7 @@
       1159283697,
       1159289407
     ],
-    "wof:lastmodified": 1716741810,
+    "wof:lastmodified": 1716929368,
     "wof:name": "UA589 (BZN-SFO)",
     "wof:parent_id": 1763588281,
     "wof:placetype": "custom",

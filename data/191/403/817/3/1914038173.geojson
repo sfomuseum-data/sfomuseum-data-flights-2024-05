@@ -70,7 +70,6 @@
     "wof:geomhash": "5fe9a4073f558f5d433cae4f846ab71e",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914038173,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588125,
@@ -86,7 +85,6 @@
         "wing_id": 1763588123
       },
       {
-        "[\n      \"flight\"\n    ]_id": 1914038173,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588125,
@@ -109,7 +107,7 @@
       1763588145,
       1159283849
     ],
-    "wof:lastmodified": 1716741816,
+    "wof:lastmodified": 1716929370,
     "wof:name": "AS399 (MCO-SFO)",
     "wof:parent_id": 1763588145,
     "wof:placetype": "custom",

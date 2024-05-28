@@ -53,7 +53,6 @@
     "wof:geomhash": "3af422147b92e6fa9912d38a57ea404a",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914031819,
         "custom_id": 1914031819,
         "flight_id": 1914031819
       }
@@ -65,7 +64,7 @@
       1528104575,
       102527513
     ],
-    "wof:lastmodified": 1716655520,
+    "wof:lastmodified": 1716929368,
     "wof:name": "UA8246 (PDX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

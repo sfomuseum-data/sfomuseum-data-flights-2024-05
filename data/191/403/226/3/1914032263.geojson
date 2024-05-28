@@ -71,7 +71,6 @@
     "wof:geomhash": "1348792a172720778d3219cc18ccd8ee",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914032263,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588177,
@@ -87,7 +86,6 @@
         "wing_id": 1763588175
       },
       {
-        "[\n      \"flight\"\n    ]_id": 1914032263,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588177,
@@ -110,7 +108,7 @@
       1159283849,
       1763588207
     ],
-    "wof:lastmodified": 1716655522,
+    "wof:lastmodified": 1716929368,
     "wof:name": "AA16 (SFO-JFK)",
     "wof:parent_id": 1763588207,
     "wof:placetype": "custom",

@@ -66,7 +66,6 @@
     "wof:geomhash": "b96563c9986e04a3607ac552f48e111b",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914037121,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588177,
@@ -82,7 +81,6 @@
         "wing_id": 1763588175
       },
       {
-        "[\n      \"flight\"\n    ]_id": 1914037121,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588177,
@@ -104,7 +102,7 @@
       1159289411,
       102527513
     ],
-    "wof:lastmodified": 1716741810,
+    "wof:lastmodified": 1716929369,
     "wof:name": "AA2651 (CLT-SFO)",
     "wof:parent_id": 1763588221,
     "wof:placetype": "custom",

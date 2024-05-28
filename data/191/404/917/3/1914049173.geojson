@@ -71,7 +71,6 @@
     "wof:geomhash": "fcf5095e8d1a14d003993bc5070a7f0f",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914049173,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588335,
@@ -87,7 +86,6 @@
         "wing_id": 1763588269
       },
       {
-        "[\n      \"flight\"\n    ]_id": 1914049173,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588335,
@@ -110,7 +108,7 @@
       1763588343,
       1159283597
     ],
-    "wof:lastmodified": 1716914727,
+    "wof:lastmodified": 1716929370,
     "wof:name": "UA1728 (LAS-SFO)",
     "wof:parent_id": 1763588343,
     "wof:placetype": "custom",

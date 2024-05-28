@@ -71,7 +71,6 @@
     "wof:geomhash": "736fe0d2ebd38878be6950e82908a686",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914031407,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588271,
@@ -87,7 +86,6 @@
         "wing_id": 1763588269
       },
       {
-        "[\n      \"flight\"\n    ]_id": 1914031407,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588271,
@@ -110,7 +108,7 @@
       1159283697,
       1159289945
     ],
-    "wof:lastmodified": 1716655516,
+    "wof:lastmodified": 1716929368,
     "wof:name": "UA1300 (DEN-SFO)",
     "wof:parent_id": 1763588329,
     "wof:placetype": "custom",

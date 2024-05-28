@@ -66,7 +66,6 @@
     "wof:geomhash": "976937653dbac6c9c27dd23670ba89bf",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914035005,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588177,
@@ -82,7 +81,6 @@
         "wing_id": 1763588175
       },
       {
-        "[\n      \"flight\"\n    ]_id": 1914035005,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588177,
@@ -104,7 +102,7 @@
       1159285591,
       1763588189
     ],
-    "wof:lastmodified": 1716655537,
+    "wof:lastmodified": 1716929369,
     "wof:name": "WN1822 (SFO-DEN)",
     "wof:parent_id": 1763588189,
     "wof:placetype": "custom",

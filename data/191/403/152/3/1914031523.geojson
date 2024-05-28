@@ -69,7 +69,6 @@
     "wof:geomhash": "01009f732d03a7803d3f7fd23cf321f4",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914031523,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588271,
@@ -85,7 +84,6 @@
         "wing_id": 1763588269
       },
       {
-        "[\n      \"flight\"\n    ]_id": 1914031523,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588271,
@@ -108,7 +106,7 @@
       1763588291,
       1159283597
     ],
-    "wof:lastmodified": 1716655517,
+    "wof:lastmodified": 1716929368,
     "wof:name": "UA205 (SNA-SFO)",
     "wof:parent_id": 1763588291,
     "wof:placetype": "custom",

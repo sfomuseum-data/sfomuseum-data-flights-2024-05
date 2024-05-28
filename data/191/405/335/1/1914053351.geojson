@@ -71,7 +71,6 @@
     "wof:geomhash": "86f41e039827d60bcd1a72801f72cbc2",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914053351,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588433,
@@ -87,7 +86,6 @@
         "wing_id": 1763588369
       },
       {
-        "[\n      \"flight\"\n    ]_id": 1914053351,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588433,
@@ -110,7 +108,7 @@
       102527513,
       1159285413
     ],
-    "wof:lastmodified": 1716914729,
+    "wof:lastmodified": 1716929370,
     "wof:name": "UA948 (SFO-LHR)",
     "wof:parent_id": 1763588463,
     "wof:placetype": "custom",

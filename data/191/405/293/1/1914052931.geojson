@@ -71,7 +71,6 @@
     "wof:geomhash": "36f645f844d4838b633d7fed3f06d4a5",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914052931,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588335,
@@ -87,7 +86,6 @@
         "wing_id": 1763588269
       },
       {
-        "[\n      \"flight\"\n    ]_id": 1914052931,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588335,
@@ -110,7 +108,7 @@
       102527513,
       1159285413
     ],
-    "wof:lastmodified": 1716914725,
+    "wof:lastmodified": 1716929369,
     "wof:name": "UA1603 (SFO-BNA)",
     "wof:parent_id": 1763588347,
     "wof:placetype": "custom",

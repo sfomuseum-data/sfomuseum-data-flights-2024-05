@@ -58,7 +58,6 @@
     "wof:geomhash": "8db666380c01edea8882f91918b43729",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914043017,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588125,
@@ -74,7 +73,6 @@
         "wing_id": 1763588123
       },
       {
-        "[\n      \"flight\"\n    ]_id": 1914043017,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588125,
@@ -95,7 +93,7 @@
       1763552131,
       1763588147
     ],
-    "wof:lastmodified": 1716741826,
+    "wof:lastmodified": 1716929369,
     "wof:name": "MX606 (SFO-GJT)",
     "wof:parent_id": 1763588147,
     "wof:placetype": "custom",

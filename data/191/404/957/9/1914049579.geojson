@@ -66,7 +66,6 @@
     "wof:geomhash": "07839d38a937070012f963bfe77eb5da",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914049579,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588433,
@@ -82,7 +81,6 @@
         "wing_id": 1763588369
       },
       {
-        "[\n      \"flight\"\n    ]_id": 1914049579,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588433,
@@ -105,7 +103,7 @@
       1159285413,
       1763588465
     ],
-    "wof:lastmodified": 1716914730,
+    "wof:lastmodified": 1716929370,
     "wof:name": "UA916 (AKL-SFO)",
     "wof:parent_id": 1763588465,
     "wof:placetype": "custom",

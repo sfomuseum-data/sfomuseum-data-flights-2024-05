@@ -71,7 +71,6 @@
     "wof:geomhash": "736fe0d2ebd38878be6950e82908a686",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914049391,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588125,
@@ -87,7 +86,6 @@
         "wing_id": 1763588123
       },
       {
-        "[\n      \"flight\"\n    ]_id": 1914049391,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588125,
@@ -110,7 +108,7 @@
       1159289871,
       102527513
     ],
-    "wof:lastmodified": 1716914729,
+    "wof:lastmodified": 1716929370,
     "wof:name": "UA491 (DEN-SFO)",
     "wof:parent_id": 1763588159,
     "wof:placetype": "custom",

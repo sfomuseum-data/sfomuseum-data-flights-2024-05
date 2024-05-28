@@ -64,7 +64,6 @@
     "wof:geomhash": "d1d4873ced1d6ea3128e45b0b2070718",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914048139,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588371,
@@ -80,7 +79,6 @@
         "wing_id": 1763588369
       },
       {
-        "[\n      \"flight\"\n    ]_id": 1914048139,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588371,
@@ -102,7 +100,7 @@
       102527513,
       102528997
     ],
-    "wof:lastmodified": 1716914720,
+    "wof:lastmodified": 1716929370,
     "wof:name": "F93381 (SAN-SFO)",
     "wof:parent_id": 1763588427,
     "wof:placetype": "custom",

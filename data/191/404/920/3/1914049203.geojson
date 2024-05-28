@@ -69,7 +69,6 @@
     "wof:geomhash": "57b2b594ef41523ab9fe7c26d147f9bd",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914049203,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588433,
@@ -85,7 +84,6 @@
         "wing_id": 1763588369
       },
       {
-        "[\n      \"flight\"\n    ]_id": 1914049203,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588433,
@@ -108,7 +106,7 @@
       1763588459,
       1159283597
     ],
-    "wof:lastmodified": 1716914727,
+    "wof:lastmodified": 1716929370,
     "wof:name": "UA1931 (SJD-SFO)",
     "wof:parent_id": 1763588459,
     "wof:placetype": "custom",

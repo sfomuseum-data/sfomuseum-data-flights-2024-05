@@ -63,7 +63,6 @@
     "wof:geomhash": "c362a07ec1dacdc6f288623946bd8d01",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914048551,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588177,
@@ -79,7 +78,6 @@
         "wing_id": 1763588175
       },
       {
-        "[\n      \"flight\"\n    ]_id": 1914048551,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588177,
@@ -101,7 +99,7 @@
       1763588215,
       1159283753
     ],
-    "wof:lastmodified": 1716914722,
+    "wof:lastmodified": 1716929370,
     "wof:name": "PD669 (YYZ-SFO)",
     "wof:parent_id": 1763588215,
     "wof:placetype": "custom",

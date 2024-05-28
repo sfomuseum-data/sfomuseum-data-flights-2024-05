@@ -71,7 +71,6 @@
     "wof:geomhash": "70ecaf1bff2da3af9ba52c9bde5534af",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914049281,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588335,
@@ -87,7 +86,6 @@
         "wing_id": 1763588269
       },
       {
-        "[\n      \"flight\"\n    ]_id": 1914049281,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588335,
@@ -110,7 +108,7 @@
       1528104577,
       102527513
     ],
-    "wof:lastmodified": 1716914728,
+    "wof:lastmodified": 1716929370,
     "wof:name": "UA2248 (PHL-SFO)",
     "wof:parent_id": 1763588357,
     "wof:placetype": "custom",

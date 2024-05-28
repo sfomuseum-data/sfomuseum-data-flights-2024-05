@@ -71,7 +71,6 @@
     "wof:geomhash": "5afbf99c4360a00cfc0890f48cccf304",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914049105,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588271,
@@ -87,7 +86,6 @@
         "wing_id": 1763588269
       },
       {
-        "[\n      \"flight\"\n    ]_id": 1914049105,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588271,
@@ -110,7 +108,7 @@
       1159285413,
       1763588325
     ],
-    "wof:lastmodified": 1716914726,
+    "wof:lastmodified": 1716929370,
     "wof:name": "UA1148 (EWR-SFO)",
     "wof:parent_id": 1763588325,
     "wof:placetype": "custom",

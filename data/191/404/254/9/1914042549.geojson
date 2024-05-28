@@ -52,7 +52,6 @@
     "wof:geomhash": "ec4a8fe4d0e09d37ae50bf109072b003",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914042549,
         "custom_id": 1914042549,
         "flight_id": 1914042549
       }
@@ -64,7 +63,7 @@
       1159289989,
       102551487
     ],
-    "wof:lastmodified": 1716741824,
+    "wof:lastmodified": 1716929369,
     "wof:name": "BR629 (SFO-TPE)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

@@ -69,7 +69,6 @@
     "wof:geomhash": "602be2a828e3460cadf44be5b1c2e36b",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914043681,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588271,
@@ -85,7 +84,6 @@
         "wing_id": 1763588269
       },
       {
-        "[\n      \"flight\"\n    ]_id": 1914043681,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588271,
@@ -108,7 +106,7 @@
       1763588325,
       1159285749
     ],
-    "wof:lastmodified": 1716741831,
+    "wof:lastmodified": 1716929369,
     "wof:name": "UA1897 (SFO-LAX)",
     "wof:parent_id": 1763588325,
     "wof:placetype": "custom",

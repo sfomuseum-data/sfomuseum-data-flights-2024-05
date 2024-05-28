@@ -51,7 +51,6 @@
     "wof:geomhash": "d86898d5d90d953f6630362144c30ee0",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914052291,
         "custom_id": 1914052291,
         "flight_id": 1914052291
       }
@@ -63,7 +62,7 @@
       1159289993,
       102553219
     ],
-    "wof:lastmodified": 1716914721,
+    "wof:lastmodified": 1716929369,
     "wof:name": "PR105 (SFO-MNL)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

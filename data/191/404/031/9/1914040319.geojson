@@ -70,7 +70,6 @@
     "wof:geomhash": "7a64189ee84e1d057c670ad6a60700c7",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914040319,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588433,
@@ -86,7 +85,6 @@
         "wing_id": 1763588369
       },
       {
-        "[\n      \"flight\"\n    ]_id": 1914040319,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588433,
@@ -109,7 +107,7 @@
       102527513,
       102545733
     ],
-    "wof:lastmodified": 1716741810,
+    "wof:lastmodified": 1716929368,
     "wof:name": "UA673 (BCN-SFO)",
     "wof:parent_id": 1763588437,
     "wof:placetype": "custom",

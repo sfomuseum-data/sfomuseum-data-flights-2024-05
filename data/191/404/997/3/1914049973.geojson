@@ -71,7 +71,6 @@
     "wof:geomhash": "7a75cc81bf790964b92a4927d3978f50",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914049973,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588177,
@@ -87,7 +86,6 @@
         "wing_id": 1763588175
       },
       {
-        "[\n      \"flight\"\n    ]_id": 1914049973,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588177,
@@ -110,7 +108,7 @@
       1763588201,
       1159284021
     ],
-    "wof:lastmodified": 1716914733,
+    "wof:lastmodified": 1716929370,
     "wof:name": "AA2122 (SFO-ORD)",
     "wof:parent_id": 1763588201,
     "wof:placetype": "custom",

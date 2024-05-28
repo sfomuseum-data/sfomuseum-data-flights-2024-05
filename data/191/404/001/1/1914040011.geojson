@@ -69,7 +69,6 @@
     "wof:geomhash": "e4ae4c60ed0a76df38dbcfaaa5dd6a55",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914040011,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588271,
@@ -85,7 +84,6 @@
         "wing_id": 1763588269
       },
       {
-        "[\n      \"flight\"\n    ]_id": 1914040011,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588271,
@@ -108,7 +106,7 @@
       1763588309,
       1159283597
     ],
-    "wof:lastmodified": 1716741806,
+    "wof:lastmodified": 1716929368,
     "wof:name": "UA1722 (OGG-SFO)",
     "wof:parent_id": 1763588309,
     "wof:placetype": "custom",

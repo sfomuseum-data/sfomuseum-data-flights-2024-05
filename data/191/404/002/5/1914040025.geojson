@@ -71,7 +71,6 @@
     "wof:geomhash": "35ddb46351d590846e83b74bc4468cc8",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914040025,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588335,
@@ -87,7 +86,6 @@
         "wing_id": 1763588269
       },
       {
-        "[\n      \"flight\"\n    ]_id": 1914040025,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588335,
@@ -110,7 +108,7 @@
       1159285413,
       1763588351
     ],
-    "wof:lastmodified": 1716741807,
+    "wof:lastmodified": 1716929368,
     "wof:name": "UA1763 (MCI-SFO)",
     "wof:parent_id": 1763588351,
     "wof:placetype": "custom",

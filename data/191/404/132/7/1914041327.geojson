@@ -70,7 +70,6 @@
     "wof:geomhash": "64252c90f74b3e5d6a354a131140ee76",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914041327,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588433,
@@ -86,7 +85,6 @@
         "wing_id": 1763588369
       },
       {
-        "[\n      \"flight\"\n    ]_id": 1914041327,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588433,
@@ -109,7 +107,7 @@
       1763588455,
       1159285413
     ],
-    "wof:lastmodified": 1716741816,
+    "wof:lastmodified": 1716929369,
     "wof:name": "NH107 (SFO-HND)",
     "wof:parent_id": 1763588455,
     "wof:placetype": "custom",

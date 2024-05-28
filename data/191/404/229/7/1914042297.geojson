@@ -71,7 +71,6 @@
     "wof:geomhash": "bbdc3c5edf2b2678c807f6144214d82c",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914042297,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588233,
@@ -87,7 +86,6 @@
         "wing_id": 1763588123
       },
       {
-        "[\n      \"flight\"\n    ]_id": 1914042297,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588233,
@@ -110,7 +108,7 @@
       1763588249,
       1159285483
     ],
-    "wof:lastmodified": 1716741822,
+    "wof:lastmodified": 1716929369,
     "wof:name": "DL1256 (SFO-MSP)",
     "wof:parent_id": 1763588249,
     "wof:placetype": "custom",

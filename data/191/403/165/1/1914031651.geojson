@@ -71,7 +71,6 @@
     "wof:geomhash": "8649ee81ac1d01facd07821b56f3d6b7",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914031651,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588335,
@@ -87,7 +86,6 @@
         "wing_id": 1763588269
       },
       {
-        "[\n      \"flight\"\n    ]_id": 1914031651,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588335,
@@ -110,7 +108,7 @@
       1763588337,
       1159283697
     ],
-    "wof:lastmodified": 1716655519,
+    "wof:lastmodified": 1716929368,
     "wof:name": "UA433 (JAC-SFO)",
     "wof:parent_id": 1763588337,
     "wof:placetype": "custom",

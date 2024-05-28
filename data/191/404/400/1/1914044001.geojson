@@ -48,7 +48,6 @@
     "wof:geomhash": "7a75cc81bf790964b92a4927d3978f50",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914044001,
         "custom_id": 1914044001,
         "flight_id": 1914044001
       }
@@ -60,7 +59,7 @@
       1377564297,
       102533631
     ],
-    "wof:lastmodified": 1716741835,
+    "wof:lastmodified": 1716929369,
     "wof:name": "UA8198 (SFO-ORD)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

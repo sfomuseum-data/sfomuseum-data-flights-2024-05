@@ -71,7 +71,6 @@
     "wof:geomhash": "8fe6791c85dc44fbddffd72416ea0024",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914031555,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588335,
@@ -87,7 +86,6 @@
         "wing_id": 1763588269
       },
       {
-        "[\n      \"flight\"\n    ]_id": 1914031555,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588335,
@@ -110,7 +108,7 @@
       1159292085,
       102527513
     ],
-    "wof:lastmodified": 1716655518,
+    "wof:lastmodified": 1716929368,
     "wof:name": "UA222 (ABQ-SFO)",
     "wof:parent_id": 1763588353,
     "wof:placetype": "custom",

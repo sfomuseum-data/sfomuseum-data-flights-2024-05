@@ -71,7 +71,6 @@
     "wof:geomhash": "4036ee3c983703867dbe0486453848b1",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914035367,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588335,
@@ -87,7 +86,6 @@
         "wing_id": 1763588269
       },
       {
-        "[\n      \"flight\"\n    ]_id": 1914035367,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588335,
@@ -110,7 +108,7 @@
       1763588343,
       1159283917
     ],
-    "wof:lastmodified": 1716655529,
+    "wof:lastmodified": 1716929369,
     "wof:name": "UA1986 (SFO-SEA)",
     "wof:parent_id": 1763588343,
     "wof:placetype": "custom",

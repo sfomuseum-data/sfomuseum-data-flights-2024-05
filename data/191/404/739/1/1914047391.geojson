@@ -70,7 +70,6 @@
     "wof:geomhash": "fcf5095e8d1a14d003993bc5070a7f0f",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914047391,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588125,
@@ -86,7 +85,6 @@
         "wing_id": 1763588123
       },
       {
-        "[\n      \"flight\"\n    ]_id": 1914047391,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588125,
@@ -109,7 +107,7 @@
       1377564285,
       102527513
     ],
-    "wof:lastmodified": 1716914716,
+    "wof:lastmodified": 1716929370,
     "wof:name": "AS613 (LAS-SFO)",
     "wof:parent_id": 1763588137,
     "wof:placetype": "custom",

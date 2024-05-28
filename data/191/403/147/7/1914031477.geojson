@@ -71,7 +71,6 @@
     "wof:geomhash": "a7e835886f555fd347028edc152f9d8c",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914031477,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588335,
@@ -87,7 +86,6 @@
         "wing_id": 1763588269
       },
       {
-        "[\n      \"flight\"\n    ]_id": 1914031477,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588335,
@@ -110,7 +108,7 @@
       1763588341,
       1159283697
     ],
-    "wof:lastmodified": 1716655517,
+    "wof:lastmodified": 1716929368,
     "wof:name": "UA1870 (MSY-SFO)",
     "wof:parent_id": 1763588341,
     "wof:placetype": "custom",

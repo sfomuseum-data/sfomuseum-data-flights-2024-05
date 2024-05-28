@@ -71,7 +71,6 @@
     "wof:geomhash": "b2ae00b77ffd1072a2eb4148779a5d9e",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914043615,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588335,
@@ -87,7 +86,6 @@
         "wing_id": 1763588269
       },
       {
-        "[\n      \"flight\"\n    ]_id": 1914043615,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588335,
@@ -110,7 +108,7 @@
       1763588337,
       1159283597
     ],
-    "wof:lastmodified": 1716741830,
+    "wof:lastmodified": 1716929369,
     "wof:name": "UA1336 (SFO-SLC)",
     "wof:parent_id": 1763588337,
     "wof:placetype": "custom",

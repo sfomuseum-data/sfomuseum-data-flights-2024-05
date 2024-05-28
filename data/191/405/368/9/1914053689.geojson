@@ -69,7 +69,6 @@
     "wof:geomhash": "a7dd599440af55c5534b52449c3164ed",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914053689,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588265,
@@ -85,7 +84,6 @@
         "wing_id": 1763588175
       },
       {
-        "[\n      \"flight\"\n    ]_id": 1914053689,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588265,
@@ -108,7 +106,7 @@
       1159289871,
       102554947
     ],
-    "wof:lastmodified": 1716914731,
+    "wof:lastmodified": 1716929369,
     "wof:name": "WS1509 (SFO-YYC)",
     "wof:parent_id": 1763588267,
     "wof:placetype": "custom",

@@ -66,7 +66,6 @@
     "wof:geomhash": "b2ae00b77ffd1072a2eb4148779a5d9e",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914034141,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588371,
@@ -82,7 +81,6 @@
         "wing_id": 1763588369
       },
       {
-        "[\n      \"flight\"\n    ]_id": 1914034141,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588371,
@@ -104,7 +102,7 @@
       1763588413,
       1377564295
     ],
-    "wof:lastmodified": 1716655535,
+    "wof:lastmodified": 1716929369,
     "wof:name": "F93394 (SFO-SLC)",
     "wof:parent_id": 1763588413,
     "wof:placetype": "custom",

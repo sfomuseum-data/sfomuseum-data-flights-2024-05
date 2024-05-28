@@ -70,7 +70,6 @@
     "wof:geomhash": "10bf27aabb5200ef4863b11f6c2a5d60",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914031777,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588271,
@@ -86,7 +85,6 @@
         "wing_id": 1763588269
       },
       {
-        "[\n      \"flight\"\n    ]_id": 1914031777,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588271,
@@ -109,7 +107,7 @@
       1159283697,
       1528104577
     ],
-    "wof:lastmodified": 1716655519,
+    "wof:lastmodified": 1716929368,
     "wof:name": "UA687 (MFR-SFO)",
     "wof:parent_id": 1763588281,
     "wof:placetype": "custom",

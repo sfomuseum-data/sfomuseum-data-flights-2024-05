@@ -71,7 +71,6 @@
     "wof:geomhash": "262283982e32a09ea653beb1776c6fc7",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914049995,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588177,
@@ -87,7 +86,6 @@
         "wing_id": 1763588175
       },
       {
-        "[\n      \"flight\"\n    ]_id": 1914049995,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588177,
@@ -110,7 +108,7 @@
       1159284021,
       1377564297
     ],
-    "wof:lastmodified": 1716914736,
+    "wof:lastmodified": 1716929370,
     "wof:name": "AA2980 (SFO-PHL)",
     "wof:parent_id": 1763588209,
     "wof:placetype": "custom",

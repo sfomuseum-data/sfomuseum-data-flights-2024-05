@@ -70,7 +70,6 @@
     "wof:geomhash": "e68490b7b9257816408c117e0e15f8ec",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914028923,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588125,
@@ -86,7 +85,6 @@
         "wing_id": 1763588123
       },
       {
-        "[\n      \"flight\"\n    ]_id": 1914028923,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588125,
@@ -109,7 +107,7 @@
       1763588153,
       1159285749
     ],
-    "wof:lastmodified": 1716655514,
+    "wof:lastmodified": 1716929369,
     "wof:name": "AC570 (YVR-SFO)",
     "wof:parent_id": 1763588153,
     "wof:placetype": "custom",

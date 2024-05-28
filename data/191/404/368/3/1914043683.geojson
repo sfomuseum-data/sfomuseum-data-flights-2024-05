@@ -71,7 +71,6 @@
     "wof:geomhash": "d9a5d9d800d6bc92413ff3768040f8da",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914043683,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588433,
@@ -87,7 +86,6 @@
         "wing_id": 1763588369
       },
       {
-        "[\n      \"flight\"\n    ]_id": 1914043683,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588433,
@@ -110,7 +108,7 @@
       1159285413,
       1763588437
     ],
-    "wof:lastmodified": 1716741831,
+    "wof:lastmodified": 1716929369,
     "wof:name": "UA194 (SFO-MUC)",
     "wof:parent_id": 1763588437,
     "wof:placetype": "custom",

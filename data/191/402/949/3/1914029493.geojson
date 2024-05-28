@@ -63,7 +63,6 @@
     "wof:geomhash": "3af422147b92e6fa9912d38a57ea404a",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914029493,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588125,
@@ -79,7 +78,6 @@
         "wing_id": 1763588123
       },
       {
-        "[\n      \"flight\"\n    ]_id": 1914029493,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588125,
@@ -101,7 +99,7 @@
       1763588131,
       1159284193
     ],
-    "wof:lastmodified": 1716655517,
+    "wof:lastmodified": 1716929370,
     "wof:name": "AS1163 (PDX-SFO)",
     "wof:parent_id": 1763588131,
     "wof:placetype": "custom",

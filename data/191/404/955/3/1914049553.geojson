@@ -70,7 +70,6 @@
     "wof:geomhash": "f3115fe3d28c66ab4b94072923e0b1bb",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914049553,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588433,
@@ -86,7 +85,6 @@
         "wing_id": 1763588369
       },
       {
-        "[\n      \"flight\"\n    ]_id": 1914049553,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588433,
@@ -109,7 +107,7 @@
       1763588447,
       1159285749
     ],
-    "wof:lastmodified": 1716914730,
+    "wof:lastmodified": 1716929370,
     "wof:name": "UA870 (SYD-SFO)",
     "wof:parent_id": 1763588447,
     "wof:placetype": "custom",

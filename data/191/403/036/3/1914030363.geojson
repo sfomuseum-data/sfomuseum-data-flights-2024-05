@@ -50,7 +50,6 @@
     "wof:geomhash": "bbd014edfd8455b7d9e062bec23e52e6",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914030363,
         "custom_id": 1914030363,
         "flight_id": 1914030363
       }
@@ -62,7 +61,7 @@
       102527513,
       102531205
     ],
-    "wof:lastmodified": 1716655511,
+    "wof:lastmodified": 1716929368,
     "wof:name": "F94041 (MDW-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

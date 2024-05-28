@@ -66,7 +66,6 @@
     "wof:geomhash": "b883d8e3c3c604f714c4dc756f6c1133",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914049345,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588433,
@@ -82,7 +81,6 @@
         "wing_id": 1763588369
       },
       {
-        "[\n      \"flight\"\n    ]_id": 1914049345,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588433,
@@ -104,7 +102,7 @@
       1159293215,
       102527513
     ],
-    "wof:lastmodified": 1716914729,
+    "wof:lastmodified": 1716929370,
     "wof:name": "UA28 (SIN-SFO)",
     "wof:parent_id": 1763588461,
     "wof:placetype": "custom",

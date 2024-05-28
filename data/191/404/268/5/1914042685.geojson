@@ -70,7 +70,6 @@
     "wof:geomhash": "ff961493fc59fc665836e174da62aa8e",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914042685,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588371,
@@ -86,7 +85,6 @@
         "wing_id": 1763588369
       },
       {
-        "[\n      \"flight\"\n    ]_id": 1914042685,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588371,
@@ -109,7 +107,7 @@
       1159284489,
       1763588419
     ],
-    "wof:lastmodified": 1716741824,
+    "wof:lastmodified": 1716929369,
     "wof:name": "HA11 (SFO-HNL)",
     "wof:parent_id": 1763588419,
     "wof:placetype": "custom",

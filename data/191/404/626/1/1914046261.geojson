@@ -71,7 +71,6 @@
     "wof:geomhash": "70ecaf1bff2da3af9ba52c9bde5534af",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914046261,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588177,
@@ -87,7 +86,6 @@
         "wing_id": 1763588175
       },
       {
-        "[\n      \"flight\"\n    ]_id": 1914046261,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588177,
@@ -110,7 +108,7 @@
       1763588209,
       1159284021
     ],
-    "wof:lastmodified": 1716914709,
+    "wof:lastmodified": 1716929370,
     "wof:name": "AA2407 (PHL-SFO)",
     "wof:parent_id": 1763588209,
     "wof:placetype": "custom",

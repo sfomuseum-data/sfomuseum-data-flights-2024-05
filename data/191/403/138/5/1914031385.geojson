@@ -65,7 +65,6 @@
     "wof:geomhash": "cb635fc427df70f0d5f88d1f39ad4ded",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914031385,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588433,
@@ -81,7 +80,6 @@
         "wing_id": 1763588369
       },
       {
-        "[\n      \"flight\"\n    ]_id": 1914031385,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588433,
@@ -103,7 +101,7 @@
       1159285413,
       1763588437
     ],
-    "wof:lastmodified": 1716655516,
+    "wof:lastmodified": 1716929368,
     "wof:name": "UA114 (PPT-SFO)",
     "wof:parent_id": 1763588437,
     "wof:placetype": "custom",

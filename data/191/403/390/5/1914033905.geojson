@@ -71,7 +71,6 @@
     "wof:geomhash": "9151bfe07cf224e1ff61a7f7b8c30671",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914033905,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588233,
@@ -87,7 +86,6 @@
         "wing_id": 1763588123
       },
       {
-        "[\n      \"flight\"\n    ]_id": 1914033905,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588233,
@@ -110,7 +108,7 @@
       102525635,
       102527513
     ],
-    "wof:lastmodified": 1716655534,
+    "wof:lastmodified": 1716929369,
     "wof:name": "DL469 (SFO-DTW)",
     "wof:parent_id": 1763588243,
     "wof:placetype": "custom",

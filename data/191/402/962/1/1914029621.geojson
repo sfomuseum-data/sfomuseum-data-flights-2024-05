@@ -70,7 +70,6 @@
     "wof:geomhash": "81d390dcf2582f737869c573200abb8f",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914029621,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588125,
@@ -86,7 +85,6 @@
         "wing_id": 1763588123
       },
       {
-        "[\n      \"flight\"\n    ]_id": 1914029621,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588125,
@@ -109,7 +107,7 @@
       102527513,
       102533631
     ],
-    "wof:lastmodified": 1716655518,
+    "wof:lastmodified": 1716929370,
     "wof:name": "AS597 (ORD-SFO)",
     "wof:parent_id": 1763588131,
     "wof:placetype": "custom",

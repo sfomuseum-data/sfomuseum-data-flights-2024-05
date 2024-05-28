@@ -71,7 +71,6 @@
     "wof:geomhash": "f16008bc2ad68c6d1bc593247c6c74a9",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914028439,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588177,
@@ -87,7 +86,6 @@
         "wing_id": 1763588175
       },
       {
-        "[\n      \"flight\"\n    ]_id": 1914028439,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588177,
@@ -110,7 +108,7 @@
       1763588229,
       1159284389
     ],
-    "wof:lastmodified": 1716655512,
+    "wof:lastmodified": 1716929369,
     "wof:name": "AA1432 (LAX-SFO)",
     "wof:parent_id": 1763588229,
     "wof:placetype": "custom",

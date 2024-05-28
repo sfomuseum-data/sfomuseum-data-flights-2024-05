@@ -70,7 +70,6 @@
     "wof:geomhash": "094b2380067f0814bdd38962ab53e3d3",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914040163,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588271,
@@ -86,7 +85,6 @@
         "wing_id": 1763588269
       },
       {
-        "[\n      \"flight\"\n    ]_id": 1914040163,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588271,
@@ -109,7 +107,7 @@
       102527513,
       102533575
     ],
-    "wof:lastmodified": 1716741808,
+    "wof:lastmodified": 1716929368,
     "wof:name": "UA2603 (ONT-SFO)",
     "wof:parent_id": 1763588283,
     "wof:placetype": "custom",

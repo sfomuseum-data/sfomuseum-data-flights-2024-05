@@ -71,7 +71,6 @@
     "wof:geomhash": "d7bea1763df143b6882335af1c301bcf",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914035343,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588335,
@@ -87,7 +86,6 @@
         "wing_id": 1763588269
       },
       {
-        "[\n      \"flight\"\n    ]_id": 1914035343,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588335,
@@ -110,7 +108,7 @@
       1528104575,
       102528181
     ],
-    "wof:lastmodified": 1716655538,
+    "wof:lastmodified": 1716929369,
     "wof:name": "UA1763 (SFO-PIT)",
     "wof:parent_id": 1763588345,
     "wof:placetype": "custom",

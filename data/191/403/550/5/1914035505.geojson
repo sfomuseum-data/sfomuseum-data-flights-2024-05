@@ -66,7 +66,6 @@
     "wof:geomhash": "4d8eca8dfd12d13a56951180b27dbf13",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914035505,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588335,
@@ -82,7 +81,6 @@
         "wing_id": 1763588269
       },
       {
-        "[\n      \"flight\"\n    ]_id": 1914035505,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588335,
@@ -105,7 +103,7 @@
       1159285413,
       1763588341
     ],
-    "wof:lastmodified": 1716655538,
+    "wof:lastmodified": 1716929369,
     "wof:name": "UA299 (SFO-IAH)",
     "wof:parent_id": 1763588341,
     "wof:placetype": "custom",

@@ -70,7 +70,6 @@
     "wof:geomhash": "46fccc0e56242535ccfd5ecb278f9a75",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914049177,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588271,
@@ -86,7 +85,6 @@
         "wing_id": 1763588269
       },
       {
-        "[\n      \"flight\"\n    ]_id": 1914049177,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588271,
@@ -109,7 +107,7 @@
       1159286015,
       1528104575
     ],
-    "wof:lastmodified": 1716914727,
+    "wof:lastmodified": 1716929370,
     "wof:name": "UA1746 (LIH-SFO)",
     "wof:parent_id": 1763588321,
     "wof:placetype": "custom",

@@ -71,7 +71,6 @@
     "wof:geomhash": "2155b19e54308f477f2a379762b2f6c8",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914035591,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588335,
@@ -87,7 +86,6 @@
         "wing_id": 1763588269
       },
       {
-        "[\n      \"flight\"\n    ]_id": 1914035591,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588335,
@@ -110,7 +108,7 @@
       102527513,
       1159285413
     ],
-    "wof:lastmodified": 1716655527,
+    "wof:lastmodified": 1716929369,
     "wof:name": "UA556 (SFO-FLL)",
     "wof:parent_id": 1763588355,
     "wof:placetype": "custom",

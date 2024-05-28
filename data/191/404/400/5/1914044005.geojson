@@ -58,7 +58,6 @@
     "wof:geomhash": "01999c4327be8e36df88ffd5cda77111",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914044005,
         "custom_id": 1914044005,
         "flight_id": 1914044005
       }
@@ -71,7 +70,7 @@
       1159289407,
       102536579
     ],
-    "wof:lastmodified": 1716741835,
+    "wof:lastmodified": 1716929369,
     "wof:name": "UA821 (SFO-MEX)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

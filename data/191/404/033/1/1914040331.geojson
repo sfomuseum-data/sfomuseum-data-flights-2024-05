@@ -66,7 +66,6 @@
     "wof:geomhash": "980d68d8d28509c0742a6b2a7abf5f67",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914040331,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588271,
@@ -82,7 +81,6 @@
         "wing_id": 1763588269
       },
       {
-        "[\n      \"flight\"\n    ]_id": 1914040331,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588271,
@@ -104,7 +102,7 @@
       102527513,
       102532255
     ],
-    "wof:lastmodified": 1716741811,
+    "wof:lastmodified": 1716929368,
     "wof:name": "UA716 (CMH-SFO)",
     "wof:parent_id": 1763588281,
     "wof:placetype": "custom",

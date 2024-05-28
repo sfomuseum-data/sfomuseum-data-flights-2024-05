@@ -70,7 +70,6 @@
     "wof:geomhash": "b0708fbc9882ec26729f19c3bf135279",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914035703,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588433,
@@ -86,7 +85,6 @@
         "wing_id": 1763588369
       },
       {
-        "[\n      \"flight\"\n    ]_id": 1914035703,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588433,
@@ -109,7 +107,7 @@
       1159285413,
       1763588463
     ],
-    "wof:lastmodified": 1716655530,
+    "wof:lastmodified": 1716929370,
     "wof:name": "UA837 (SFO-NRT)",
     "wof:parent_id": 1763588463,
     "wof:placetype": "custom",

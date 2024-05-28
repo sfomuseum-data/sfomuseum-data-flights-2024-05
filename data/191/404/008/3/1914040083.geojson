@@ -70,7 +70,6 @@
     "wof:geomhash": "68b06bbd791163721a20ab955d143e55",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914040083,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588271,
@@ -86,7 +85,6 @@
         "wing_id": 1763588269
       },
       {
-        "[\n      \"flight\"\n    ]_id": 1914040083,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588271,
@@ -109,7 +107,7 @@
       1763588319,
       1159286015
     ],
-    "wof:lastmodified": 1716741807,
+    "wof:lastmodified": 1716929368,
     "wof:name": "UA2077 (EUG-SFO)",
     "wof:parent_id": 1763588319,
     "wof:placetype": "custom",

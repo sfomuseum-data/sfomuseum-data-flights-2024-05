@@ -71,7 +71,6 @@
     "wof:geomhash": "c9fdc5df38b6a105de4fe30ae6ada830",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914040101,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588433,
@@ -87,7 +86,6 @@
         "wing_id": 1763588369
       },
       {
-        "[\n      \"flight\"\n    ]_id": 1914040101,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588433,
@@ -110,7 +108,7 @@
       1528104575,
       102527513
     ],
-    "wof:lastmodified": 1716741808,
+    "wof:lastmodified": 1716929368,
     "wof:name": "UA2166 (PHX-SFO)",
     "wof:parent_id": 1763588451,
     "wof:placetype": "custom",

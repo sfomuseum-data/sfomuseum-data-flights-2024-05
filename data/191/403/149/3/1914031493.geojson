@@ -61,7 +61,6 @@
     "wof:geomhash": "c1b858affbd20b2c728ba535a4ce178e",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914031493,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588433,
@@ -77,7 +76,6 @@
         "wing_id": 1763588369
       },
       {
-        "[\n      \"flight\"\n    ]_id": 1914031493,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588433,
@@ -99,7 +97,7 @@
       1159285413,
       1763588463
     ],
-    "wof:lastmodified": 1716655517,
+    "wof:lastmodified": 1716929368,
     "wof:name": "UA1948 (CUN-SFO)",
     "wof:parent_id": 1763588463,
     "wof:placetype": "custom",

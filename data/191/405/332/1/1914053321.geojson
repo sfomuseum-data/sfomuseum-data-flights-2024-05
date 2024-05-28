@@ -69,7 +69,6 @@
     "wof:geomhash": "014430cde1a85b033fb3b4a447168595",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914053321,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588433,
@@ -85,7 +84,6 @@
         "wing_id": 1763588369
       },
       {
-        "[\n      \"flight\"\n    ]_id": 1914053321,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588433,
@@ -108,7 +106,7 @@
       102527513,
       1159285413
     ],
-    "wof:lastmodified": 1716914729,
+    "wof:lastmodified": 1716929369,
     "wof:name": "UA857 (SFO-PVG)",
     "wof:parent_id": 1763588461,
     "wof:placetype": "custom",

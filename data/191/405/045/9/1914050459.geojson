@@ -71,7 +71,6 @@
     "wof:geomhash": "60b8ec845b4af47518c8aaafc3d98633",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914050459,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588125,
@@ -87,7 +86,6 @@
         "wing_id": 1763588123
       },
       {
-        "[\n      \"flight\"\n    ]_id": 1914050459,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588125,
@@ -110,7 +108,7 @@
       1763588155,
       1159283697
     ],
-    "wof:lastmodified": 1716914710,
+    "wof:lastmodified": 1716929369,
     "wof:name": "AC764 (SFO-YUL)",
     "wof:parent_id": 1763588155,
     "wof:placetype": "custom",

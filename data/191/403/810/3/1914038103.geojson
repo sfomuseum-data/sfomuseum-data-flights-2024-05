@@ -70,7 +70,6 @@
     "wof:geomhash": "9cccd37636918a32bc446a92e7ba93ba",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914038103,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588125,
@@ -86,7 +85,6 @@
         "wing_id": 1763588123
       },
       {
-        "[\n      \"flight\"\n    ]_id": 1914038103,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588125,
@@ -109,7 +107,7 @@
       1159283849,
       1159289871
     ],
-    "wof:lastmodified": 1716741815,
+    "wof:lastmodified": 1716929370,
     "wof:name": "AS224 (BOS-SFO)",
     "wof:parent_id": 1763588139,
     "wof:placetype": "custom",

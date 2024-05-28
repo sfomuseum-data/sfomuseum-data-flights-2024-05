@@ -71,7 +71,6 @@
     "wof:geomhash": "af4ccf784d832b160f78d13fe8b8589a",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914032753,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588125,
@@ -87,7 +86,6 @@
         "wing_id": 1763588123
       },
       {
-        "[\n      \"flight\"\n    ]_id": 1914032753,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588125,
@@ -110,7 +108,7 @@
       102555307,
       102527513
     ],
-    "wof:lastmodified": 1716655531,
+    "wof:lastmodified": 1716929368,
     "wof:name": "AC573 (SFO-YVR)",
     "wof:parent_id": 1763588155,
     "wof:placetype": "custom",

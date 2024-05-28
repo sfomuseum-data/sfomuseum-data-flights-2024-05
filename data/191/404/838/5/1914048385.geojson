@@ -53,7 +53,6 @@
     "wof:geomhash": "ba4d31d1826c6198b5ffa8fdb1249c5d",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914048385,
         "custom_id": 1914048385,
         "flight_id": 1914048385
       }
@@ -65,7 +64,7 @@
       102534365,
       1159284583
     ],
-    "wof:lastmodified": 1716914722,
+    "wof:lastmodified": 1716929370,
     "wof:name": "B6615 (JFK-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

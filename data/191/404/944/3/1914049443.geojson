@@ -70,7 +70,6 @@
     "wof:geomhash": "c362a07ec1dacdc6f288623946bd8d01",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914049443,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588271,
@@ -86,7 +85,6 @@
         "wing_id": 1763588269
       },
       {
-        "[\n      \"flight\"\n    ]_id": 1914049443,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588271,
@@ -109,7 +107,7 @@
       102527513,
       102555091
     ],
-    "wof:lastmodified": 1716914730,
+    "wof:lastmodified": 1716929370,
     "wof:name": "UA565 (YYZ-SFO)",
     "wof:parent_id": 1763588275,
     "wof:placetype": "custom",

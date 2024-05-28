@@ -71,7 +71,6 @@
     "wof:geomhash": "5f8ba203e186fe379420b736bcf5de4f",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914035377,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588271,
@@ -87,7 +86,6 @@
         "wing_id": 1763588269
       },
       {
-        "[\n      \"flight\"\n    ]_id": 1914035377,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588271,
@@ -110,7 +108,7 @@
       1763588309,
       1159283697
     ],
-    "wof:lastmodified": 1716655529,
+    "wof:lastmodified": 1716929369,
     "wof:name": "UA2001 (SFO-EWR)",
     "wof:parent_id": 1763588309,
     "wof:placetype": "custom",

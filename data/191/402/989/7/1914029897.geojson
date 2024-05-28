@@ -50,7 +50,6 @@
     "wof:geomhash": "07bfd75b358269393c92373b424876ce",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914029897,
         "custom_id": 1914029897,
         "flight_id": 1914029897
       }
@@ -62,7 +61,7 @@
       102551487,
       1159284153
     ],
-    "wof:lastmodified": 1716655520,
+    "wof:lastmodified": 1716929370,
     "wof:name": "CI5346 (TPE-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "custom",

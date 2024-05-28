@@ -70,7 +70,6 @@
     "wof:geomhash": "a2498fe603884edb23014f03e0e3c121",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914052943,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588271,
@@ -86,7 +85,6 @@
         "wing_id": 1763588269
       },
       {
-        "[\n      \"flight\"\n    ]_id": 1914052943,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588271,
@@ -109,7 +107,7 @@
       102527513,
       1159285413
     ],
-    "wof:lastmodified": 1716914725,
+    "wof:lastmodified": 1716929369,
     "wof:name": "UA1684 (SFO-LIH)",
     "wof:parent_id": 1763588309,
     "wof:placetype": "custom",

@@ -71,7 +71,6 @@
     "wof:geomhash": "ffd2c7b34797175c51fc3517b1c4b69d",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914043655,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588271,
@@ -87,7 +86,6 @@
         "wing_id": 1763588269
       },
       {
-        "[\n      \"flight\"\n    ]_id": 1914043655,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588271,
@@ -110,7 +108,7 @@
       1763588329,
       1159283597
     ],
-    "wof:lastmodified": 1716741831,
+    "wof:lastmodified": 1716929369,
     "wof:name": "UA1721 (SFO-KOA)",
     "wof:parent_id": 1763588329,
     "wof:placetype": "custom",

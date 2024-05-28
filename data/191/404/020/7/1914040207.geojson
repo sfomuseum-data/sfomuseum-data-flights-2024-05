@@ -70,7 +70,6 @@
     "wof:geomhash": "f16008bc2ad68c6d1bc593247c6c74a9",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914040207,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588271,
@@ -86,7 +85,6 @@
         "wing_id": 1763588269
       },
       {
-        "[\n      \"flight\"\n    ]_id": 1914040207,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588271,
@@ -109,7 +107,7 @@
       1159283697,
       1528104577
     ],
-    "wof:lastmodified": 1716741809,
+    "wof:lastmodified": 1716929368,
     "wof:name": "UA447 (LAX-SFO)",
     "wof:parent_id": 1763588281,
     "wof:placetype": "custom",

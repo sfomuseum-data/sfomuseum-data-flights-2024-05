@@ -70,7 +70,6 @@
     "wof:geomhash": "ba4d31d1826c6198b5ffa8fdb1249c5d",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914047373,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588125,
@@ -86,7 +85,6 @@
         "wing_id": 1763588123
       },
       {
-        "[\n      \"flight\"\n    ]_id": 1914047373,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588125,
@@ -109,7 +107,7 @@
       102527513,
       102534365
     ],
-    "wof:lastmodified": 1716914715,
+    "wof:lastmodified": 1716929370,
     "wof:name": "AS41 (JFK-SFO)",
     "wof:parent_id": 1763588131,
     "wof:placetype": "custom",

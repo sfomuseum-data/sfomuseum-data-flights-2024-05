@@ -71,7 +71,6 @@
     "wof:geomhash": "9f2aefec298b0356dc0b4065c5b61f73",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914035347,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588271,
@@ -87,7 +86,6 @@
         "wing_id": 1763588269
       },
       {
-        "[\n      \"flight\"\n    ]_id": 1914035347,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588271,
@@ -110,7 +108,7 @@
       102534217,
       102527513
     ],
-    "wof:lastmodified": 1716655529,
+    "wof:lastmodified": 1716929369,
     "wof:name": "UA1878 (SFO-JAC)",
     "wof:parent_id": 1763588285,
     "wof:placetype": "custom",

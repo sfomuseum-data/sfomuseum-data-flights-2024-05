@@ -70,7 +70,6 @@
     "wof:geomhash": "a0e250e9237d15725a2a6f51d6b7a6b6",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914033349,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588125,
@@ -86,7 +85,6 @@
         "wing_id": 1763588123
       },
       {
-        "[\n      \"flight\"\n    ]_id": 1914033349,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588125,
@@ -109,7 +107,7 @@
       102527513,
       1159283813
     ],
-    "wof:lastmodified": 1716655532,
+    "wof:lastmodified": 1716929369,
     "wof:name": "AS1187 (SFO-PDX)",
     "wof:parent_id": 1763588131,
     "wof:placetype": "custom",

@@ -66,7 +66,6 @@
     "wof:geomhash": "f16008bc2ad68c6d1bc593247c6c74a9",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914049273,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588335,
@@ -82,7 +81,6 @@
         "wing_id": 1763588269
       },
       {
-        "[\n      \"flight\"\n    ]_id": 1914049273,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588335,
@@ -105,7 +103,7 @@
       1159285413,
       1763588339
     ],
-    "wof:lastmodified": 1716914728,
+    "wof:lastmodified": 1716929370,
     "wof:name": "UA2234 (LAX-SFO)",
     "wof:parent_id": 1763588339,
     "wof:placetype": "custom",

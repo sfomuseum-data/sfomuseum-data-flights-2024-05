@@ -71,7 +71,6 @@
     "wof:geomhash": "1348792a172720778d3219cc18ccd8ee",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914049977,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588177,
@@ -87,7 +86,6 @@
         "wing_id": 1763588175
       },
       {
-        "[\n      \"flight\"\n    ]_id": 1914049977,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588177,
@@ -110,7 +108,7 @@
       1159284021,
       1159289411
     ],
-    "wof:lastmodified": 1716914734,
+    "wof:lastmodified": 1716929370,
     "wof:name": "AA234 (SFO-JFK)",
     "wof:parent_id": 1763588219,
     "wof:placetype": "custom",

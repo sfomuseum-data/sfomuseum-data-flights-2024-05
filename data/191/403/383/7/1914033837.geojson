@@ -65,7 +65,6 @@
     "wof:geomhash": "45e7108794d81a2dcecee3acf14ea6a4",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914033837,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588371,
@@ -81,7 +80,6 @@
         "wing_id": 1763588369
       },
       {
-        "[\n      \"flight\"\n    ]_id": 1914033837,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588371,
@@ -103,7 +101,7 @@
       1159289993,
       102550529
     ],
-    "wof:lastmodified": 1716655534,
+    "wof:lastmodified": 1716929369,
     "wof:name": "CZ660 (SFO-WUH)",
     "wof:parent_id": 1763588409,
     "wof:placetype": "custom",

@@ -71,7 +71,6 @@
     "wof:geomhash": "d17d7e3187ba5afa3de1a7310fca2526",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914039231,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588177,
@@ -87,7 +86,6 @@
         "wing_id": 1763588175
       },
       {
-        "[\n      \"flight\"\n    ]_id": 1914039231,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588177,
@@ -110,7 +108,7 @@
       1779770723,
       1159289411
     ],
-    "wof:lastmodified": 1716741822,
+    "wof:lastmodified": 1716929370,
     "wof:name": "B6577 (FLL-SFO)",
     "wof:parent_id": 1763588181,
     "wof:placetype": "custom",

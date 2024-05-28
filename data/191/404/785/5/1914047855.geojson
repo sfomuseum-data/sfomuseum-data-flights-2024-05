@@ -71,7 +71,6 @@
     "wof:geomhash": "24b8b627208edff0ed857058cce4fc5a",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914047855,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588233,
@@ -87,7 +86,6 @@
         "wing_id": 1763588123
       },
       {
-        "[\n      \"flight\"\n    ]_id": 1914047855,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588233,
@@ -110,7 +108,7 @@
       1763588243,
       1159284613
     ],
-    "wof:lastmodified": 1716914718,
+    "wof:lastmodified": 1716929370,
     "wof:name": "DL1093 (SLC-SFO)",
     "wof:parent_id": 1763588243,
     "wof:placetype": "custom",

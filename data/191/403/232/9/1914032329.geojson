@@ -70,7 +70,6 @@
     "wof:geomhash": "05e474f4bf1eb5ae110c20d94aac828f",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914032329,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588177,
@@ -86,7 +85,6 @@
         "wing_id": 1763588175
       },
       {
-        "[\n      \"flight\"\n    ]_id": 1914032329,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588177,
@@ -109,7 +107,7 @@
       1763588209,
       1159285081
     ],
-    "wof:lastmodified": 1716655523,
+    "wof:lastmodified": 1716929368,
     "wof:name": "AA651 (SFO-MIA)",
     "wof:parent_id": 1763588209,
     "wof:placetype": "custom",

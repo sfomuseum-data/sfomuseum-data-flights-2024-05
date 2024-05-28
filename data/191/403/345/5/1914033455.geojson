@@ -70,7 +70,6 @@
     "wof:geomhash": "f1e29c4a83094711ef061292cfad3358",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914033455,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588125,
@@ -86,7 +85,6 @@
         "wing_id": 1763588123
       },
       {
-        "[\n      \"flight\"\n    ]_id": 1914033455,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588125,
@@ -109,7 +107,7 @@
       1763588145,
       1159283849
     ],
-    "wof:lastmodified": 1716655532,
+    "wof:lastmodified": 1716929369,
     "wof:name": "AS512 (SFO-AUS)",
     "wof:parent_id": 1763588145,
     "wof:placetype": "custom",

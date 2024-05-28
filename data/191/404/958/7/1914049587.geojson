@@ -69,7 +69,6 @@
     "wof:geomhash": "bfe9b4dfbd612ca8de6bd9460273f90d",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914049587,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588433,
@@ -85,7 +84,6 @@
         "wing_id": 1763588369
       },
       {
-        "[\n      \"flight\"\n    ]_id": 1914049587,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588433,
@@ -108,7 +106,7 @@
       1159285413,
       1763588453
     ],
-    "wof:lastmodified": 1716914731,
+    "wof:lastmodified": 1716929370,
     "wof:name": "UA969 (AMS-SFO)",
     "wof:parent_id": 1763588453,
     "wof:placetype": "custom",

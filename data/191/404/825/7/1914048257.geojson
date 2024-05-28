@@ -58,7 +58,6 @@
     "wof:geomhash": "e4ae4c60ed0a76df38dbcfaaa5dd6a55",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914048257,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588371,
@@ -74,7 +73,6 @@
         "wing_id": 1763588369
       },
       {
-        "[\n      \"flight\"\n    ]_id": 1914048257,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588371,
@@ -95,7 +93,7 @@
       1159284489,
       1763588423
     ],
-    "wof:lastmodified": 1716914721,
+    "wof:lastmodified": 1716929370,
     "wof:name": "HA42 (OGG-SFO)",
     "wof:parent_id": 1763588423,
     "wof:placetype": "custom",

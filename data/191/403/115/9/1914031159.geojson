@@ -66,7 +66,6 @@
     "wof:geomhash": "736fe0d2ebd38878be6950e82908a686",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914031159,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588177,
@@ -82,7 +81,6 @@
         "wing_id": 1763588175
       },
       {
-        "[\n      \"flight\"\n    ]_id": 1914031159,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588177,
@@ -104,7 +102,7 @@
       102527513,
       102531189
     ],
-    "wof:lastmodified": 1716655515,
+    "wof:lastmodified": 1716929368,
     "wof:name": "WN330 (DEN-SFO)",
     "wof:parent_id": 1763588185,
     "wof:placetype": "custom",

@@ -70,7 +70,6 @@
     "wof:geomhash": "3123a4aff4021144fa8973299956ba97",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914031795,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588335,
@@ -86,7 +85,6 @@
         "wing_id": 1763588269
       },
       {
-        "[\n      \"flight\"\n    ]_id": 1914031795,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588335,
@@ -109,7 +107,7 @@
       1763588353,
       1159284333
     ],
-    "wof:lastmodified": 1716655519,
+    "wof:lastmodified": 1716929368,
     "wof:name": "UA737 (SEA-SFO)",
     "wof:parent_id": 1763588353,
     "wof:placetype": "custom",

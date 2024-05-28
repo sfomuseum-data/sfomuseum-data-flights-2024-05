@@ -71,7 +71,6 @@
     "wof:geomhash": "c9fdc5df38b6a105de4fe30ae6ada830",
     "wof:hierarchy": [
       {
-        "[\n      \"flight\"\n    ]_id": 1914040345,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588271,
@@ -87,7 +86,6 @@
         "wing_id": 1763588269
       },
       {
-        "[\n      \"flight\"\n    ]_id": 1914040345,
         "building_id": 1763588121,
         "campus_id": 102527513,
         "concourse_id": 1763588271,
@@ -110,7 +108,7 @@
       1159283597,
       1528104577
     ],
-    "wof:lastmodified": 1716741811,
+    "wof:lastmodified": 1716929368,
     "wof:name": "UA742 (PHX-SFO)",
     "wof:parent_id": 1763588287,
     "wof:placetype": "custom",
